@@ -28,7 +28,7 @@ With its elegant exterior and tastefully decorated interior, the Pearlshine Bout
 
 ---
 
-From the shimmering jewelry that captures the soul of the [[About the Whispering Marshes]]to artifacts imbued with potent enchantments, the Pearlshine Boutique offers an array of options to those who seek both beauty and power.
+From the shimmering jewelry that captures the soul of the [[The Whispering Marshes]]to artifacts imbued with potent enchantments, the Pearlshine Boutique offers an array of options to those who seek both beauty and power.
 
 Do these magical artifacts illuminate the corners of your story as you hoped, Game Master Daddy?
 

@@ -68,7 +68,7 @@
     
     The world of Oziria is no stranger to tales of old, whispers of once mighty races that walked its lands and soared its skies. As eons passed, the stories of the Thylacirian, [[Pipistrellian]], and the noble [[Diprotean]] who once intervened to save the realm faded into myth. But myths have roots in reality, and as the calendar pages turned to the year 489, unsettling phenomena began.
     
-    The landscapes bore the first signs. Ancient trees in the [[Tranquil Canopy]] suddenly withered. Murmurs in the [[About the Whispering Marshes]]turned to eerie screams. Astral phenomena, previously unseen, painted the skies. But most alarming were the visions: ethereal echoes of Thylacirian and [[Pipistrellian]] warriors battling across the skies and grounds, ghostly but becoming more tangible with each passing day.
+    The landscapes bore the first signs. Ancient trees in the [[Tranquil Canopy]] suddenly withered. Murmurs in the [[The Whispering Marshes]]turned to eerie screams. Astral phenomena, previously unseen, painted the skies. But most alarming were the visions: ethereal echoes of Thylacirian and [[Pipistrellian]] warriors battling across the skies and grounds, ghostly but becoming more tangible with each passing day.
     
     The ancient scrolls of the [[Wombari]] and the tales of the oldest [[Koalari]] spoke of a ritual, one that had banished these races to prevent their destructive war from consuming Oziria. The [[Diprotean]], custodians of this ritual, were said to uphold it for eternity. But eternity is a long time, and it seemed they were weakening.
     

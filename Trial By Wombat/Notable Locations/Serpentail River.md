@@ -1,7 +1,7 @@
 ##### The Flowing Lifeline of Whispering Marshes
 
 **Geographical Span:**  
-Emerging from the mystical springs of Eelwater Lake, the Serpentail River weaves through the [[About the Whispering Marshes]]and culminates its journey by meeting the Sea of Lurid Mists.
+Emerging from the mystical springs of Eelwater Lake, the Serpentail River weaves through the [[The Whispering Marshes]]and culminates its journey by meeting the Sea of Lurid Mists.
 
 **Physical Characteristics:**  
 A shimmering river, paradoxically clear despite flowing through boggy terrain. The riverbed is a kaleidoscope of colored pebbles, ancient shells, and arcane crystals.

@@ -37,7 +37,7 @@ In terms of dynamics, the [[Canidor]] and [[Crocosian]] often try to expand thei
 | [[Quokkan]]        | [[Rotrest]] (Rottnest Island)                 |
 | [[Wallabian]]      | [[Valleybrook]] (Kangaroo Valley)             |
 | [[Kangaroon]]      | [[Sunbaked Expanse]] (Outback)                |
-| [[Platypian]]      | [[About the Whispering Marshes]] (Murray-Darling Basin) |
+| [[Platypian]]      | [[The Whispering Marshes]] (Murray-Darling Basin) |
 | Tasmnanianites | [[Shadowed Highlands]] (Tasmania)             |
 | [[Wombari]]        | [[Earthshaper Caverns]] (Blue Mountains)      |
 | [[Echidnarian]]    | [[Echomist Forest]] (Pinnacles)               |

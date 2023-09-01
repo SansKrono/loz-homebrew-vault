@@ -6,7 +6,7 @@
 > ##### Overview
 > |  |   |
 > | ---- | ---- |
-> | Homeland | [[About the Whispering Marshes]]
+> | Homeland | [[The Whispering Marshes]]
 > | **Population** | 200 |
 > | **Leaders** | [[Dr. Webbly]] & [[Elder Billee]] |
 > | **Common Citizen Races** | [[Platypian]] |
@@ -16,10 +16,10 @@
 > 
 
 
-Though dwarfed by the larger cities and enclaves of Oziria, Mirebrook’s essence is distilled from the very purity of its waters—a community grounded in the harmonious balance between mystical traditions and empirical remedies. Whether under the care of Dr. Weebly or seeking spiritual insight from Elder Billee, one can only find solace in this humble corner of the [[About the Whispering Marshes]]
+Though dwarfed by the larger cities and enclaves of Oziria, Mirebrook’s essence is distilled from the very purity of its waters—a community grounded in the harmonious balance between mystical traditions and empirical remedies. Whether under the care of Dr. Weebly or seeking spiritual insight from Elder Billee, one can only find solace in this humble corner of the [[The Whispering Marshes]]
 
 **Geographical Location:**  
-Secluded within the [[About the Whispering Marshes]] caressed by the meandering [[Serpentail River]].
+Secluded within the [[The Whispering Marshes]] caressed by the meandering [[Serpentail River]].
 
 **Signature Traits:**  
 A village renowned for its sparkling waterways, contrasting with its marshland environment. A sanctuary of clarity amid the bog.

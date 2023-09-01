@@ -1,6 +1,6 @@
 ### Enclave of Everbreeze - A Joyful Metropolis in the Heart of Oziria
 
-Just south of The [[About the Whispering Marshes]] an everlasting light breeze blankets the coastal enclave of Everbreeze. Hugging a large crack of water that thins inland (known as the chomp), the enclave hosts a diverse population of all races (Except for the Todek of course). The town center bustles with residents talking about their day, sharing recipes and talking about their crafts with uplifting spirit. Despite it's large population, its original inhabitants, who migrated from the Rivergate after the great cataclysm, foster a peaceful community.
+Just south of The [[The Whispering Marshes]] an everlasting light breeze blankets the coastal enclave of Everbreeze. Hugging a large crack of water that thins inland (known as the chomp), the enclave hosts a diverse population of all races (Except for the Todek of course). The town center bustles with residents talking about their day, sharing recipes and talking about their crafts with uplifting spirit. Despite it's large population, its original inhabitants, who migrated from the Rivergate after the great cataclysm, foster a peaceful community.
 
 **Size of Province:**  
 A sprawling cityscape encompassed by rolling hills and intersected by the River Serentide.
