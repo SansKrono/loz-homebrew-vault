@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Enclaves/Rivergate.md",
+                "file": "Trial By Wombat/Races/Canidor.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Enclaves/Rivergate.md",
+                "file": "Trial By Wombat/Races/Canidor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Enclaves/Rivergate.md",
+                "file": "Trial By Wombat/Races/Canidor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Enclaves/Rivergate.md"
+                "file": "Trial By Wombat/Races/Canidor.md"
               }
             }
           },
@@ -174,8 +174,11 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4486aa36936c2321",
+  "active": "21c445a73e27561d",
   "lastOpenFiles": [
+    "Trial By Wombat/Races/Prompts/Prompts.md",
+    "Trial By Wombat/Races/Canidor.md",
+    "Trial By Wombat/Enclaves/Rivergate.md",
     "ref",
     "Trial By Wombat/Enclaves/Sunbridge.md",
     "Trial By Wombat/Enclaves/Twilight Forest.md",
@@ -186,7 +189,6 @@
     "Trial By Wombat/Races/Wallabian.md",
     "Trial By Wombat/Races/Quokkan.md",
     "Trial By Wombat/Towns/The Whispering Marshes/Mirebrook.md",
-    "Trial By Wombat/Races/Canidor.md",
     "Trial By Wombat/Races/Petaurii.md",
     "Trial By Wombat/Races/Koalari.md",
     "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
@@ -200,9 +202,7 @@
     "Trial By Wombat/Homelands/Shadowed Highlands",
     "Trial By Wombat/Homelands/Rotrest",
     "Trial By Wombat/Homelands/Reddune",
-    "Trial By Wombat/Homelands/Nightleaf",
-    "Trial By Wombat/Enclaves/Rivergate.md",
-    "Trial By Wombat/DM Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
+    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
     "Styling Templates/Callouts.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
     "ref/5e References/mechanics/Spells.md",
@@ -215,8 +215,8 @@
     "ref/5e References/mechanics/The Environment.md",
     "Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
-    "Trial By Wombat/DM Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
-    "Trial By Wombat/DM Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
+    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
+    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "Trial By Wombat/Images/Mirebrook.png",
     "Trial By Wombat/Images/Homelands/Whispering Marshes.png",
     "Trial By Wombat/Images/Homelands/Earthshaper Caverns.png.png",
