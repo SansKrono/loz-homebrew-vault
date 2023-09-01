@@ -4,7 +4,7 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Take me home"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "landing page in progress."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
@@ -19,7 +19,7 @@ SITE_TITLE = "Lozbrew - Oziria"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "lozbrew.netlify.app"
+SITE_URL = "https://loz.netlify.app/"
 # (Optional) Site Timezone
 TIMEZONE = "Australia/Sydney"
 ZOLA_VERSION = "0.15.2"
