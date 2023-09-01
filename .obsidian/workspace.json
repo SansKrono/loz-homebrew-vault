@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Items/All-Weather Marshmantle.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Homelands/Waterscale.md",
+                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Homelands/Waterscale.md",
+                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Homelands/Waterscale.md"
+                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md"
               }
             }
           },
@@ -187,11 +186,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "6e7d95c52488c57e",
+  "active": "21c445a73e27561d",
   "lastOpenFiles": [
+    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
+    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes.md",
+    "Trial By Wombat/Shops/Song of the Depths.md",
+    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Shops/Lanterns of Lumina.md",
+    "Trial By Wombat/Shops/Marshroot Herbal Haven.md",
+    "Trial By Wombat/Shops/Pearlshine Boutique.md",
+    "Trial By Wombat/Items/Water Sprites.md",
+    "Trial By Wombat/Shops/Mystwater General Store.md",
+    "Trial By Wombat/Items/All-Weather Marshmantle.md",
+    "Trial By Wombat/Homelands/Waterscale.md",
     "Trial By Wombat/Homelands/Valleybrook.md",
     "Trial By Wombat/Homelands/Tranquil Canopy.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes.md",
     "Trial By Wombat/Homelands/Sunbaked Expanse.md",
     "Trial By Wombat/Homelands/Stoneclaw.md",
     "Trial By Wombat/Homelands/Shadowmire.md",
@@ -203,18 +213,7 @@
     "Trial By Wombat/Homelands/Echohaven.md",
     "Trial By Wombat/Homelands/Grasstide.md",
     "Trial By Wombat/Homelands/Echomist Forest.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
     "Trial By Wombat/Races/Wombari.md",
-    "Trial By Wombat/Races/Wallabian.md",
-    "Trial By Wombat/Races/Todek.md",
-    "Trial By Wombat/Races/Thylacirian.md",
-    "Trial By Wombat/Races/Thornar.md",
-    "Trial By Wombat/Races/Tasmanianites.md",
-    "Trial By Wombat/Races/Quokkan.md",
-    "Trial By Wombat/Races/Platypian.md",
-    "Trial By Wombat/Races/Pipistrellian.md",
-    "Trial By Wombat/Races/Petaurii.md",
-    "Trial By Wombat/Races/Kookari.md",
     "Trial By Wombat/Images/Earthshaper Caverns.png",
     "Trial By Wombat/Images/Azure Depths.png",
     "Trial By Wombat/Images/Kangaroon.png",
