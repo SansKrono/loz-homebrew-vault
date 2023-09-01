@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome to Oziria.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Oziria.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to Oziria.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to Oziria.md"
+                "file": "home.md"
               }
             }
           },
@@ -181,7 +181,7 @@
   "active": "4486aa36936c2321",
   "lastOpenFiles": [
     "image_url_here.md",
-    "Welcome to Oziria.md",
+    "home.md",
     "(link_to_your_content_here).md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
     "netlify.toml",

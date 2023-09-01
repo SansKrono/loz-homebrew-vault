@@ -6,9 +6,9 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "landing page in progress."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "Welcome to Oziria"
+LANDING_PAGE = "home"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome to Oziria!"
 PYTHON_VERSION = "3.8"
@@ -21,7 +21,7 @@ SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
 SITE_URL = "lozbrew.netlify.app"
 # (Optional) Site Timezone
-TIMEZONE = "Asia/Hong_Kong"
+TIMEZONE = "Australia/Sydney"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
