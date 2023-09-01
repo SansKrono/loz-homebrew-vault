@@ -1,4 +1,4 @@
-The Galehound is often seen as a mystical omen among the races most connected with the sky. Kangaroons in the Sunbaked Expanse might see a Galehound's appearance as a sign that Runnal has turned his gaze toward them. Similarly, the Quokkans of Rotrest, an island surrounded by ever-changing weather, might also respect and admire Galehounds as swift, elusive emissaries of the sky.
+The Galehound is often seen as a mystical omen among the races most connected with the sky. [[Kangaroon]] in the [[Sunbaked Expanse]] might see a Galehound's appearance as a sign that [[Runnal, the Sky Spirit]] has turned his gaze toward them. Similarly, the [[Quokkan]] of [[Rotrest]], an island surrounded by ever-changing weather, might also respect and admire Galehounds as swift, elusive emissaries of the sky.
 
 Wizards or druids who specialize in air magic might desire a Galehound as a familiar or companion, while rogues and rangers may look to these creatures as symbols of freedom and unbridled movement.
 

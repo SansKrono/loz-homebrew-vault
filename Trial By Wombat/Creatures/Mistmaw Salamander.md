@@ -1,4 +1,4 @@
-Ozirians view these creatures as the enforcers of Jarak's will. Shamans in particular consider them sacred and sometimes seek them out for cryptic wisdom, knowing very well the risks involved in disturbing these guardians of the swamp. Their ability to manipulate time and accelerate decay means they're both revered and feared, echoing the dual nature of Jarak, the Swamp Spirit, himself.
+Ozirians view these creatures as the enforcers of [[Jarak, the Swamp Spirit]]'s will. Shamans in particular consider them sacred and sometimes seek them out for cryptic wisdom, knowing very well the risks involved in disturbing these guardians of the swamp. Their ability to manipulate time and accelerate decay means they're both revered and feared, echoing the dual nature of Jarak himself.
 
 ## Mistmaw Salamander
 

@@ -1,4 +1,4 @@
-The Wallabians believe encountering a Rockbound Hare while traversing the landscapes of Valleybrook is a sign of Bunyara's favor. Some even carry small talismans made of similar stone-like material as the hares, believing these relics enhance their connection with the land spirit and bring them luck.
+The [[Wallabian]] believe encountering a Rockbound Hare while traversing the landscapes of [[Valleybrook]] is a sign of [[Bunyara, the Land Spirit]]'s favor. Some even carry small talismans made of similar stone-like material as the hares, believing these relics enhance their connection with the land spirit and bring them luck.
 
 ## Rockbound Hare
 

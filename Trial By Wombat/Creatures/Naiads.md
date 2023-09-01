@@ -1,12 +1,13 @@
-## Naiad of Oziria
-
 In the mystical depths of the Whispering Marshes, Naiads serve as the ethereal guardians of the lakes and waterways. These aquatic fey are considered by the local [[Platypian]] communities to be celestial servitors of [[Murrundi, the Lake Spirit]]. Naiads often manifest as stunningly beautiful humanoid figures, their forms a swirl of translucent water and shimmering light. Their eyes, like deep pools, betray secrets only known to the very lakes they protect.
 
 ### Cultural Significance
 
 For the Platypians, these Naiads are beings of both fear and awe. Often seen as the keepers of the water's secrets, and by extension, the mysteries of life and existence, the Naiads are afforded a wide berth and are deeply respected. Ritual offerings of rare reeds, colorful pebbles, and fish are left at the banks of lakes as tokens of respect, and Platypian folklore is filled with stories of these mesmerizing guardians granting blessings or doling out curses based on how these offerings are received.
 
-It's commonly believed among the Platypians that anyone who earns the favor of a Naiad is granted special insights into the fluid mysteries of Murrundi's realms, while those who anger them are destined to wander aimlessly through the misty marshlands, their reflections forever distorted in the waters they once defiled.
+It's commonly believed among the Platypians that anyone who earns the favor of a Naiad is granted special insights into the fluid mysteries of [[Murrundi, the Lake Spirit]]'s realms, while those who anger them are destined to wander aimlessly through the misty marshlands, their reflections forever distorted in the waters they once defiled.
+
+## Naiad of Oziria
+
 _Medium fey, neutral_
 
 ---
