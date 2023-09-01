@@ -20,11 +20,11 @@ A shimmering river, paradoxically clear despite flowing through boggy terrain. T
 - The river serves as a baptismal ground, a purifying force that the young are introduced to as a rite of passage.
 
 **Navigation and Transport:**  
-- A popular route for traders of enchanted water and rare herbs, especially from Mirebrook.
+- A popular route for traders of enchanted water and rare herbs, especially from [[Mirebrook]].
 - Magical rafts, guided by water elementals, make transportation both secure and efficient.
 
 **Risks and Hazards:**  
-- Tempting but capricious Naiads dwell near the bends, who occasionally coax travelers into playful—but sometimes dangerous—trials.
+- Tempting but capricious [[Naiads]] dwell near the bends, who occasionally coax travelers into playful—but sometimes dangerous—trials.
 - Silt Serpents, magical beings that can manipulate mud and water, often pose a challenge to unwary fishermen.
 
 **Lore and Legend:**  

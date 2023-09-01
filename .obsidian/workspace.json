@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Shops/Mystwater General Store.md",
+                "file": "Trial By Wombat/Creatures/Rockbound Hare.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Races/Petaurii.md",
+                "file": "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Races/Petaurii.md",
+                "file": "Trial By Wombat/Creatures/Rockbound Hare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Races/Petaurii.md",
+                "file": "Trial By Wombat/Creatures/Rockbound Hare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Races/Petaurii.md"
+                "file": "Trial By Wombat/Creatures/Rockbound Hare.md"
               }
             }
           },
@@ -185,47 +185,47 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4486aa36936c2321",
+  "active": "49a22134cebbc596",
   "lastOpenFiles": [
-    "Trial By Wombat/Homelands/Valleybrook",
-    "Trial By Wombat/Homelands/Waterscale",
-    "Trial By Wombat/Homelands/Earthshaper Caverns",
-    "Trial By Wombat/Homelands/The Whispering Marshes",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
-    "Trial By Wombat/Shops/Mystwater General Store.md",
-    "Trial By Wombat/Shops/Aquatic Atrium.md",
-    "Trial By Wombat/Shops/Crystal Core Emporium.md",
-    "Trial By Wombat/Shops/Earthbound Essentials.md",
-    "Trial By Wombat/Shops/Echoic Instruments.md",
-    "Trial By Wombat/Shops/Granite Gourmet.md",
-    "Trial By Wombat/Shops/Grotto Grimoires.md",
-    "Trial By Wombat/Shops/Lanterns of Lumina.md",
-    "Trial By Wombat/Shops/Luminescent Lanterns.md",
-    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Shops/Marshroot Herbal Haven.md",
-    "Trial By Wombat/Shops/Pearlshine Boutique.md",
-    "Trial By Wombat/Shops/Petrified Potions & Elixirs.md",
-    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
-    "Trial By Wombat/Shops/Sediment Styles & Attire.md",
-    "Trial By Wombat/Shops/Song of the Depths.md",
-    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
-    "Trial By Wombat/Shops/Tectonic Tomes & Scrolls.md",
-    "Trial By Wombat/Shops/The Deepforge.md",
-    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
-    "Trial By Wombat/Items/All-Weather Marshmantle.md",
-    "Trial By Wombat/Items/Water Sprites.md",
-    "Trial By Wombat/Homelands/Waterscale/Waterscale.md",
-    "Trial By Wombat/Images/Earthshaper Caverns.png",
+    "Trial By Wombat/Creatures/Spiritual Beasts.md",
+    "Trial By Wombat/Creatures/Rockbound Hare.md",
+    "Trial By Wombat/Creatures/Verdant Owl.md",
+    "Trial By Wombat/Creatures/Timewalker Reptid.md",
+    "Trial By Wombat/Creatures/Stormwing Falcon.md",
+    "Trial By Wombat/Creatures/Galehound.md",
+    "Trial By Wombat/Creatures/Moonshell Tortoise.md",
+    "Trial By Wombat/Creatures/Mistmaw Salamander.md",
+    "Trial By Wombat/Creatures/Gilded Gazelle.md",
+    "Trial By Wombat/Creatures/Abyssal Koi.md",
+    "Trial By Wombat/Creatures/Blossom Serpent.md",
+    "Trial By Wombat/DMTools/Overview Table.md",
+    "Trial By Wombat/Creatures/Naiads.md",
+    "Trial By Wombat/Notable Locations/Serpentail River.md",
+    "Trial By Wombat/Creatures",
+    "Trial By Wombat/Towns/Mirebrook.md",
+    "Trial By Wombat/Notable Locations/Redstone Caverns.md",
+    "Trial By Wombat/Notable Locations/Moonlit Pinnacles.md",
+    "Trial By Wombat/Notable Locations/Ghostwind peak.md",
+    "Trial By Wombat/Notable Locations/Echo's End.md",
+    "Trial By Wombat/Notable Locations/Dustshadow Wastes.md",
+    "Trial By Wombat/Notable Locations/Dragon's Breath Gorge.md",
+    "Trial By Wombat/Notable Locations/Crystalvein Mines.md",
+    "Trial By Wombat/Notable Locations/Azure Depths.md",
+    "Trial By Wombat/Lore/History/The Creation of Oziria.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Runnal, the Sky Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+    "Trial By Wombat/Lore/History",
+    "Trial By Wombat/Lore/Totemic Spirits",
+    "Trial By Wombat/Homelands/Tranquil Canopy/Shops 🚧",
+    "Trial By Wombat/Homelands/Waterscale/Shops 🚧",
+    "Trial By Wombat/Homelands/Valleybrook/Shops 🚧",
+    "Trial By Wombat/Homelands/Sunbaked Expanse/Shops 🚧",
+    "Trial By Wombat/Homelands/Stoneclaw/Shops 🚧",
+    "Trial By Wombat/Homelands/Shadowmire/Shops 🚧",
+    "Trial By Wombat/Homelands/Shadowed Highlands/Shops 🚧",
     "Trial By Wombat/Images/Azure Depths.png",
+    "Trial By Wombat/Images/Earthshaper Caverns.png",
     "Trial By Wombat/Images/Kangaroon.png",
-    "Trial By Wombat/Shops",
-    "Trial By Wombat/Items",
-    "netlify-new.toml",
-    "ref",
-    "Trial By Wombat/Homelands/Waterscale",
-    "Trial By Wombat/Homelands/Valleybrook",
-    "Trial By Wombat/Homelands/Tranquil Canopy",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
     "Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
