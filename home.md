@@ -9,18 +9,18 @@ Oziria is a rich and vibrant fantasy world that features a variety of unique rac
 
 ## Inhabitants of Oziria
 
-### Quokkari
+### Quokkan
 - Cheerful and playful race from the Enchanted Isles.
 - Natural ability to bring joy and merriment to others.
 - Harness magical energies for enhanced abilities.
 - Dwell among floating gardens and shimmering waterfalls.
 
-### Wallabyans
+### Wallabian
 - Agile and adaptable creatures of the Great Grasslands.
 - Keen senses to navigate the vast plains and grassy expanse.
 - Sacred stone circles and hidden sites hold their history.
 
-### Kangaroons
+### Kangaroon
 - Resilient beings of the Sunbaked Expanse.
 - Thrive in harsh environments using strength and resilience.
 - Roam amidst red sands, oases, and ancient ruins.
