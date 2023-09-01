@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Creatures/Verdant Owl.md",
+                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Creatures/Verdant Owl.md",
+                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Creatures/Verdant Owl.md",
+                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Creatures/Verdant Owl.md"
+                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md"
               }
             }
           },
@@ -187,10 +187,14 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
+    "Trial By Wombat/Lookups/Ozirian Races.md",
+    "Trial By Wombat/Lookups/Ozirian Creatures.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+    "Trial By Wombat/Creatures/Verdant Owl.md",
+    "Trial By Wombat/Lookups",
     "Trial By Wombat/Creatures/Timewalker Reptid.md",
     "Trial By Wombat/Creatures/Stormwing Falcon.md",
     "Trial By Wombat/Creatures/Rockbound Hare.md",
-    "Trial By Wombat/Creatures/Ozirian Creatures.md",
     "Trial By Wombat/Creatures/Naiads.md",
     "Trial By Wombat/Creatures/Moonshell Tortoise.md",
     "Trial By Wombat/Creatures/Mistmaw Salamander.md",
@@ -202,7 +206,6 @@
     "ref/5e References/npcs/Assassin.md",
     "ref/5e References/mechanics/Creatures.md",
     "ref/5e References/creatures/Ape.md",
-    "Trial By Wombat/Creatures/Verdant Owl.md",
     "Trial By Wombat/Creatures/Spiritual Beasts.md",
     "Trial By Wombat/DMTools/Overview Table.md",
     "Trial By Wombat/Notable Locations/Serpentail River.md",
@@ -212,8 +215,6 @@
     "Trial By Wombat/Notable Locations/Moonlit Pinnacles.md",
     "Trial By Wombat/Notable Locations/Ghostwind peak.md",
     "Trial By Wombat/Notable Locations/Echo's End.md",
-    "Trial By Wombat/Notable Locations/Dustshadow Wastes.md",
-    "Trial By Wombat/Notable Locations/Dragon's Breath Gorge.md",
     "Trial By Wombat/Lore/History",
     "Trial By Wombat/Lore/Totemic Spirits",
     "Trial By Wombat/Homelands/Tranquil Canopy/Shops 🚧",
@@ -222,7 +223,6 @@
     "Trial By Wombat/Homelands/Sunbaked Expanse/Shops 🚧",
     "Trial By Wombat/Homelands/Stoneclaw/Shops 🚧",
     "Trial By Wombat/Homelands/Shadowmire/Shops 🚧",
-    "Trial By Wombat/Homelands/Shadowed Highlands/Shops 🚧",
     "Trial By Wombat/Images/Azure Depths.png",
     "Trial By Wombat/Images/Earthshaper Caverns.png",
     "Trial By Wombat/Images/Kangaroon.png",

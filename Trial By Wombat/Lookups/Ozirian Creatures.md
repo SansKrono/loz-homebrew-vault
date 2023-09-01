@@ -1,7 +1,5 @@
 #OzirianCreatures
 
-A list of all of the creatures you will find in the lands of Oziria.
-
 - [[Abyssal Koi]]
 - [[Blossom Serpent]]
 - [[Galehound]]
