@@ -1,7 +1,7 @@
 
-# Welcome to Oziria: A World of Magic and Harmony
+# Welcome to Oziria: A World of Magic, Might and Mystery
 
-Explore the enchanting realm of Oziria, a land where magic and harmony intertwine to create a world of diverse creatures, breathtaking landscapes, and ancient mysteries. Let your imagination soar as you discover the stories, races, and interactions that define this fantastical realm.
+Explore the enchanting realm of Oziria, a land where magic and harmony intertwine to create a world of diverse creatures, breath-taking landscapes, and ancient mysteries. Let your imagination soar as you discover the stories, races, and interactions that define this fantastical realm.
 
 ## About Oziria
 
