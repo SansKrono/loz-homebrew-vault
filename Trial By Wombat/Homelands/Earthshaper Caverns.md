@@ -14,9 +14,9 @@
 | **Craft Specialty**      | Rare-metal weaponry and statues                                                                                                |
 
 
-## About [[Earthshaper Caverns]]
+## About Earthshaper Caverns
 
-Carved into the heart of the majestic Amethyst Range, the [[Earthshaper Caverns]] are a wonder. Stalactites and stalagmites form natural architecture, and the [[Wombari]] enhance these with intricate carvings. Glowing minerals light up the cave interiors, and underground springs provide freshwater. 
+Carved into the heart of the majestic Amethyst Range, the Earthshaper Caverns are a wonder. Stalactites and stalagmites form natural architecture, and the [[Wombari]] enhance these with intricate carvings. Glowing minerals light up the cave interiors, and underground springs provide freshwater. 
 
 Craftsmanship is at its peak here, with gem-encrusted artworks and sculptures. The [[Wombari]] are expert miners, and are at constant pace when digging new tunnels in search of gems and rare metals to infuse into their crafts, earning them merit as the main manufacturers and distributors of many tools, weapons and armour that spreads to the ends of Oziria.
 

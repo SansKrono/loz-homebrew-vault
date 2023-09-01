@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md",
+                "file": "Trial By Wombat/Homelands/Waterscale.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Homelands/Waterscale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Homelands/Waterscale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes.md"
+                "file": "Trial By Wombat/Homelands/Waterscale.md"
               }
             }
           },
@@ -187,37 +187,37 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "49a22134cebbc596",
+  "active": "6e7d95c52488c57e",
   "lastOpenFiles": [
-    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
+    "Trial By Wombat/Homelands/Valleybrook.md",
+    "Trial By Wombat/Homelands/Tranquil Canopy.md",
     "Trial By Wombat/Homelands/The Whispering Marshes.md",
-    "Trial By Wombat/Races/Kangaroon.md",
-    "Trial By Wombat/Shops/Crystal Core Emporium.md",
-    "Trial By Wombat/Shops/Grotto Grimoires.md",
-    "Trial By Wombat/Shops/Earthbound Essentials.md",
-    "Trial By Wombat/Shops/Echoic Instruments.md",
-    "Trial By Wombat/Shops/Sediment Styles & Attire.md",
-    "Trial By Wombat/Shops/Granite Gourmet.md",
-    "Trial By Wombat/Shops/Luminescent Lanterns.md",
-    "Trial By Wombat/Shops/Petrified Potions & Elixirs.md",
-    "Trial By Wombat/Shops/The Deepforge.md",
-    "Trial By Wombat/Shops/Tectonic Tomes & Scrolls.md",
-    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Homelands/Sunbaked Expanse.md",
+    "Trial By Wombat/Homelands/Stoneclaw.md",
+    "Trial By Wombat/Homelands/Shadowmire.md",
+    "Trial By Wombat/Homelands/Shadowed Highlands.md",
+    "Trial By Wombat/Homelands/Rotrest.md",
+    "Trial By Wombat/Homelands/Reddune.md",
+    "Trial By Wombat/Homelands/Nightleaf.md",
+    "Trial By Wombat/Homelands/Laughing Peak.md",
+    "Trial By Wombat/Homelands/Echohaven.md",
+    "Trial By Wombat/Homelands/Grasstide.md",
+    "Trial By Wombat/Homelands/Echomist Forest.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
+    "Trial By Wombat/Races/Wombari.md",
+    "Trial By Wombat/Races/Wallabian.md",
+    "Trial By Wombat/Races/Todek.md",
+    "Trial By Wombat/Races/Thylacirian.md",
+    "Trial By Wombat/Races/Thornar.md",
+    "Trial By Wombat/Races/Tasmanianites.md",
+    "Trial By Wombat/Races/Quokkan.md",
+    "Trial By Wombat/Races/Platypian.md",
+    "Trial By Wombat/Races/Pipistrellian.md",
+    "Trial By Wombat/Races/Petaurii.md",
+    "Trial By Wombat/Races/Kookari.md",
     "Trial By Wombat/Images/Earthshaper Caverns.png",
     "Trial By Wombat/Images/Azure Depths.png",
     "Trial By Wombat/Images/Kangaroon.png",
-    "Trial By Wombat/DMTools/Overview Table.md",
-    "Trial By Wombat/Items/Mystical Koi.md",
-    "Trial By Wombat/Items/Marshlight Beacon.md",
-    "Trial By Wombat/Items/Marsh-Woven Satchel of Holding.md",
-    "Trial By Wombat/Items/Lantern of Whispering Wisps.md",
-    "Trial By Wombat/Items/Lantern of the Revealing Mists.md",
-    "Trial By Wombat/Items/Lantern of Illusory Terrain.md",
-    "Trial By Wombat/Items/Lantern of Elemental Warding.md",
-    "Trial By Wombat/Items/Everflame Lantern.md",
-    "Trial By Wombat/Items/Ethereal Pearl Earrings.md",
-    "Trial By Wombat/Items/Charm of Marsh Navigation.md",
-    "Trial By Wombat/Items/Aquatic Aether.md",
     "Trial By Wombat/Shops",
     "Trial By Wombat/Items",
     "netlify-new.toml",

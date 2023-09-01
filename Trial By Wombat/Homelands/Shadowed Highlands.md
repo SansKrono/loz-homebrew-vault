@@ -1,6 +1,6 @@
-A rugged and misty landscape, the [[Shadowed Highlands]] are a collection of mountains, dense forests, and hidden valleys. The [[Tasmanianite]]s have carved out settlements in the mountain cliffs and the valleys below. Stone towers loom above, while below, the towns are illuminated by bioluminescent plants. The air is thick with the scent of ancient pine and the resonance of distant drums.
+A rugged and misty landscape, the Shadowed Highlands are a collection of mountains, dense forests, and hidden valleys. The [[Tasmanianite]]s have carved out settlements in the mountain cliffs and the valleys below. Stone towers loom above, while below, the towns are illuminated by bioluminescent plants. The air is thick with the scent of ancient pine and the resonance of distant drums.
 
-**The [[Shadowed Highlands]] - Province of the [[Tasmanianite]]s**
+**The Shadowed Highlands - Province of the [[Tasmanianite]]s**
 
 **Size of Province:**  
 Expansive territory of mountains, dense forests, and hidden valleys spanning across a vast and rugged terrain.
@@ -52,7 +52,7 @@ Compact and fortified stone dwellings carved into the mountainsides and valleys.
 9. **Mistwood Forest:** Dense forest rich in flora, fauna, and sources of [[Tasmanianite]] woodwork.
 10. **Distant Drum Outpost:** Frontier settlement near the borders, acting as a first line of defense and a trading post.
 
-With their intense spirit and undeniable resilience, the [[Tasmanianite]]s have made the [[Shadowed Highlands]] an impregnable fortress. The echoing drums and resonant howls are not just sounds but the heartbeat of a fierce and loyal people.
+With their intense spirit and undeniable resilience, the [[Tasmanianite]]s have made the Shadowed Highlands an impregnable fortress. The echoing drums and resonant howls are not just sounds but the heartbeat of a fierce and loyal people.
 
 ## Shops
 

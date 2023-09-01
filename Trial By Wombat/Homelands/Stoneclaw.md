@@ -1,6 +1,6 @@
-In the heart of the desert, [[Stoneclaw]] stands as an oasis fortress. Built from sunbaked bricks and guarded by sandstone statues, it's a bastion of desert culture. Water reservoirs are treasured, surrounded by date palm gardens. The [[Thornar]] are master potters and sand artists, often seen crafting intricate designs in town squares.
+In the heart of the desert, Stoneclaw stands as an oasis fortress. Built from sunbaked bricks and guarded by sandstone statues, it's a bastion of desert culture. Water reservoirs are treasured, surrounded by date palm gardens. The [[Thornar]] are master potters and sand artists, often seen crafting intricate designs in town squares.
 
-**[[Stoneclaw]] - Province of the [[Thornar]]**
+**Stoneclaw - Province of the [[Thornar]]**
 
 **Size of Province:**  
 Sprawling desert territory encompassing vast sand dunes, rocky outcrops, arid canyons, and rare oases.
@@ -55,7 +55,7 @@ Dwellings made of sunbaked bricks, built to resist the desert heat. Houses often
 9. **Fire Essence Temple:** Sacred space dedicated to desert rituals and ceremonies.
 10. **Nomad's Retreat:** Resting area for traveling [[Thornar]], offering shelter and water.
 
-The [[Thornar]], with their unwavering determination and innate connection to the desert, have turned the arid [[Stoneclaw]] into a fortress of culture, trade, and resilience. Their presence in Oziria, as steadfast guardians and skilled traders, is felt strongly across the realm.
+The [[Thornar]], with their unwavering determination and innate connection to the desert, have turned the arid Stoneclaw into a fortress of culture, trade, and resilience. Their presence in Oziria, as steadfast guardians and skilled traders, is felt strongly across the realm.
 
 ## Shops
 
@@ -74,7 +74,7 @@ The [[Thornar]], with their unwavering determination and innate connection to th
     - **Description:** Artists who harness the desert's shifting sands to create intricate, mesmerizing artworks.
     - **Specialty Items:** Sand paintings, Sand sculptures, and Wind chimes made of crystallized sand.
       
-4. **[[Stoneclaw]] Pottery:**
+4. **Stoneclaw Pottery:**
     
     - **Description:** Masterfully crafted pottery shaped by [[Thornar]] hands, perfect for storing desert treasures or water.
     - **Specialty Items:** Water vessels, Sunstone-infused bowls, and [[Thornar]] ceremonial urns.
@@ -96,16 +96,16 @@ The [[Thornar]], with their unwavering determination and innate connection to th
       
 8. **Guided Pathways:**
     
-    - **Description:** A reputable service where skilled [[Thornar]] guides offer their expertise to navigate the vast [[Stoneclaw]].
+    - **Description:** A reputable service where skilled [[Thornar]] guides offer their expertise to navigate the vast Stoneclaw.
     - **Specialty Items:** Guided desert tours, Map crafting, and Oasis locating services.
       
 9. **Primal Elements Emporium:**
     
-    - **Description:** A magical shop tapping into the elemental forces of the [[Stoneclaw]], providing artifacts and materials for spells.
+    - **Description:** A magical shop tapping into the elemental forces of the Stoneclaw, providing artifacts and materials for spells.
     - **Specialty Items:** Earth-forged amulets, Fire essence vials, and Sandbound scrolls.
 10. **Canyon Echo Instruments:**
     
-    - **Description:** Crafted with [[Stoneclaw]]'s unique acoustics in mind, this shop offers instruments that resonate with the desert's soul.
+    - **Description:** Crafted with Stoneclaw's unique acoustics in mind, this shop offers instruments that resonate with the desert's soul.
     - **Specialty Items:** Rock lyres, Sand-filled drums, and Wind-curved flutes.
       
 

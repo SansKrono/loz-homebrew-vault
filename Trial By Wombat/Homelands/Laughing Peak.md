@@ -1,6 +1,6 @@
-Perched on a cliff overlooking the ocean, [[Laughing Peak]] is a blend of beach and forest culture. Bamboo huts with colorful fabrics face the sea, and totem poles tell tales of past heroes. The [[Kookari]] are known for their festivals, where drums, dances, and sea-inspired crafts dominate. Fresh seafood feasts are a daily event, with bonfires and storytelling by the shore.
+Perched on a cliff overlooking the ocean, Laughing Peak is a blend of beach and forest culture. Bamboo huts with colorful fabrics face the sea, and totem poles tell tales of past heroes. The [[Kookari]] are known for their festivals, where drums, dances, and sea-inspired crafts dominate. Fresh seafood feasts are a daily event, with bonfires and storytelling by the shore.
 
-**[[Laughing Peak]] - Homeland of the [[Kookari]]**
+**Laughing Peak - Homeland of the [[Kookari]]**
 
 **Size of City:**  
 Sprawling coastal enclave spread across hills, beaches, cliffs, and forests.
@@ -62,17 +62,17 @@ Bamboo huts with vibrant fabrics, facing the sea. Totem poles scattered around h
       
 2. **Peaky Fashion Boutique:**
     
-    - **Description:** Catering to the mountain chic aesthetic, this store offers comfortable yet stylish attire suitable for [[Laughing Peak]]'s climate.
+    - **Description:** Catering to the mountain chic aesthetic, this store offers comfortable yet stylish attire suitable for Laughing Peak's climate.
     - **Specialty Items:** Featherlight mountain boots, woolen cloaks with colorful embroideries, and sun-reflective hats.
       
 3. **Mirthful Mystics Magic Shop:**
     
-    - **Description:** This enchanting store sells magical items imbued with the jovial energy of [[Laughing Peak]].
+    - **Description:** This enchanting store sells magical items imbued with the jovial energy of Laughing Peak.
     - **Specialty Items:** Joy potions, spell scrolls that induce laughter, and charm-encrusted staffs.
       
 4. **Hearty Hammer Blacksmith:**
     
-    - **Description:** Crafting durable weapons and armor with a touch of [[Laughing Peak]] flair.
+    - **Description:** Crafting durable weapons and armor with a touch of Laughing Peak flair.
     - **Specialty Items:** Echoing swords that 'laugh' upon impact, helmets with ornate feather plumes, and sun-burnished shields.
       
 5. **Sunlit Elixirs Apothecary:**
@@ -93,7 +93,7 @@ Bamboo huts with vibrant fabrics, facing the sea. Totem poles scattered around h
 8. **Pinnacle Pottery:**
     
     - **Description:** Creating ceramic goods using clay sourced from the peak's base.
-    - **Specialty Items:** Sun-kissed mugs, decorative mountain-shaped vases, and platters with relief designs of [[Laughing Peak]].
+    - **Specialty Items:** Sun-kissed mugs, decorative mountain-shaped vases, and platters with relief designs of Laughing Peak.
       
 9. **Elevated Emporium:**
     
@@ -102,7 +102,7 @@ Bamboo huts with vibrant fabrics, facing the sea. Totem poles scattered around h
       
 10. **Echoing Tales Bookstore:**
     
-    - **Description:** A cozy nook selling literature inspired by or about the tales and history of [[Laughing Peak]].
+    - **Description:** A cozy nook selling literature inspired by or about the tales and history of Laughing Peak.
     - **Specialty Items:** Folktales of the laughing spirits, guides to mountain flora and fauna, and memoirs of famous peak explorers.
       
 

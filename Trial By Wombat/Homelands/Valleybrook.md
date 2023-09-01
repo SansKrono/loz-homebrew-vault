@@ -1,6 +1,6 @@
-Situated within a lush, serene valley surrounded by grand mountain ranges, [[Valleybrook]] is a city built in harmony with nature. Wooden structures, connected by arching bridges over pristine rivers, stand tall. The [[Wallabian]]s have terraced farms producing some of the realm’s most sought-after fruits and herbs. Markets are a frequent scene, with the distant sounds of lutes and laughter echoing through the valley.
+Situated within a lush, serene valley surrounded by grand mountain ranges, Valleybrook is a city built in harmony with nature. Wooden structures, connected by arching bridges over pristine rivers, stand tall. The [[Wallabian]]s have terraced farms producing some of the realm’s most sought-after fruits and herbs. Markets are a frequent scene, with the distant sounds of lutes and laughter echoing through the valley.
 
-**[[Valleybrook]] - [[Wallabian]] Homeland**
+**Valleybrook - [[Wallabian]] Homeland**
 
 **Size of Province:**  
 Sprawling valley with vast grassy plains, surrounded by majestic mountain ranges.
@@ -18,7 +18,7 @@ Approximately 300,000, predominantly [[Wallabian]]s.
 - [[Wallabian]]s (majority)
 - [[Quokkan]]s, jovial traders and musicians
 - Occasional [[Thornar]] traders and guides
-- Wanderers of various races attracted by [[Valleybrook]]'s tales and serenity
+- Wanderers of various races attracted by Valleybrook's tales and serenity
 
 **Main Trade Exports:**  
 - High-quality textiles woven with grass and adorned with tales.
@@ -48,20 +48,20 @@ Elevated wooden structures connected by bridges, overlooking pristine rivers and
 2. **Explorer’s Archive:** Repository of maps and tales from across Oziria.
 3. **Terraced Orchards:** Cultivation sites of the valley's finest fruits.
 4. **Stone Circles:** Sacred places holding the secrets of Wallabyan ancestry.
-5. **Wooden Bridge Bazaar:** Bustling market displaying [[Valleybrook]]’s finest goods.
+5. **Wooden Bridge Bazaar:** Bustling market displaying Valleybrook’s finest goods.
 6. **Grasswhisper Hall:** Abode of Chief Grasswhisper and meeting point for the Council of Leapers.
 7. **Serenade Springs:** Relaxation and contemplation spots with soft lute melodies.
 8. **Herbmaster’s Haven:** Renowned for producing and trading rare herbs.
 9. **Textile Grove:** Where artisans weave dreams into tangible forms.
 10. **Grassland Memorial:** A tribute to the unity post the Grassland Divide conflict.
 
-In [[Valleybrook]], the [[Wallabian]]s serve as the heart and soul of exploration, drawing from their rich history and indomitable spirit. Their valley thrives with tales of distant lands, arts, and harmonious coexistence. While their past saw moments of internal conflict, their diplomacy and unity have always prevailed, ensuring [[Valleybrook]] remains an emblem of peace and prosperity.
+In Valleybrook, the [[Wallabian]]s serve as the heart and soul of exploration, drawing from their rich history and indomitable spirit. Their valley thrives with tales of distant lands, arts, and harmonious coexistence. While their past saw moments of internal conflict, their diplomacy and unity have always prevailed, ensuring Valleybrook remains an emblem of peace and prosperity.
 
 ## Shops
 
 1. **Meadow's Bounty General Store:**
     
-    - **Description:** The hub for day-to-day necessities sourced straight from [[Valleybrook]]'s expansive plains.
+    - **Description:** The hub for day-to-day necessities sourced straight from Valleybrook's expansive plains.
     - **Specialty Items:** Grass-woven baskets, sun-dried fruits, and natural herbal teas.
       
 2. **Talespun Textiles:**
@@ -72,7 +72,7 @@ In [[Valleybrook]], the [[Wallabian]]s serve as the heart and soul of exploratio
 3. **Herbwhisperer's Alcove:**
     
     - **Description:** A quaint shop boasting a vast array of rare herbs and medicinal plants cultivated on terraced [[Wallabian]] farms.
-    - **Specialty Items:** [[Valleybrook]] salves, moonlit herb blends, and vitality potions.
+    - **Specialty Items:** Valleybrook salves, moonlit herb blends, and vitality potions.
       
 4. **Artisan's Hand Workshop:**
     
@@ -81,7 +81,7 @@ In [[Valleybrook]], the [[Wallabian]]s serve as the heart and soul of exploratio
       
 5. **Fruitful Harvest Market:**
     
-    - **Description:** A bustling market square selling the juiciest and most flavorful fruits that [[Valleybrook]] has to offer.
+    - **Description:** A bustling market square selling the juiciest and most flavorful fruits that Valleybrook has to offer.
     - **Specialty Items:** Sunburst berries, dew-kissed melons, and moonshadow plums.
       
 6. **Cartographer's Haven:**
@@ -92,7 +92,7 @@ In [[Valleybrook]], the [[Wallabian]]s serve as the heart and soul of exploratio
 7. **Lute's Echo Music Store:**
     
     - **Description:** A melodic corner where one can find [[Wallabian]]-crafted musical instruments, with the lute reigning supreme.
-    - **Specialty Items:** [[Valleybrook]] lutes, grass-flute, and drum of the plains.
+    - **Specialty Items:** Valleybrook lutes, grass-flute, and drum of the plains.
       
 8. **Stone Circle Curios:**
     

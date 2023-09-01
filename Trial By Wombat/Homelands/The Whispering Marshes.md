@@ -16,7 +16,7 @@
 
 ## About The Whispering Marshes
 
-[[The Whispering Marshes]]is a realm where magic infuses every droplet and where the sounds of nature create a melody of peace and wisdom. The [[Platypian]]s, with their deep connection to water and earth, ensure that the marshes remain a sanctuary for all who seek knowledge, serenity, and a touch of the mystical.
+The Whispering Marshesis a realm where magic infuses every droplet and where the sounds of nature create a melody of peace and wisdom. The [[Platypian]]s, with their deep connection to water and earth, ensure that the marshes remain a sanctuary for all who seek knowledge, serenity, and a touch of the mystical.
 
 ### Military
 |                       |                                                                                                                                                                                                                                                                        |

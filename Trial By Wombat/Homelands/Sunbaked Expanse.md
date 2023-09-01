@@ -1,6 +1,6 @@
-The vastness of the [[Sunbaked Expanse]] is almost overwhelming. Amidst the arid, red desert, the [[Kangaroon]] have built a resilient society. Oasis towns with tall windcatchers dot the landscape, capturing the rare breezes. Sunshields, large cloth structures, provide shade during the day, and at night, grand bonfires illuminate storytelling sessions.
+The vastness of the Sunbaked Expanse is almost overwhelming. Amidst the arid, red desert, the [[Kangaroon]] have built a resilient society. Oasis towns with tall windcatchers dot the landscape, capturing the rare breezes. Sunshields, large cloth structures, provide shade during the day, and at night, grand bonfires illuminate storytelling sessions.
 
-**[[Sunbaked Expanse]] - [[Kangaroon]] Homeland**
+**Sunbaked Expanse - [[Kangaroon]] Homeland**
 
 **Size of Province:**  
 Expansive desert realm comprised of vast sand dunes, shimmering oases, and hidden ruins.
@@ -54,7 +54,7 @@ Elevated dwellings with large windcatchers to cool interiors. Oasis towns center
 9. **Council Hall of Jumps:** Strategy and planning hub for the Leap Council.
 10. **Desert's Edge Lookout:** Offering panoramic views, and a place for reflection.
 
-In the [[Sunbaked Expanse]], the [[Kangaroon]]s stand as symbols of strength, protection, and honor. Their legacy is not only embedded in their homeland but is also carried across Oziria by the many protectors and mercenaries that hail from the vast desert. Their commitment to ensuring the safety of others has made them legends in their own right.
+In the Sunbaked Expanse, the [[Kangaroon]]s stand as symbols of strength, protection, and honor. Their legacy is not only embedded in their homeland but is also carried across Oziria by the many protectors and mercenaries that hail from the vast desert. Their commitment to ensuring the safety of others has made them legends in their own right.
 
 ## Shops
 
@@ -80,7 +80,7 @@ In the [[Sunbaked Expanse]], the [[Kangaroon]]s stand as symbols of strength, pr
       
 5. **Leatherbound Legacy:**
     
-    - **Description:** Artisans craft wearables and goods from the exotic leather and hides of the [[Sunbaked Expanse]].
+    - **Description:** Artisans craft wearables and goods from the exotic leather and hides of the Sunbaked Expanse.
     - **Specialty Items:** [[Kangaroon]]-hide boots, Sand-scaled belts, and Desertwing cloaks.
       
 6. **Ruins & Relics Emporium:**
@@ -100,7 +100,7 @@ In the [[Sunbaked Expanse]], the [[Kangaroon]]s stand as symbols of strength, pr
       
 9. **Echoes of Sandscale:**
     
-    - **Description:** A memorial shop, documenting the fiery Sandscale Wars and honoring those who defended the [[Sunbaked Expanse]].
+    - **Description:** A memorial shop, documenting the fiery Sandscale Wars and honoring those who defended the Sunbaked Expanse.
     - **Specialty Items:** War memoirs, battle-replica weapons, and Sandscale War paintings.
       
 10. **Horizon's Mirage Outfitters:**

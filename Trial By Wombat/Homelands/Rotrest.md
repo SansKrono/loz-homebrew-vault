@@ -1,6 +1,6 @@
-Nestled among the pristine coastal waters, [[Rotrest]] is an island paradise with sun-kissed beaches and vibrant coral reefs. The city itself is characterized by dome-shaped stone and coral homes with circular doorways. This is a land of trade and festivity, where [[Quokkan]]s often engage in artistic pursuits, from mural painting to dance. Streets are adorned with seashell decorations, and it's common to see [[Quokkan]]s pedaling on unique seaweed-powered cycles.
+Nestled among the pristine coastal waters, Rotrest is an island paradise with sun-kissed beaches and vibrant coral reefs. The city itself is characterized by dome-shaped stone and coral homes with circular doorways. This is a land of trade and festivity, where [[Quokkan]]s often engage in artistic pursuits, from mural painting to dance. Streets are adorned with seashell decorations, and it's common to see [[Quokkan]]s pedaling on unique seaweed-powered cycles.
 
-**[[Rotrest]] - Province of the [[Quokkan]]s**
+**Rotrest - Province of the [[Quokkan]]s**
 
 **Size of City:**  
 Island province spanning a range of coastal territories, with a bustling central city surrounded by smaller villages and coastal hamlets.
@@ -76,7 +76,7 @@ Dome-shaped structures made of coral and stone, with large, circular doorways. H
     - **Specialty Items:** Elixir of Sunshield, Potion of Deep Dive, and Seaweed Salve for healing.
 6. **Quokka Canvas Creations:**
     
-    - **Description:** A studio where ancient tales of [[Rotrest]] are painted using nature's palette.
+    - **Description:** A studio where ancient tales of Rotrest are painted using nature's palette.
     - **Specialty Items:** Enchanted murals revealing hidden island secrets, map canvases leading to treasure.
 7. **Saltstone Tavern:**
     
@@ -86,7 +86,7 @@ Dome-shaped structures made of coral and stone, with large, circular doorways. H
     
     - **Description:** Handcrafted boats and sea vessels suitable for the shallow reefs and deep oceans alike.
     - **Specialty Items:** Silent Rowboats, Canoes imbued with speed spells, and magical nets for rare catch.
-9. **Keeper of [[Rotrest]] Legends:**
+9. **Keeper of Rotrest Legends:**
     
     - **Description:** A lore house preserving ancient tales, sea shanties, and island traditions.
     - **Specialty Items:** Oral histories, enchanted quokka-guided tours of significant sites.

@@ -1,6 +1,6 @@
-[[Waterscale]] is a wetland wonder, a blend of swamps, lakes, and rivers. The [[Crocosian]]s have built their homes on large, floating platforms built with swamp trees. Waterfalls cascade from terraced rice fields, and the air is alive with the calls of exotic birds. Marketplaces on boats are common, trading in fish, fruits, and handcrafted goods.
+Waterscale is a wetland wonder, a blend of swamps, lakes, and rivers. The [[Crocosian]]s have built their homes on large, floating platforms built with swamp trees. Waterfalls cascade from terraced rice fields, and the air is alive with the calls of exotic birds. Marketplaces on boats are common, trading in fish, fruits, and handcrafted goods.
 
-**[[Waterscale]] - Homeland of the [[Crocosian]]**
+**Waterscale - Homeland of the [[Crocosian]]**
 
 **Size of City:**  
 Expansive, covering thousands of square miles of interwoven wetlands and raised platforms.
@@ -42,13 +42,13 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
 - Magic-infused totems that alert the guards of any intrusion.
 
 **Prominent Locations in the City:**  
-1. **The Spicemarket of [[Waterscale]]:** A bustling market square, known throughout Oziria for its vast variety of spices and herbs.
+1. **The Spicemarket of Waterscale:** A bustling market square, known throughout Oziria for its vast variety of spices and herbs.
 2. **Marshosk War Academy:** The primary institution for military training.
 3. **The Amphibian Arena:** A large combat arena where warriors showcase their skills and engage in ceremonial duels.
 4. **The Algae Alcove:** A workshop where medicinal mosses and algae are processed.
 5. **Bogblossom Boutique:** A renowned shop selling rare herbs, often visited by healers from across Oziria.
-6. **The Marshmuseum:** Chronicles the history of [[Waterscale]] and its dominance over the swamplands.
-7. **The Pier of Pacts:** The main dock where trade agreements are often signed, representing [[Waterscale]]’s commitment to commerce.
+6. **The Marshmuseum:** Chronicles the history of Waterscale and its dominance over the swamplands.
+7. **The Pier of Pacts:** The main dock where trade agreements are often signed, representing Waterscale’s commitment to commerce.
 8. **Fen Forge:** A blacksmith and weaponry workshop, producing arms and armors specifically tailored for swamp warfare.
 9. **Croc Citadel:** A grand, fortress-like structure, serving as the residence of General Marshosk and the center of political activities.
 10. **The Mirehall Market:** A covered bazaar offering everything from daily essentials to exotic goods from distant lands.
@@ -57,17 +57,17 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
 
 1. **Deep Marsh General Store:**
     
-    - **Description:** An emporium of basic supplies curated for the inhabitants of [[Waterscale]].
+    - **Description:** An emporium of basic supplies curated for the inhabitants of Waterscale.
     - **Specialty Items:** Swamp lanterns, freshwater reeds, and bog-toughened leather goods.
       
 2. **Spicefang's Emporium:**
     
-    - **Description:** This aromatic hub offers [[Waterscale]]'s finest spices, sourced straight from the heart of the swamp.
+    - **Description:** This aromatic hub offers Waterscale's finest spices, sourced straight from the heart of the swamp.
     - **Specialty Items:** Swampfire Chili, Marshroot, and Lagoon Ginger.
       
 3. **Miremint Herbary:**
     
-    - **Description:** A quaint herbal shop, where one can find unique herbs and plants native to [[Waterscale]].
+    - **Description:** A quaint herbal shop, where one can find unique herbs and plants native to Waterscale.
     - **Specialty Items:** Miremint tea, Bogblossom essence, and Siltflower petals.
       
 4. **Healing Waters Apothecary:**
@@ -77,12 +77,12 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
       
 5. **[[Crocosian]] Armory:**
     
-    - **Description:** Crafted for defending their homeland, this shop showcases [[Waterscale]]’s finest weapons and armors.
+    - **Description:** Crafted for defending their homeland, this shop showcases Waterscale’s finest weapons and armors.
     - **Specialty Items:** Marshblade daggers, Swampshield, and Siltmail armor.
       
 6. **Echoing Calls Music Shop:**
     
-    - **Description:** A tribute to the haunting melodies of [[Waterscale]], this shop offers instruments that capture the soul of the marsh.
+    - **Description:** A tribute to the haunting melodies of Waterscale, this shop offers instruments that capture the soul of the marsh.
     - **Specialty Items:** Reeded flutes, swamp drums, and lagoon lyres.
       
 7. **Lagoon's Thread Clothier:**
@@ -92,17 +92,17 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
       
 8. **Siltstone Tavern:**
     
-    - **Description:** A gathering place for [[Crocosian]]s, serving brews infused with [[Waterscale]]’s unique flora and spices.
+    - **Description:** A gathering place for [[Crocosian]]s, serving brews infused with Waterscale’s unique flora and spices.
     - **Specialty Items:** Marshroot ale, Bogblossom wine, and Swampfire Chili stew.
       
 9. **Ancient Spirits' Curios:**
     
-    - **Description:** Nestled near a ritual site, this shop sells artifacts, talismans, and tokens imbued with [[Waterscale]]'s spiritual essence.
+    - **Description:** Nestled near a ritual site, this shop sells artifacts, talismans, and tokens imbued with Waterscale's spiritual essence.
     - **Specialty Items:** Water spirit pendants, ritual bowls, and siltstone carvings.
       
 10. **NaviLagoon Travel Hub:**
     
-    - **Description:** As masters of the water routes, this shop provides navigational services, guides, and boat rentals for traversing the winding waters of [[Waterscale]].
+    - **Description:** As masters of the water routes, this shop provides navigational services, guides, and boat rentals for traversing the winding waters of Waterscale.
     - **Specialty Items:** [[Crocosian]] canoes, waterway maps, and marsh-safe navigational tools.
       
 

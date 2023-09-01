@@ -1,6 +1,6 @@
-Hidden in the rolling hills and dense foliage of the hinterland, [[Nightleaf]] is a city that comes alive at twilight. Bioluminescent plants light up the pathways, and tree dwellings have large, round windows. The [[Petaurii]] are expert gliders, often seen leaping and soaring between platforms. Markets sell a variety of nocturnal fruits and handwoven textiles.
+Hidden in the rolling hills and dense foliage of the hinterland, Nightleaf is a city that comes alive at twilight. Bioluminescent plants light up the pathways, and tree dwellings have large, round windows. The [[Petaurii]] are expert gliders, often seen leaping and soaring between platforms. Markets sell a variety of nocturnal fruits and handwoven textiles.
 
-**[[Nightleaf]] - Homeland of the [[Petaurii]]**
+**Nightleaf - Homeland of the [[Petaurii]]**
 
 **Size of City:**  
 Expansive city scattered across the hinterland hills, interconnected by treetop dwellings and suspended platforms.
@@ -17,7 +17,7 @@ Around 90,000, predominantly [[Petaurii]].
 **Main Ozirian Races that Reside There:**  
 - [[Petaurii]] (majority)
 - [[Wallabian]]s (trade partners and close allies)
-- Few [[Quokkan]]s (drawn by the nocturnal beauty of [[Nightleaf]])
+- Few [[Quokkan]]s (drawn by the nocturnal beauty of Nightleaf)
 
 **Main Trade Exports:**  
 - Nocturnal fruits known for their unique tastes and health benefits.
@@ -47,7 +47,7 @@ Tree dwellings with large, circular windows, illuminated with bioluminescent pla
 4. **Moonshadow Library:** Repository of ancient tales, history, and moonlight rituals.
 5. **Twilight Pools:** Natural ponds reflecting the night sky, a popular gathering spot.
 6. **Enchanted Clearing:** A magical grove where [[Petaurii]] dance under the stars during festivals.
-7. **Silken Web:** Workshop area where the finest silks and textiles of [[Nightleaf]] are crafted.
+7. **Silken Web:** Workshop area where the finest silks and textiles of Nightleaf are crafted.
 8. **Starbranch Arena:** Venue for the Starbranch Festivals and other major community events.
 9. **Mapmaker's Hut:** Where renowned cartographers craft detailed silk maps of Oziria.
 10. **Whispering Waterfalls:** Tranquil waterfalls serving as a meditation and relaxation spot for residents.
@@ -56,12 +56,12 @@ Tree dwellings with large, circular windows, illuminated with bioluminescent pla
 
 1. **Midnight Mart General Store:**
     
-    - **Description:** Illuminated by soft, bioluminescent glow, this store offers essential items tailored for the nocturnal lifestyle of [[Nightleaf]].
+    - **Description:** Illuminated by soft, bioluminescent glow, this store offers essential items tailored for the nocturnal lifestyle of Nightleaf.
     - **Specialty Items:** Moonlit milk, stardust spices, and twilight toasts.
       
 2. **Eclipse Ensembles:**
     
-    - **Description:** A clothing boutique that specializes in garments made for both style and the cool, quiet atmosphere of [[Nightleaf]].
+    - **Description:** A clothing boutique that specializes in garments made for both style and the cool, quiet atmosphere of Nightleaf.
     - **Specialty Items:** Star-spangled cloaks, moonbeam slippers, and dusk-dyed tunics.
       
 3. **Lunar Luminary Magic Shop:**
@@ -81,17 +81,17 @@ Tree dwellings with large, circular windows, illuminated with bioluminescent pla
       
 6. **The Evening Owl Café:**
     
-    - **Description:** A peaceful retreat serving beverages and snacks to help the folks of [[Nightleaf]] navigate the evening hours.
+    - **Description:** A peaceful retreat serving beverages and snacks to help the folks of Nightleaf navigate the evening hours.
     - **Specialty Items:** Midnight mochas, crescent cakes, and nebula nectars.
       
 7. **Stellar Strings Music Shop:**
     
-    - **Description:** A store that caters to the serene ambience of [[Nightleaf]], selling instruments that produce melodies perfect for nighttime revelries.
+    - **Description:** A store that caters to the serene ambience of Nightleaf, selling instruments that produce melodies perfect for nighttime revelries.
     - **Specialty Items:** Nightingale flutes, lunar lyres, and darkwood drums.
       
 8. **Twilight Terra Pottery:**
     
-    - **Description:** Crafting pottery with clay kissed by the evening dew, capturing the magic of [[Nightleaf]].
+    - **Description:** Crafting pottery with clay kissed by the evening dew, capturing the magic of Nightleaf.
     - **Specialty Items:** Starry night bowls, crescent moon mugs, and twilight tinted vases.
       
 9. **Nightshade Nook:**
@@ -101,7 +101,7 @@ Tree dwellings with large, circular windows, illuminated with bioluminescent pla
       
 10. **Whispering Willows Bookstore:**
     
-    - **Description:** Tucked away in a corner, this store holds volumes of nighttime tales, nocturnal creatures, and the history of [[Nightleaf]].
+    - **Description:** Tucked away in a corner, this store holds volumes of nighttime tales, nocturnal creatures, and the history of Nightleaf.
     - **Specialty Items:** Legends of the lunar spirits, guides on nocturnal flora and fauna, and tales of adventures under the stars.
     
 

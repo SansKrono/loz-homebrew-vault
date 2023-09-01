@@ -1,6 +1,6 @@
-Amidst tall, jagged rock formations, the [[Echomist Forest]] is a mysterious and fog-covered woodland. The [[Echidnarian]]s' homes are built into tree trunks and rock crevices. Suspended bridges connect treetop platforms, and the forest floor is a patchwork of herbs and ferns. The sound of wind chimes is ever-present, creating a melody with the forest's natural whispers.
+Amidst tall, jagged rock formations, the Echomist Forest is a mysterious and fog-covered woodland. The [[Echidnarian]]s' homes are built into tree trunks and rock crevices. Suspended bridges connect treetop platforms, and the forest floor is a patchwork of herbs and ferns. The sound of wind chimes is ever-present, creating a melody with the forest's natural whispers.
 
-**[[Echomist Forest]] - Homeland of the [[Echidnarian]]**
+**Echomist Forest - Homeland of the [[Echidnarian]]**
 
 **Size of City:**  
 Expansive forest realm, interwoven with tree-built homes and cliff dwellings.

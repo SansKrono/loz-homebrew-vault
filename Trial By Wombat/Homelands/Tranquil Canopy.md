@@ -1,6 +1,6 @@
  High up in the ancient trees of the Daintree, the [[Koalari]] have created an arboreal sanctuary. Treehouses with thatched roofs and large balconies overlook the dense undergrowth below. Vines serve as natural swings, and moss-covered stairs spiral around trunks. The forest floor is sacred, reserved for spiritual ceremonies and rituals under the moon.
 
-**The [[Tranquil Canopy]] - [[Koalari]] Homeland**
+**The Tranquil Canopy - [[Koalari]] Homeland**
 
 **Size of Province:**  
 Verdant forest realm marked by ancient towering trees, vibrant undergrowth, and mystical groves.
@@ -53,7 +53,7 @@ Elevated treehouses made with natural materials like wood, thatch, and vines. Ho
 9. **Vinehaven Market:** Central trading hub for forest goods.
 10. **Cascade Clearing:** A serene waterfall and gathering point for tranquil reflection.
 
-In The [[Tranquil Canopy]], the [[Koalari]] serve as the soulful custodians of nature's secrets. Their deep connection to the land and its spiritual energies makes them both revered guides and masterful druids. While they prefer peace and reflection, their history has seen moments of strife, yet their essence remains unwaveringly committed to harmony and balance.
+In The Tranquil Canopy, the [[Koalari]] serve as the soulful custodians of nature's secrets. Their deep connection to the land and its spiritual energies makes them both revered guides and masterful druids. While they prefer peace and reflection, their history has seen moments of strife, yet their essence remains unwaveringly committed to harmony and balance.
 
 ## Shops
 
@@ -89,7 +89,7 @@ In The [[Tranquil Canopy]], the [[Koalari]] serve as the soulful custodians of n
       
 7. **Nature's Cradle Inn:**
     
-    - **Description:** A serene lodging where rooms blend seamlessly with the towering trees of the [[Tranquil Canopy]].
+    - **Description:** A serene lodging where rooms blend seamlessly with the towering trees of the Tranquil Canopy.
     - **Specialty Items:** Treetop suites, herbal relaxation tonics, and night-blooming flower bouquets.
       
 8. **Song of the Spirits Tavern:**

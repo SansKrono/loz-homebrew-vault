@@ -1,6 +1,6 @@
-Dominating the landscape, [[Reddune]] is a sprawling city at the base of a giant red rock. Tents with ornate patterns, bazaars selling spices and precious stones, and arenas for ceremonial battles define this space. The [[Canidor]] are fierce warriors and traders, their camel caravans known across Oziria.
+Dominating the landscape, Reddune is a sprawling city at the base of a giant red rock. Tents with ornate patterns, bazaars selling spices and precious stones, and arenas for ceremonial battles define this space. The [[Canidor]] are fierce warriors and traders, their camel caravans known across Oziria.
 
-**[[Reddune]] - Homeland of the [[Canidor]]**
+**Reddune - Homeland of the [[Canidor]]**
 
 **Size of City:**  
 Expansive desert city, stretching over sand dunes, oases, and bordered by dense forests and winding rivers. The heart of the city is centered around a vast, oasis hub.
@@ -54,7 +54,7 @@ Sandstone structures blending seamlessly with the desert environment. Elevated h
 7. **Moonlit Dunes:** Vast stretches of sand where the moon's reflection creates a mesmerizing sight.
 8. **Sandscript Library:** Holds ancient texts and chronicles detailing the history and traditions of the [[Canidor]].
 9. **Herbmaster's Tent:** Where rare desert herbs are processed and prepared for trade.
-10. **Forest Edge Outpost:** A defensive structure bordering the dense forests of [[Reddune]], ensuring peace between the [[Canidor]] and any forest inhabitants.
+10. **Forest Edge Outpost:** A defensive structure bordering the dense forests of Reddune, ensuring peace between the [[Canidor]] and any forest inhabitants.
 
 ## Shops
 
@@ -65,7 +65,7 @@ Sandstone structures blending seamlessly with the desert environment. Elevated h
       
 2. **Dune Delight Robes:**
     
-    - **Description:** Providing breathable, stylish clothing designed specifically for the scorching heat of [[Reddune]].
+    - **Description:** Providing breathable, stylish clothing designed specifically for the scorching heat of Reddune.
     - **Specialty Items:** Silken sashes, flowing desert robes, and bejeweled sandals.
       
 3. **Sands of Time Emporium:**
@@ -83,7 +83,7 @@ Sandstone structures blending seamlessly with the desert environment. Elevated h
     - **Description:** Offering refreshing brews and remedies made from desert blooms and rare cacti.
     - **Specialty Items:** Cactus cooler drinks, mirage mints, and sunburn soothing salves.
       
-6. **[[Reddune]] Riders:**
+6. **Reddune Riders:**
     
     - **Description:** A place for purchasing and renting desert mounts and creatures to traverse the sands.
     - **Specialty Items:** Swift-footed camels, sand-skating lizards, and dune-hopping boots.
@@ -100,12 +100,12 @@ Sandstone structures blending seamlessly with the desert environment. Elevated h
       
 9. **Nomad’s Navigations:**
     
-    - **Description:** Offering maps, guides, and tools for those keen on exploring the vast stretches of [[Reddune]].
+    - **Description:** Offering maps, guides, and tools for those keen on exploring the vast stretches of Reddune.
     - **Specialty Items:** Star-guided compasses, sandstorm goggles, and dune descent ropes.
       
 10. **Silk & Sand Crafts:**
     
-    - **Description:** Showcasing intricate crafts and textiles woven by the skilled artisans of [[Reddune]].
+    - **Description:** Showcasing intricate crafts and textiles woven by the skilled artisans of Reddune.
     - **Specialty Items:** Desert tapestries, sand-glass ornaments, and mirage mirrors.
       
 
