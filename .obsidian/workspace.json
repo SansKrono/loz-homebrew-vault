@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md"
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md"
               }
             }
           },
@@ -174,10 +174,14 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4486aa36936c2321",
+  "active": "21c445a73e27561d",
   "lastOpenFiles": [
-    "Trial By Wombat/Races/Prompts/Prompts.md",
+    "netlify-new.toml",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Stores/Pearlshine Boutique/Pearlshine Boutique.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Stores/Marsh Mysteries Curios/Marsh Mysteries Curios.md",
     "Trial By Wombat/Races/Canidor.md",
+    "Trial By Wombat/Races/Prompts/Prompts.md",
     "Trial By Wombat/Enclaves/Rivergate.md",
     "ref",
     "Trial By Wombat/Enclaves/Sunbridge.md",
@@ -209,10 +213,6 @@
     "ref/5e References/mechanics/Monsters.md",
     "ref/5e References/mechanics/Saving Throws.md",
     "ref/5e References/mechanics/Spell Saving Throws.md",
-    "ref/5e References/mechanics/Customizing NPCs.md",
-    "ref/5e References/mechanics/Backgrounds.md",
-    "ref/5e References/mechanics/Between Adventures.md",
-    "ref/5e References/mechanics/The Environment.md",
     "Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",

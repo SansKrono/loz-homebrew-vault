@@ -1,16 +1,17 @@
-> [!infobox | wfull content-padding-small]
-> ### The Soaked City
-> ![[Whispering Marshes.png]]
-> 
-> ##### Overview
-> |  |   |
-> | ---- | ---- |
-> | **Population** | 250,000 |
-> | **Leader** | Elder Billwater |
-> |**Leading Party** | The Aquatic Council |
-> | **Common Citizen Races** | - [[Platypian]] (majority)<br>- [[Wombari]] |
-> | **Main export**     | Freshwater Pearls<br>Stilt Wood<br>Waterway Maps  |
-| **Craft Specialty** | Aquatic Instruments, Stilted Housing |
+
+### The Soaked City 
+![[Whispering Marshes.png]]
+
+#### Overview
+
+ |  |   |
+ | ---- | ---- |
+ | **Population** | 250,000 |
+ | **Leader** | Elder Billwater |
+ |**Leading Party** | The Aquatic Council |
+ | **Common Citizen Races** | - [[Platypian]] (majority)<br>- [[Wombari]] |
+ | **Main export**     | Freshwater Pearls<br>Stilt Wood<br>Waterway Maps  |
+ | **Craft Specialty** | Aquatic Instruments, Stilted Housing |
 
 
 ## About The Whispering Marshes
@@ -47,13 +48,13 @@
 
 ## Main Shops
 
-![[Mystwater General Store#Mystwater General Store]]
-![[Pearlshine Boutique#Pearlshine Boutique]]
-![[Lanterns of Lumina#Lanterns of Lumina]]
-![[Marshroot Herbal Haven#**Marshroot Herbal Haven **]]
-![[Wayfinder's Waterscape#Wayfinder's Waterscape]]
-![[Song of the Depths#Song of the Depths]]
-![[Stiltwood Sawmill#Stiltwood Sawmill]]
-![[Marsh Mysteries Curios#Marsh Mysteries Curios]]
-![[Aquatic Atrium#Aquatic Atrium]]
-![[Ripples' Rest Tavern#Ripples' Rest Tavern]]
+- [[Mystwater General Store]]
+- [[Pearlshine Boutique]]
+- [[Lanterns of Lumina]]
+- [[Marshroot Herbal Haven]]
+- [[Wayfinder's Waterscape]]
+- [[Song of the Depths]]
+- [[Stiltwood Sawmill]]
+- [[Marsh Mysteries Curios]]
+- [[Aquatic Atrium]]
+- [[Ripples' Rest Tavern]]
