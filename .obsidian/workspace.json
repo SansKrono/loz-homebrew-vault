@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
+                "file": "Trial By Wombat/Welcome to Oziria.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
+                "file": "Trial By Wombat/Welcome to Oziria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
+                "file": "Trial By Wombat/Welcome to Oziria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md"
+                "file": "Trial By Wombat/Welcome to Oziria.md"
               }
             }
           },
@@ -180,6 +180,12 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
+    "image_url_here.md",
+    "Trial By Wombat/Welcome to Oziria.md",
+    "(link_to_your_content_here).md",
+    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
+    "netlify.toml",
+    "netlify.example.toml",
     "DnD 5e References/mechanics/Underwater Combat.md",
     "DnD 5e References/mechanics/What Is a Spell .md",
     "DnD 5e References/mechanics/Ability Checks.md",
@@ -192,7 +198,6 @@
     "DnD 5e References/classes",
     "DnD 5e References/races",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/5. The Heart of the Poison/Characters/Grubnub the Well-Meaning.md",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
     "DnD 5e References/creatures/Black Bear.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/Todek Shadowspeaker.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixir's Guardian.md",
@@ -207,9 +212,6 @@
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Characters/Relgar.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Characters/Scorg.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Characters/Squig.md",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Characters/Vorkesh.md",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Part 2 - Scene Details.md",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/2. Rise of the Charismatic Leader/Outcomes/All Outcomes.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Images/Gorak The Brute.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Images/Lieutenant Dral.png",
@@ -217,8 +219,6 @@
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Side Quests",
     "bins/weaver/threads/base/Untitled 2.json",
     "bins/weaver/threads/base/Untitled 1.json",
-    "bins/weaver/threads/base/Untitled.json",
-    "bins/weaver/threads/base",
     "Trial By Wombat - Images/Mirebrook.png",
     "Trial By Wombat - Images/Homelands/Whispering Marshes.png",
     "Trial By Wombat - Images/Homelands/Earthshaper Caverns.png.png",
