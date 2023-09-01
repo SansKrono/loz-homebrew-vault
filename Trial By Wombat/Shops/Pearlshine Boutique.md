@@ -1,4 +1,4 @@
-### Pearlshine Boutique:
+### Pearlshine Boutique - [[The Whispering Marshes]]
 
 With its elegant exterior and tastefully decorated interior, the Pearlshine Boutique is a treasure trove of pristine freshwater pearls, all cultivated from specific lakes within the Whispering Marshes. The boutique is often frequented by those seeking a special gift or a keepsake to remember their time in the marshes.
 
