@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Races/Kangaroon.md",
+                "file": "Trial By Wombat/Homelands/Earthshaper Caverns.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,9 +41,11 @@
             "id": "6e7d95c52488c57e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Images/Earthshaper Caverns.png"
+                "file": "Trial By Wombat/Shops/Crystal Core Emporium.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Images/Earthshaper Caverns.png",
+                "file": "Trial By Wombat/Homelands/Earthshaper Caverns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Images/Earthshaper Caverns.png",
+                "file": "Trial By Wombat/Homelands/Earthshaper Caverns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Images/Earthshaper Caverns.png"
+                "file": "Trial By Wombat/Homelands/Earthshaper Caverns.md"
               }
             }
           },
@@ -185,8 +187,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4486aa36936c2321",
+  "active": "49a22134cebbc596",
   "lastOpenFiles": [
+    "Trial By Wombat/Races/Kangaroon.md",
+    "Trial By Wombat/Shops/Crystal Core Emporium.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
+    "Trial By Wombat/Shops/Grotto Grimoires.md",
+    "Trial By Wombat/Shops/Earthbound Essentials.md",
+    "Trial By Wombat/Shops/Echoic Instruments.md",
+    "Trial By Wombat/Shops/Sediment Styles & Attire.md",
+    "Trial By Wombat/Shops/Granite Gourmet.md",
+    "Trial By Wombat/Shops/Luminescent Lanterns.md",
+    "Trial By Wombat/Shops/Petrified Potions & Elixirs.md",
+    "Trial By Wombat/Shops/The Deepforge.md",
+    "Trial By Wombat/Shops/Tectonic Tomes & Scrolls.md",
+    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Images/Earthshaper Caverns.png",
     "Trial By Wombat/Images/Azure Depths.png",
     "Trial By Wombat/Images/Kangaroon.png",
     "Trial By Wombat/DMTools/Overview Table.md",
@@ -202,22 +218,10 @@
     "Trial By Wombat/Items/Charm of Marsh Navigation.md",
     "Trial By Wombat/Items/Aquatic Aether.md",
     "Trial By Wombat/Items/All-Weather Marshmantle.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
-    "Trial By Wombat/Homelands/Grasstide.md",
-    "Trial By Wombat/Homelands/Stoneclaw.md",
-    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
-    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
     "Trial By Wombat/Shops",
     "Trial By Wombat/Items",
-    "Trial By Wombat/Homelands/The Whispering Marshes.md",
     "netlify-new.toml",
-    "Trial By Wombat/Shops/Pearlshine Boutique.md",
-    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Races/Canidor.md",
-    "Trial By Wombat/Races/Prompts/Prompts.md",
-    "Trial By Wombat/Enclaves/Rivergate.md",
     "ref",
-    "Trial By Wombat/Enclaves/Sunbridge.md",
     "Trial By Wombat/Homelands/Waterscale",
     "Trial By Wombat/Homelands/Valleybrook",
     "Trial By Wombat/Homelands/Tranquil Canopy",
@@ -230,8 +234,6 @@
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "Trial By Wombat/Images/Mirebrook.png",
-    "Trial By Wombat/Images/Whispering Marshes.png",
-    "Trial By Wombat/Images/Earthshaper Caverns.png",
-    "Trial By Wombat/Images/Wallabian.png"
+    "Trial By Wombat/Images/Whispering Marshes.png"
   ]
 }
