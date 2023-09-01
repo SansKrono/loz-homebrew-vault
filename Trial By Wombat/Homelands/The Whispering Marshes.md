@@ -4,14 +4,14 @@
 
 #### Overview
 
- |  |   |
- | ---- | ---- |
- | **Population** | 250,000 |
- | **Leader** | Elder Billwater |
- |**Leading Party** | The Aquatic Council |
- | **Common Citizen Races** | - [[Platypian]] (majority)<br>- [[Wombari]] |
- | **Main export**     | Freshwater Pearls<br>Stilt Wood<br>Waterway Maps  |
- | **Craft Specialty** | Aquatic Instruments, Stilted Housing |
+ | Overview                     | -                                                 |
+ | ------------------------ | ------------------------------------------------ |
+ | **Population**           | 250,000                                          |
+ | **Leader**               | Elder Billwater                                  |
+ | **Leading Party**        | The Aquatic Council                              |
+ | **Common Citizen Races** | - [[Platypian]] (majority)<br>- [[Wombari]]      |
+ | **Main export**          | Freshwater Pearls<br>Stilt Wood<br>Waterway Maps |
+ | **Craft Specialty**      | Aquatic Instruments, Stilted Housing             |
 
 
 ## About The Whispering Marshes
