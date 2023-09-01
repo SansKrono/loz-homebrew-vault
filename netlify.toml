@@ -37,6 +37,8 @@ GRAPH_OPTIONS = """
         	width: "100%",
         	physics: {
         		solver: "forceAtlas2Based",
+				gravitationalConstant: -10000,
+				springConstant: 0.03,
         	},
         }
         """
