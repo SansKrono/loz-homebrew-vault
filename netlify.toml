@@ -4,18 +4,18 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Go to notes"
+LANDING_BUTTON = "Head to Homebrew Content"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "landing page in progress."
+LANDING_DESCRIPTION = "🚧 Compendium under construction 🚧"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "Welcome to Oziria!"
+LANDING_TITLE = "Welcome to Lozbrews!"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/SansKrono/loz-homebrew-vault"
 # (Optional) Site title in navbar
-SITE_TITLE = "Lozbrew - Oziria ⚔️"
+SITE_TITLE = "Lozbrews"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
