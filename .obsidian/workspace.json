@@ -167,9 +167,10 @@
   },
   "active": "4486aa36936c2321",
   "lastOpenFiles": [
+    "main",
     "netlify.toml",
     "netlify-new.toml",
-    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
+    "main/Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
     "Styling Templates/Callouts.md",
     "home.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
@@ -203,15 +204,14 @@
     "DnD 5e References/spells",
     "DnD 5e References/items",
     "DnD 5e References/creatures",
-    "DnD 5e References",
-    "Images/The Elixirs Guardian.png",
+    "main/Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
-    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
-    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
-    "Images/Mirebrook.png",
-    "Images/Homelands/Whispering Marshes.png",
-    "Images/Homelands/Earthshaper Caverns.png.png",
-    "Images/Portraits/Wallabian.png",
-    "Images/Portraits/Wombari.png"
+    "main/Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
+    "main/Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
+    "main/Trial By Wombat/Images/Mirebrook.png",
+    "main/Trial By Wombat/Images/Homelands/Whispering Marshes.png",
+    "main/Trial By Wombat/Images/Homelands/Earthshaper Caverns.png.png",
+    "main/Trial By Wombat/Images/Portraits/Wallabian.png",
+    "main/Trial By Wombat/Images/Portraits/Wombari.png"
   ]
 }
