@@ -7,23 +7,19 @@ Explore the enchanting realm of Oziria, a land where magic and harmony intertwin
 
 Oziria is a rich and vibrant fantasy world that features a variety of unique races, each with its own distinct culture, history, and magical abilities. From the soaring heights of the Tranquil Canopy to the mysterious depths of the Enchanted Caverns, every corner of Oziria is teeming with wonder and adventure.
 
-## Inhabitants of Oziria
+## (Some of) The Inhabitants of Oziria
 
 ### Quokkan
-- Cheerful and playful race from the Enchanted Isles.
-- Natural ability to bring joy and merriment to others.
-- Harness magical energies for enhanced abilities.
-- Dwell among floating gardens and shimmering waterfalls.
+
+Radiating warmth with round faces, bright eyes, and fur reminiscent of sun-kissed terrains, the [[Quokkan]]s epitomize joy. These light-hearted beings from [[Rotrest]] are adored across Oziria, not just for their delightful appearance, but for their commendable role as peacekeepers and mediators. Their fluffy tails, which often wag in delight or excitement, add to their charm and agility.
 
 ### Wallabian
-- Agile and adaptable creatures of the Great Grasslands.
-- Keen senses to navigate the vast plains and grassy expanse.
-- Sacred stone circles and hidden sites hold their history.
+
+Across the rolling expanses of [[Valleybrook]]’s verdant hills, the [[Wallabian]]s bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the [[Wallabian]]s have carved out a niche for themselves in Oziria.
 
 ### Kangaroon
-- Resilient beings of the Sunbaked Expanse.
-- Thrive in harsh environments using strength and resilience.
-- Roam amidst red sands, oases, and ancient ruins.
+
+Their eyes, sharp and discerning, hold stories of ages past and echo the unwavering determination of their spirit. This determination isn't just physical; it's embedded in their moral fiber. Steeped in tradition, guided by the ancestral wisdom of their forebears, [[Kangaroon]]s uphold the values of justice, honor, and community above all else. As warriors, their might is unparalleled, and their strategies in battle are studied across Oziria.
 
 ### And many more, there is so much to discover...
 

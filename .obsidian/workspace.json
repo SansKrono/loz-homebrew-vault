@@ -11,24 +11,33 @@
             "id": "49a22134cebbc596",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Trial By Wombat/Races/Kangaroon.md",
+                "mode": "source",
+                "source": false
+              }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "db83845a35dad121",
+        "type": "tabs",
+        "children": [
           {
             "id": "21c445a73e27561d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
-                "mode": "preview",
+                "file": "home.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Races/Canidor.md"
+                "file": "home.md"
               }
             }
           },
@@ -167,6 +176,12 @@
   },
   "active": "21c445a73e27561d",
   "lastOpenFiles": [
+    "Trial By Wombat/Races/Kangaroon.md",
+    "Trial By Wombat/Races/Wallabian.md",
+    "home.md",
+    "Trial By Wombat/Races/Quokkan.md",
+    "Trial By Wombat/Towns/The Whispering Marshes/Mirebrook.md",
+    "Trial By Wombat/Races/Canidor.md",
     "Trial By Wombat/Races/Petaurii.md",
     "Trial By Wombat/Races/Koalari.md",
     "Trial By Wombat/Enclaves/Hollowpeak.md",
@@ -185,7 +200,6 @@
     "Trial By Wombat/Enclaves/Everbreeze.md",
     "Trial By Wombat/Enclaves/Sunbridge.md",
     "Trial By Wombat/Enclaves/Rivergate.md",
-    "home.md",
     "Trial By Wombat/DM Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
     "Styling Templates/Callouts.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
@@ -199,11 +213,6 @@
     "DnD 5e References/mechanics/The Environment.md",
     "DnD 5e References/mechanics/Creatures.md",
     "DnD 5e References/mechanics/Making an Attack.md",
-    "DnD 5e References/mechanics/Treasure.md",
-    "DnD 5e References/mechanics/Adventuring Gear.md",
-    "DnD 5e References/mechanics/Armor.md",
-    "DnD 5e References/mechanics/Inspiration.md",
-    "DnD 5e References/mechanics/Equipment.md",
     "Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
     "Trial By Wombat/DM Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
