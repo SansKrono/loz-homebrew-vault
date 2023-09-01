@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Gorak the Brute.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Gorak the Brute.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Gorak the Brute.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Gorak the Brute.md"
+                "file": "home.md"
               }
             }
           },
@@ -165,8 +165,10 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "21c445a73e27561d",
+  "active": "4486aa36936c2321",
   "lastOpenFiles": [
+    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
+    "Styling Templates/Callouts.md",
     "home.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
     "DnD 5e References/mechanics/Spells.md",
@@ -192,8 +194,6 @@
     "DnD 5e References/mechanics/Monster Statistics.md",
     "DnD 5e References/mechanics/Mounted Combat.md",
     "DnD 5e References/mechanics/Spellcasting.md",
-    "DnD 5e References/mechanics/Combat.md",
-    "DnD 5e References/mechanics/Multiclassing.md",
     "DnD 5e References/races",
     "DnD 5e References/mechanics",
     "DnD 5e References/classes",
@@ -204,14 +204,14 @@
     "DnD 5e References/items",
     "DnD 5e References/creatures",
     "DnD 5e References",
-    "Trial By Wombat - Images/The Elixirs Guardian.png",
+    "Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Images/Gorak The Brute.png",
-    "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/3. Poisoned Land/Characters/Images/Lieutenant Dral.png",
-    "Trial By Wombat - Images/Mirebrook.png",
-    "Trial By Wombat - Images/Homelands/Whispering Marshes.png",
-    "Trial By Wombat - Images/Homelands/Earthshaper Caverns.png.png",
-    "Trial By Wombat - Images/Portraits/Wallabian.png",
-    "Trial By Wombat - Images/Portraits/Wombari.png"
+    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
+    "Trial By Wombat/DM - Session Tools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
+    "Images/Mirebrook.png",
+    "Images/Homelands/Whispering Marshes.png",
+    "Images/Homelands/Earthshaper Caverns.png.png",
+    "Images/Portraits/Wallabian.png",
+    "Images/Portraits/Wombari.png"
   ]
 }

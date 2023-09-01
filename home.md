@@ -38,5 +38,3 @@ Explore the exclusive territories of each race, where their unique magical abili
 ## Embrace the Magic of Oziria
 
 Join us on a journey through the mystical world of Oziria, where ancient rivalries have given way to unity, and where the future is shaped by the lessons of the past. Venture forth and uncover the enchanting stories, races, and realms that make Oziria a world of wonder.
-
-[Start Exploring](link_to_your_content_here)

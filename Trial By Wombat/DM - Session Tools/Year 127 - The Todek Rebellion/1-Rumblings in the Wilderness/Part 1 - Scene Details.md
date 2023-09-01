@@ -6,7 +6,7 @@ _"As the sun rises, casting a golden glow over the serene town of [[Everbreeze]]
 
 **Players hear rumors of small skirmishes along the border towns.**
 
-_"You're jostled by the morning crowd as you make your way through Everbreeze. Everywhere you turn, townsfolk are huddled in hushed conversations. As you pass by, snippets of whispered concerns reach your ears - tales of surprise skirmishes along the border towns. The common sentiment is one of confusion and surprise; the attackers are said to be [[Trial By Wombat/2. Races/Todek]], a race not typically known for organized aggression."_
+_"You're jostled by the morning crowd as you make your way through Everbreeze. Everywhere you turn, townsfolk are huddled in hushed conversations. As you pass by, snippets of whispered concerns reach your ears - tales of surprise skirmishes along the border towns. The common sentiment is one of confusion and surprise; the attackers are said to be [[Todek]], a race not typically known for organized aggression."_
 
 ---
 

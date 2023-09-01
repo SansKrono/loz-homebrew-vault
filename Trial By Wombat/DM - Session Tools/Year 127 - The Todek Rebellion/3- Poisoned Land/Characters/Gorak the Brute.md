@@ -1,4 +1,4 @@
-_Large Beast (Todek), Chaotic Evil_
+_Large Beast ([[Todek]]), Chaotic Evil_
 
 - **Armor Class:** 16 (Natural Armor)
 - **Hit Points:** 95 (10d12 + 40)
