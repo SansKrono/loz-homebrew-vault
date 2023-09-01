@@ -31,3 +31,5 @@ _Small elemental, neutral_
 **Bite**: _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target. _Hit_: 6 (1d4 + 4) piercing damage.
 
 **Burrow**: The Rockbound Hare can dig into the earth, disappearing from sight and becoming untargetable until it chooses to emerge or until the ground it is in is destroyed.
+
+#OzirianCreatures 

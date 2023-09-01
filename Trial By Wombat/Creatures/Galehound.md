@@ -30,3 +30,5 @@ _Medium beast, neutral_
 **Claw**: _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 6 (1d6 + 3) slashing damage.
 
 **Biting Wind**: _Ranged Weapon Attack_: +5 to hit, range 40/120 ft., one target. _Hit_: 4 (1d4 + 2) cold damage.
+
+#OzirianCreatures 

@@ -33,3 +33,5 @@ _Small elemental, neutral_
 **Gust (Recharge 5-6)**: The Verdant Owl flaps its wings powerfully, creating a small gust of wind in a 15-foot cone. Creatures in that area must make a DC 13 Strength saving throw or be pushed back 10 feet and knocked prone.
 
 **Leaf Burst (1/day)**: The Verdant Owl can release a burst of leafy feathers in a 10-foot-radius sphere centered on itself. Creatures in that area must succeed on a DC 12 Wisdom saving throw or become charmed until the end of their next turn.
+
+#OzirianCreatures 

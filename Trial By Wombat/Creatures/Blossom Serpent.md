@@ -30,3 +30,5 @@ _Medium beast, neutral good_
 **Bite**: _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 7 (1d6 + 4) piercing damage plus 4 (1d8) poison damage.
 
 **Constrict**: _Melee Weapon Attack_: +3 to hit, reach 5 ft., one creature. _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the creature is restrained, and the Blossom Serpent can't constrict another target.
+
+#OzirianCreatures 

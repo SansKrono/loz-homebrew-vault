@@ -51,3 +51,5 @@ _Medium fey, neutral_
 **Water Whip.** _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage and the target must make a DC 14 Strength saving throw or be pulled up to 10 feet toward the Naiad.
 
 **Call to the Deep (Recharge 5-6).** The Naiad emits a haunting, melodic call audible within a 60-foot radius. All creatures in the area must succeed on a DC 14 Wisdom saving throw or be charmed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+#OzirianCreatures 

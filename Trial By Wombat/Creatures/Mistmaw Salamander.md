@@ -34,3 +34,5 @@ _Large elemental, neutral_
 
 **Tail Slap**: _Melee Weapon Attack_: +5 to hit, reach 10 ft., one target. _Hit_: 9 (1d8 + 4) bludgeoning damage, and the target must make a DC 15 Strength saving throw or be knocked prone.
 
+#OzirianCreatures 
+

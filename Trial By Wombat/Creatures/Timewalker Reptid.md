@@ -31,3 +31,5 @@ _Medium elemental, neutral_
 **Tail Swipe**: _Melee Weapon Attack_: +4 to hit, reach 10 ft., one target. _Hit_: 6 (1d6 + 3) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked prone.
 
 **Reverse Time (Recharge 5-6)**: Once per short or long rest, the Timewalker Reptid can revert time within a 20-foot-radius sphere. Creatures within the sphere can choose to undo one action they took on their last turn, effectively giving them a chance to take a different action. The Timewalker Reptid itself can use this ability to regain hit points equal to half its hit point maximum.
+
+#OzirianCreatures 

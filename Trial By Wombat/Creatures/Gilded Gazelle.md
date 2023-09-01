@@ -28,3 +28,5 @@ _Medium beast, neutral good_
 **Antler Strike**: _Melee Weapon Attack_: +6 to hit, reach 5 ft., one target. _Hit_: 8 (1d6 + 4) piercing damage plus 4 (1d8) radiant damage.
 
 **Golden Leap**: (Recharge 5-6): As a bonus action, the Gilded Gazelle can leap up to 30 ft. horizontally or vertically without provoking opportunity attacks.
+
+#OzirianCreatures 
