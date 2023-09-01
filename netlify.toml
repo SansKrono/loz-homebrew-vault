@@ -8,7 +8,7 @@ LANDING_BUTTON = "Take me home"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "landing page in progress."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "./home.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome to Oziria!"
 PYTHON_VERSION = "3.8"
@@ -28,7 +28,7 @@ SORT_BY = "title"
 # (Optional) Google Analytics Measurement ID
 GANALYTICS = ""
 # (Optional, default true) Slugify URLs. Put "" to disable.
-SLUGIFY = ""
+SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
