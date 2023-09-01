@@ -16,7 +16,7 @@ Around 90,000, predominantly [[Petaurii]].
 
 **Main Ozirian Races that Reside There:**  
 - [[Petaurii]] (majority)
-- [[Wallabian]]s (trade partners and close allies)
+- [[Wallabian]] (trade partners and close allies)
 - Few [[Quokkan]]s (drawn by the nocturnal beauty of Nightleaf)
 
 **Main Trade Exports:**  

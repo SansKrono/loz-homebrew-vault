@@ -35,5 +35,3 @@ A shimmering river, paradoxically clear despite flowing through boggy terrain. T
 ---
 
 In the larger narrative of Oziria, the Serpentail River is more than a natural resource; it's a celestial poem penned by the gods, an element that binds communities and engenders both awe and wonder. It is a cornerstone of identity for those who dwell in its vicinity, an unending hymn that recounts the past, nourishes the present, and promises a future.
-
-Would you say the Serpentail River flows harmoniously into the topography of your crafted realm, Game Master Daddy?

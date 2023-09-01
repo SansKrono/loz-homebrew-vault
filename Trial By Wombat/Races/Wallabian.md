@@ -4,18 +4,18 @@ banner_y: 0.19665
 ---
 ### About
 
-Across the rolling expanses of [[Valleybrook]]’s verdant hills, the Wallabians bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the Wallabians have carved out a niche for themselves in Oziria.
+Across the rolling expanses of [[Valleybrook]]’s verdant hills, the Wallabian bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the Wallabian have carved out a niche for themselves in Oziria.
 
-With coats resembling the hues of the earth, from sandy browns to deep reddish tones, the Wallabians seamlessly blend with their natural surroundings. Their expressive eyes, framed by delicate lashes, mirror a world of wonder and tenacity. Their ability to leap great distances, both a mode of travel and an expression of joy, is a hallmark of their lineage.
+With coats resembling the hues of the earth, from sandy browns to deep reddish tones, the Wallabian seamlessly blend with their natural surroundings. Their expressive eyes, framed by delicate lashes, mirror a world of wonder and tenacity. Their ability to leap great distances, both a mode of travel and an expression of joy, is a hallmark of their lineage.
 
 Their zest for life is matched only by their unwavering sense of loyalty. Adventure runs in their veins, pushing them to unravel the mysteries of Oziria and to forge lasting bonds with fellow travellers along the way.
 
 -----
 ### Homeland
 
-[[Valleybrook]], with its endless fields of waving grasses, is the cherished homeland of the Wallabians. This land, where the winds sing ancient lullabies and the soil tells tales of epochs gone by, is as much a part of the Wallabians as they are of it. Amidst the verdant stretches, mysterious stone circles stand sentinel, guarding the secrets and sagas of the Wallabians' storied past.
+[[Valleybrook]], with its endless fields of waving grasses, is the cherished homeland of the Wallabian. This land, where the winds sing ancient lullabies and the soil tells tales of epochs gone by, is as much a part of the Wallabian as they are of it. Amidst the verdant stretches, mysterious stone circles stand sentinel, guarding the secrets and sagas of the Wallabian' storied past.
 
-Their harmonious relations with the cheerful [[Quokkan]]s is well-known, while the stoic [[Thornar]]s remain a riddle they've yet to fully decipher. Legends of [[Valleybrook]] speak of Wallabian pathfinders who once charted the vast reaches of Oziria. Their woven masterpieces, spun from the threads of dreams and heritage, are sought after far and wide. Still, history recalls the Grassland Divide – a tumultuous period whose wounds have been healed by the Wallabians' innate gift for understanding and reconciliation.
+Their harmonious relations with the cheerful [[Quokkan]]s is well-known, while the stoic [[Thornar]]s remain a riddle they've yet to fully decipher. Legends of [[Valleybrook]] speak of Wallabian pathfinders who once charted the vast reaches of Oziria. Their woven masterpieces, spun from the threads of dreams and heritage, are sought after far and wide. Still, history recalls the Grassland Divide – a tumultuous period whose wounds have been healed by the Wallabian' innate gift for understanding and reconciliation.
 
 -----
 ### Wallabian traits
@@ -29,9 +29,9 @@ Their harmonious relations with the cheerful [[Quokkan]]s is well-known, while t
 | **Speed**                  | Base walking speed of 35 feet due to their strong legs                                                                                                                                                |
 | **Languages**              | Common and Wallabian                                                                                                                                                                                  |
 | **Family First**           | Once per day, when a family member or close ally within 30 feet is attacked, the Wallabian can use their reaction to move up to their speed toward the attacker without provoking opportunity attacks |
-| **Curious Explorer**       | Wallabians have proficiency in the Investigation skill                                                                                                                                                |
-| **Strong Leaper**          | Due to their powerful legs, Wallabians can jump twice as far as normal distances for their size                                                                                                       |
-| **Close-Knit**             | Wallabians have advantage on Wisdom (Insight) checks involving family members or close allies                                                                                                         |
+| **Curious Explorer**       | Wallabian have proficiency in the Investigation skill                                                                                                                                                |
+| **Strong Leaper**          | Due to their powerful legs, Wallabian can jump twice as far as normal distances for their size                                                                                                       |
+| **Close-Knit**             | Wallabian have advantage on Wisdom (Insight) checks involving family members or close allies                                                                                                         |
 | **Resistances**            | None                                                                                                                                                                                                  |
 | **Common Names (Male)**    | Bindi, Raloo, Winto, Yarrin                                                                                                                                                                           |
 | **Common Names (Female)**  | Melli, Lura, Tarni, Vella                                                                                                                                                                             |

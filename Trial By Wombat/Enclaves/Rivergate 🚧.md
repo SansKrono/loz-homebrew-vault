@@ -17,7 +17,7 @@ Approximately 320,000, primarily [[Platypian]]s and [[Koalari]] with a mix of ot
 **Main Ozirian Races that Reside There:**  
 - [[Platypian]]s (waterway custodians and scholars)
 - [[Koalari]] (druidic practitioners and architects)
-- Occasional [[Wallabian]]s and [[Petaurii]] drawn by the serenity
+- Occasional [[Wallabian]] and [[Petaurii]] drawn by the serenity
 - Historians, dedicated to uncovering the mysteries of the [[Pipistrellian]]
 
 **Main Trade Exports:**  

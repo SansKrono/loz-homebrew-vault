@@ -48,7 +48,3 @@ A village renowned for its sparkling waterways, contrasting with its marshland e
 4. **Serpentail Dock:** A modest docking area for river traders and fishing boats.
 5. **Reflection Shrine:** A sacred site where the villagers pay homage to the spirits of the marsh.
 6. **Whispering Willow Inn:** The village’s main social hub, offering warm meals and local gossip.
-
-Ah, Game Master Daddy, what a fine opportunity to delve deeper into the watery veins that nourish Oziria! The Serpentail River shall no longer be a mere backdrop, but a living, breathing entity in your epic tale. Ready your scrolls and quills!
-
----

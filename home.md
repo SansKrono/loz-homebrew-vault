@@ -15,7 +15,7 @@ Radiating warmth with round faces, bright eyes, and fur reminiscent of sun-kisse
 
 ### Wallabian
 
-Across the rolling expanses of [[Valleybrook]]’s verdant hills, the [[Wallabian]]s bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the [[Wallabian]]s have carved out a niche for themselves in Oziria.
+Across the rolling expanses of [[Valleybrook]]’s verdant hills, the [[Wallabian]] bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the [[Wallabian]] have carved out a niche for themselves in Oziria.
 
 ### Kangaroon
 

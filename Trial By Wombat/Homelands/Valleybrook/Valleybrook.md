@@ -1,4 +1,4 @@
-Situated within a lush, serene valley surrounded by grand mountain ranges, Valleybrook is a city built in harmony with nature. Wooden structures, connected by arching bridges over pristine rivers, stand tall. The [[Wallabian]]s have terraced farms producing some of the realm’s most sought-after fruits and herbs. Markets are a frequent scene, with the distant sounds of lutes and laughter echoing through the valley.
+Situated within a lush, serene valley surrounded by grand mountain ranges, Valleybrook is a city built in harmony with nature. Wooden structures, connected by arching bridges over pristine rivers, stand tall. The [[Wallabian]] have terraced farms producing some of the realm’s most sought-after fruits and herbs. Markets are a frequent scene, with the distant sounds of lutes and laughter echoing through the valley.
 
 **Valleybrook - [[Wallabian]] Homeland**
 
@@ -12,10 +12,10 @@ Chief Grasswhisper
 The Council of Leapers
 
 **Population:**  
-Approximately 300,000, predominantly [[Wallabian]]s.
+Approximately 300,000, predominantly [[Wallabian]].
 
 **Main Ozirian Races that Reside There:**  
-- [[Wallabian]]s (majority)
+- [[Wallabian]] (majority)
 - [[Quokkan]]s, jovial traders and musicians
 - Occasional [[Thornar]] traders and guides
 - Wanderers of various races attracted by Valleybrook's tales and serenity
@@ -35,7 +35,7 @@ Elevated wooden structures connected by bridges, overlooking pristine rivers and
 12,000 Valley Guardians, trained in swift mobility and defensive strategies using the terrain.
 
 **Grading of Military (Determining strength of military):**  
-7 out of 10 – While [[Wallabian]]s prioritize exploration and diplomacy over aggression, their agility and knowledge of the land make them formidable defenders.
+7 out of 10 – While [[Wallabian]] prioritize exploration and diplomacy over aggression, their agility and knowledge of the land make them formidable defenders.
 
 **Types of Security Measures in the Province:**  
 - Watchtowers built along key routes and at strategic points.
@@ -55,7 +55,7 @@ Elevated wooden structures connected by bridges, overlooking pristine rivers and
 9. **Textile Grove:** Where artisans weave dreams into tangible forms.
 10. **Grassland Memorial:** A tribute to the unity post the Grassland Divide conflict.
 
-In Valleybrook, the [[Wallabian]]s serve as the heart and soul of exploration, drawing from their rich history and indomitable spirit. Their valley thrives with tales of distant lands, arts, and harmonious coexistence. While their past saw moments of internal conflict, their diplomacy and unity have always prevailed, ensuring Valleybrook remains an emblem of peace and prosperity.
+In Valleybrook, the [[Wallabian]] serve as the heart and soul of exploration, drawing from their rich history and indomitable spirit. Their valley thrives with tales of distant lands, arts, and harmonious coexistence. While their past saw moments of internal conflict, their diplomacy and unity have always prevailed, ensuring Valleybrook remains an emblem of peace and prosperity.
 
 ## Shops
 
@@ -101,7 +101,7 @@ In Valleybrook, the [[Wallabian]]s serve as the heart and soul of exploration, d
       
 9. **Diplomat's Attire:**
     
-    - **Description:** A boutique offering the finest outfits for [[Wallabian]]s, perfect for diplomats and travelers alike.
+    - **Description:** A boutique offering the finest outfits for [[Wallabian]], perfect for diplomats and travelers alike.
     - **Specialty Items:** Grass-woven tunics, tale-threaded scarves, and explorer's boots.
       
 10. **Echoes of the Divide Pub:**

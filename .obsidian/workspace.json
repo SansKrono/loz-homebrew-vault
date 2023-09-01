@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
+                "file": "Trial By Wombat/Races/Todek.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Game Master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
+                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md",
+                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Lore/History/The Creation of Oziria.md"
+                "file": "Trial By Wombat/Notable Locations/Serpentail River.md"
               }
             }
           },
@@ -185,36 +186,36 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "49a22134cebbc596",
+  "active": "21c445a73e27561d",
   "lastOpenFiles": [
+    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Characters/Relgar.md",
+    "Trial By Wombat/Towns/Mirebrook.md",
+    "ref/5e References/mechanics/Inspiration.md",
+    "Trial By Wombat/Enclaves/Everbreeze 🚧.md",
+    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Outcomes/All Outcomes.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+    "Trial By Wombat/Races/Todek.md",
+    "Trial By Wombat/Races/Echidnarian.md",
+    "Trial By Wombat/Races/Kangaroon.md",
+    "Trial By Wombat/Races/Petaurii.md",
+    "Trial By Wombat/Races/Quokkan.md",
+    "Trial By Wombat/Enclaves/Hollowpeak 🚧.md",
+    "Trial By Wombat/Enclaves/Rivergate 🚧.md",
+    "Trial By Wombat/Enclaves/Sunbridge 🚧.md",
+    "Trial By Wombat/Homelands/Valleybrook/Valleybrook.md",
+    "Trial By Wombat/Homelands/Nightleaf/Nightleaf.md",
+    "Trial By Wombat/Homelands/Rotrest/Rotrest.md",
+    "Trial By Wombat/DMTools/Overview Table.md",
+    "home.md",
+    "Trial By Wombat/Races/Diprotean.md",
+    "Trial By Wombat/Races/Crocosian.md",
+    "Trial By Wombat/Races/Wallabian.md",
+    "Trial By Wombat/Lore/History/The Creation of Oziria.md",
     "Trial By Wombat/Lookups/Ozirian Races.md",
     "Trial By Wombat/Lookups/Ozirian Creatures.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
     "Trial By Wombat/Creatures/Verdant Owl.md",
     "Trial By Wombat/Lookups",
-    "Trial By Wombat/Creatures/Timewalker Reptid.md",
-    "Trial By Wombat/Creatures/Stormwing Falcon.md",
-    "Trial By Wombat/Creatures/Rockbound Hare.md",
-    "Trial By Wombat/Creatures/Naiads.md",
-    "Trial By Wombat/Creatures/Moonshell Tortoise.md",
-    "Trial By Wombat/Creatures/Mistmaw Salamander.md",
-    "Trial By Wombat/Creatures/Gilded Gazelle.md",
-    "Trial By Wombat/Creatures/Galehound.md",
-    "Trial By Wombat/Creatures/Blossom Serpent.md",
-    "Trial By Wombat/Creatures/Abyssal Koi.md",
-    "ref/5e References/mechanics/NPCs.md",
-    "ref/5e References/npcs/Assassin.md",
-    "ref/5e References/mechanics/Creatures.md",
-    "ref/5e References/creatures/Ape.md",
-    "Trial By Wombat/Creatures/Spiritual Beasts.md",
-    "Trial By Wombat/DMTools/Overview Table.md",
-    "Trial By Wombat/Notable Locations/Serpentail River.md",
     "Trial By Wombat/Creatures",
-    "Trial By Wombat/Towns/Mirebrook.md",
-    "Trial By Wombat/Notable Locations/Redstone Caverns.md",
-    "Trial By Wombat/Notable Locations/Moonlit Pinnacles.md",
-    "Trial By Wombat/Notable Locations/Ghostwind peak.md",
-    "Trial By Wombat/Notable Locations/Echo's End.md",
     "Trial By Wombat/Lore/History",
     "Trial By Wombat/Lore/Totemic Spirits",
     "Trial By Wombat/Homelands/Tranquil Canopy/Shops 🚧",

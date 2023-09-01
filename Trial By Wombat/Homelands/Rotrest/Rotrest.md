@@ -16,7 +16,7 @@ Around 90,000, primarily [[Quokkan]]s.
 
 **Main Ozirian Races that Reside There:**  
 - [[Quokkan]]s (majority)
-- [[Wallabian]]s (friendly relations and trade partners)
+- [[Wallabian]] (friendly relations and trade partners)
 - Some [[Crocosian]]s (trading presence and past history)
   
 **Main Trade Exports:**  

@@ -1,4 +1,4 @@
-Dominated by towering eucalyptus trees that touch the sky, Hollowpeak is a blend of earth and ocean. The city is ingeniously integrated within these trees, with structures carved into trunks and platforms on their vast canopies. The [[Koalari]], with their profound nature bond, have shaped Hollowpeak's architecture, whereas [[Wallabian]]s are often seen hopping between the coastal markets. Stories of the legendary Thylacirian and the gentle [[Diprotean]] are preserved here, told in hushed tones by the fireside, ensuring that the spirit of these ancient races lingers on.
+Dominated by towering eucalyptus trees that touch the sky, Hollowpeak is a blend of earth and ocean. The city is ingeniously integrated within these trees, with structures carved into trunks and platforms on their vast canopies. The [[Koalari]], with their profound nature bond, have shaped Hollowpeak's architecture, whereas [[Wallabian]] are often seen hopping between the coastal markets. Stories of the legendary Thylacirian and the gentle [[Diprotean]] are preserved here, told in hushed tones by the fireside, ensuring that the spirit of these ancient races lingers on.
 
 **Enclave of Hollowpeak - Multicultural City on the Coast of Oziria**
 
@@ -12,11 +12,11 @@ Governor Eucalythor
 The Canopy Coalition
 
 **Population:**  
-Approximately 400,000, diverse mix of races with [[Koalari]] and [[Wallabian]]s prominent.
+Approximately 400,000, diverse mix of races with [[Koalari]] and [[Wallabian]] prominent.
 
 **Main Ozirian Races that Reside There:**  
 - [[Koalari]] (major architects and spiritual leaders)
-- [[Wallabian]]s (prominent traders and explorers)
+- [[Wallabian]] (prominent traders and explorers)
 - Occasional [[Platypian]]s, drawn by the coast
 - [[Thornar]]s, [[Petaurii]], and [[Quokkan]]s among others
 - Some historians and scholars dedicated to preserving the tales of Thylacirian and [[Diprotean]]
@@ -43,12 +43,12 @@ Innovative abodes integrated within eucalyptus trees, ranging from intricately c
 - Lookout towers at strategic canopy points.
 - Coastal watchtowers to monitor maritime activities.
 - Enchanted eucalyptus barriers guarding city entrances.
-- Patrols of [[Wallabian]]s swiftly covering ground.
+- Patrols of [[Wallabian]] swiftly covering ground.
 - Rituals performed by [[Koalari]] to shield significant locations.
 
 **Prominent Locations in the Province:**  
 1. **Skytouch Avenue:** Main city boulevard, showcasing the grandeur of eucalyptus architecture.
-2. **Ocean's Embrace Market:** Bustling coastal market, primarily run by [[Wallabian]]s.
+2. **Ocean's Embrace Market:** Bustling coastal market, primarily run by [[Wallabian]].
 3. **Legends Grove:** Quiet spot dedicated to telling Thylacirian and [[Diprotean]] tales.
 4. **Canopy Cafe:** Renowned eatery located on the highest canopy with a panoramic view.
 5. **Eucalyptus Emporium:** Major trade center for wooden crafts and eucalyptus products.

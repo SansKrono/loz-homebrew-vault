@@ -13,7 +13,7 @@ Despite their petite frames, Quokkans are not to be underestimated. Their large 
 
 Within Oziria's borders, the serene [[Rotrest]] Islands are the heartlands of the Quokkan people. A realm where magical energies and natural beauty merge, [[Rotrest]] is a testimony to the Quokkan's mastery over harmonious living. Its landscapes are punctuated with awe-inspiring floating gardens, cascading waterfalls that glitter under the sun, and dense forests that house mystical creatures. Here, magic doesn't just lie in the environment but is deeply woven into the Quokkan way of life.
 
-The bonds of friendship extend beyond their island territories. Their camaraderie with the [[Wallabian]]s is legendary, often celebrated through shared festivities and traditions. The Festival of Smiles is a living testament to their ancestors' commitment to joy and unity. And while they're celebrated as herbalists, offering elixirs that heal and rejuvenate, their history also speaks of their strength. The Great Marsh Siege stands as a proud chapter, where, with wisdom and wit, the Quokkans repelled aggressors, affirming their place in Oziria's diverse tapestry.
+The bonds of friendship extend beyond their island territories. Their camaraderie with the [[Wallabian]] is legendary, often celebrated through shared festivities and traditions. The Festival of Smiles is a living testament to their ancestors' commitment to joy and unity. And while they're celebrated as herbalists, offering elixirs that heal and rejuvenate, their history also speaks of their strength. The Great Marsh Siege stands as a proud chapter, where, with wisdom and wit, the Quokkans repelled aggressors, affirming their place in Oziria's diverse tapestry.
 
 -----
 ### Quokkan traits

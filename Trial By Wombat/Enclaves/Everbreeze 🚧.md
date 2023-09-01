@@ -12,10 +12,10 @@ Mayor Rosella
 The Festive Federation
 
 **Population:**  
-Approximately 300,000, a charming potpourri of races with [[Wallabian]]s and [[Echidnarian]]s as the dominant groups.
+Approximately 300,000, a charming potpourri of races with [[Wallabian]] and [[Echidnarian]]s as the dominant groups.
 
 **Main Ozirian Races that Reside There:**  
-- [[Wallabian]]s (primarily merchants and festival organizers)
+- [[Wallabian]] (primarily merchants and festival organizers)
 - [[Echidnarian]]s (expert blacksmiths and engineers)
 - [[Wombari]] (renowned food vendors and tavern keepers)
 - [[Quokkan]] (messengers and information gatherers)
@@ -59,5 +59,3 @@ A blend of natural materials and arcane craftsmanship, homes often have enchantm
 ---
 
 Everbreeze stands as the epitome of community and joviality, harmoniously blending the arts of culinary, crafts, and kinship. It’s a place where every day feels like a festival and every night is a poetic recitation of Oziria's vibrant soul.
-
-How does that align with the vision you had for Everbreeze, Game Master Daddy?

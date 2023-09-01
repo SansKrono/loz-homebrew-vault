@@ -12,11 +12,11 @@ Harborlord Luminar
 The Maritime Prosperity Coalition
 
 **Population:**  
-Approximately 1.2 million, a melting pot of Ozirian races with [[Quokkan]]s, [[Wallabian]]s, [[Petaurii]], and [[Kookari]] leading the numbers.
+Approximately 1.2 million, a melting pot of Ozirian races with [[Quokkan]]s, [[Wallabian]], [[Petaurii]], and [[Kookari]] leading the numbers.
 
 **Main Ozirian Races that Reside There:**  
 - [[Quokkan]]s (diplomats and merchants)
-- [[Wallabian]]s (guild leaders and traders)
+- [[Wallabian]] (guild leaders and traders)
 - [[Petaurii]] (aerial entertainers and scouts)
 - [[Kookari]] (artisans and performers)
 - Occasional traders and travelers from other races, adding to the multicultural essence.
@@ -25,7 +25,7 @@ Approximately 1.2 million, a melting pot of Ozirian races with [[Quokkan]]s, [[W
 - Fine jewelry and crafted metals, reminiscent of Sydney's mining exports.
 - Artistic creations, especially [[Kookari]]-made sculptures and paintings.
 - Fresh seafood and gourmet marine dishes.
-- Innovative transportation vessels designed by [[Wallabian]]s.
+- Innovative transportation vessels designed by [[Wallabian]].
 - Opulent textiles and garments, reflecting Sydney's fashion industry.
 - Musical instruments, many crafted by [[Kookari]] artisans.
 - Luxurious wines and beverages, catering to an international palate.
@@ -37,7 +37,7 @@ Stunning coastal residences overlooking the harbor, high-rise towers with panora
 16,000 Sunbridge Defenders, an amalgamation of marine, aerial, and ground units.
 
 **Grading of Military (Determining strength of military):**  
-8.2 out of 10 – Their strength lies in their naval prowess, the aerial advantage of [[Petaurii]], and the guild armies of [[Wallabian]]s.
+8.2 out of 10 – Their strength lies in their naval prowess, the aerial advantage of [[Petaurii]], and the guild armies of [[Wallabian]].
 
 **Types of Security Measures in the Province:**  
 - Advanced naval defenses to counteract [[Crocosian]] threats.
