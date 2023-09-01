@@ -31,13 +31,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e7d95c52488c57e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Trial By Wombat/Images/Earthshaper Caverns.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Images/Earthshaper Caverns.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
+                "file": "Trial By Wombat/Images/Earthshaper Caverns.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md"
+                "file": "Trial By Wombat/Images/Earthshaper Caverns.png"
               }
             }
           },
@@ -174,53 +185,53 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "21c445a73e27561d",
+  "active": "4486aa36936c2321",
   "lastOpenFiles": [
+    "Trial By Wombat/Images/Azure Depths.png",
+    "Trial By Wombat/Images/Kangaroon.png",
+    "Trial By Wombat/DMTools/Overview Table.md",
+    "Trial By Wombat/Items/Mystical Koi.md",
+    "Trial By Wombat/Items/Marshlight Beacon.md",
+    "Trial By Wombat/Items/Marsh-Woven Satchel of Holding.md",
+    "Trial By Wombat/Items/Lantern of Whispering Wisps.md",
+    "Trial By Wombat/Items/Lantern of the Revealing Mists.md",
+    "Trial By Wombat/Items/Lantern of Illusory Terrain.md",
+    "Trial By Wombat/Items/Lantern of Elemental Warding.md",
+    "Trial By Wombat/Items/Everflame Lantern.md",
+    "Trial By Wombat/Items/Ethereal Pearl Earrings.md",
+    "Trial By Wombat/Items/Charm of Marsh Navigation.md",
+    "Trial By Wombat/Items/Aquatic Aether.md",
+    "Trial By Wombat/Items/All-Weather Marshmantle.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns.md",
+    "Trial By Wombat/Homelands/Grasstide.md",
+    "Trial By Wombat/Homelands/Stoneclaw.md",
+    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
+    "Trial By Wombat/Shops",
+    "Trial By Wombat/Items",
+    "Trial By Wombat/Homelands/The Whispering Marshes.md",
     "netlify-new.toml",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Stores/Pearlshine Boutique/Pearlshine Boutique.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Stores/Marsh Mysteries Curios/Marsh Mysteries Curios.md",
+    "Trial By Wombat/Shops/Pearlshine Boutique.md",
+    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
     "Trial By Wombat/Races/Canidor.md",
     "Trial By Wombat/Races/Prompts/Prompts.md",
     "Trial By Wombat/Enclaves/Rivergate.md",
     "ref",
     "Trial By Wombat/Enclaves/Sunbridge.md",
-    "Trial By Wombat/Enclaves/Twilight Forest.md",
-    "Trial By Wombat/Enclaves/Hollowpeak.md",
-    "Trial By Wombat/Enclaves/Everbreeze.md",
-    "home.md",
-    "Trial By Wombat/Races/Kangaroon.md",
-    "Trial By Wombat/Races/Wallabian.md",
-    "Trial By Wombat/Races/Quokkan.md",
-    "Trial By Wombat/Towns/The Whispering Marshes/Mirebrook.md",
-    "Trial By Wombat/Races/Petaurii.md",
-    "Trial By Wombat/Races/Koalari.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
-    "Trial By Wombat/Homelands/Echohaven/Echohaven.md",
     "Trial By Wombat/Homelands/Waterscale",
     "Trial By Wombat/Homelands/Valleybrook",
     "Trial By Wombat/Homelands/Tranquil Canopy",
     "Trial By Wombat/Homelands/Sunbaked Expanse",
     "Trial By Wombat/Homelands/Stoneclaw",
     "Trial By Wombat/Homelands/Shadowmire",
-    "Trial By Wombat/Homelands/Shadowed Highlands",
-    "Trial By Wombat/Homelands/Rotrest",
-    "Trial By Wombat/Homelands/Reddune",
-    "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Gorak the Brute.md",
-    "Styling Templates/Callouts.md",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Guardian.png",
-    "ref/5e References/mechanics/Spells.md",
-    "ref/5e References/mechanics/Monsters.md",
-    "ref/5e References/mechanics/Saving Throws.md",
-    "ref/5e References/mechanics/Spell Saving Throws.md",
     "Trial By Wombat/Images/The Elixirs Guardian.png",
     "Trial By Wombat/0. DM - Session Tools/Year 127 - The Todek Rebellion/0. Enemies/The Elixirs Sentinel.png",
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "Trial By Wombat/Images/Mirebrook.png",
-    "Trial By Wombat/Images/Homelands/Whispering Marshes.png",
-    "Trial By Wombat/Images/Homelands/Earthshaper Caverns.png.png",
-    "Trial By Wombat/Images/Portraits/Wallabian.png",
-    "Trial By Wombat/Images/Portraits/Wombari.png"
+    "Trial By Wombat/Images/Whispering Marshes.png",
+    "Trial By Wombat/Images/Earthshaper Caverns.png",
+    "Trial By Wombat/Images/Wallabian.png"
   ]
 }

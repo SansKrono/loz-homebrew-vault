@@ -1,6 +1,6 @@
 > [!infobox | wfull content-padding-small]
 > ### Engineered dwelling within the Amethyst Range
-> ![[Earthshaper Caverns.png.png|cover]]
+> ![[Earthshaper Caverns.png|cover]]
 > 
 > ##### Overview
 > |  |   |
