@@ -1,0 +1,3 @@
+Not all Todek are easily swayed by [[Vorkesh]]'s charm, and Scorg is among the skeptics. He's grounded, practical, and has a firm grasp on the potential pitfalls of [[Vorkesh]]'s ambitions. He's not necessarily against the idea of Todek unity, but he takes issue with some of the means being used. This makes him more approachable and potentially ally-worthy to outsiders.
+
+- **Quirk**: Often rubs a small scar on his wrist, a reminder of a past disagreement with other Todek. It's both a point of pride and a sign of his reservations about [[Vorkesh]]'s methods.

@@ -1,0 +1,30 @@
+- [[Canidor]]
+	- Humanoid dingo, wearing dirty desert clothes, holding a spear, dry sand dunes, dungeons and dragons theme, fantasy world
+- [[Crocosian]]
+	- Humanoid Crocodile, wearing scaly green armour, holding a cleaver, in a dense swampland,  angry, dungeons and dragons theme, fantasy world
+- [[Diprotean]]
+- [[Echidnarian]]
+	- Humanoid Echidna, wearing leather armour, holding a longbow, in a forest full of thorny fauna, dungeons and dragons theme, fantasy world
+- [[Kangaroon]]
+	- Humanoid Kangaroo, wearing heavy desert armour, Holding a shield, looking up to the sky in the vast outback, strong, dungeons and dragons theme, fantasy world
+- [[Koalari]]
+	- Koala, wearing druid clothes, holding leaf, performing a ritual in a forest, serene, calm, dungeons and dragons theme, fantasy world
+- [[Kookari]]
+	- humanoid Kookaburra, wearing bards clothes, wings for arms, playing a lute and laughing, sitting by the beach, dungeons and dragons theme, fantasy world
+- [[Petaurii]]
+	- humanoid sugar glider, hunting in the woods, wearing hunter clothes, standing on a log, dungeons and dragons theme, fantasy world
+- [[Pipistrellian]]
+- [[Platypian]]
+- [[Quokkan]]
+	- Quokka, smiling, wearing light armour, gathering herbs, dungeons and dragons theme, fantasy world
+- [[Tasmanianite]]s
+	- humanoid tasmanian devil, wearing barbarian armour, wielding a spear, squatting in jagged rocky mountains, dungeons and dragons theme, fantasy world
+- [[Thornar]]
+	- humanoid thorny devil, wearing desert robes, wielding a dagger in each hand, standing in a rocky desert, dungeons and dragons theme, fantasy world
+- Thylacirian
+	- humanoid tasmanian tiger, wearing light battle armour, wielding a spear, charging into battle, dungeons and dragons theme, fantasy world
+- Todek
+- [[Wallabian]]
+	- humanoid Wallaby, wearing colourful leather, in grassy plains, dungeons and dragons theme, fantasy world
+- [[Wombari]]
+	- Wombat, wearing mining gear, in a large cave full of crystals and ore, dungeons and dragons theme, fantasy world

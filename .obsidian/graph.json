@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Trial By Wombat\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16769618
+      }
+    },
+    {
+      "query": "path:\"DnD 5e References/npcs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path: \"DnD 5e References/items\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12935378
+      }
+    },
+    {
+      "query": "path:\"DnD 5e References/spells\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3566809
+      }
+    },
+    {
+      "query": "path:\"DnD 5e References/monsters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14497334
+      }
+    },
+    {
+      "query": "path:\"DnD 5e References/creatures\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7393995
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.07915224913495,
+  "lineSizeMultiplier": 1.43520761245675,
+  "collapse-forces": false,
+  "centerStrength": 0.625432525951557,
+  "repelStrength": 11.1245674740484,
+  "linkStrength": 1,
+  "linkDistance": 207,
+  "scale": 0.21473348254544083,
+  "close": false
+}

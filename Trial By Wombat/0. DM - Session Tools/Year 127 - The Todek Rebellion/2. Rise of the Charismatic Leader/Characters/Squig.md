@@ -1,0 +1,3 @@
+A low-ranking member of the Todek faction, this individual can easily be swayed by a display of power or authority. While loyal to [[Vorkesh]] and the faction, his allegiance can waver if he feels personally threatened. The information he gives can be a mix of truths, half-truths, and fabrications, driven by his desire to protect himself.
+
+- **Quirk**: Frequently bites his nails. If he has no nails left to bite, he'll nervously pick at the skin around them.

@@ -1,0 +1,1 @@
+Bindi, a poisoned [[Wallabian]], becomes vital for players to extract information. While weak and initially incoherent due to the poisoning, Bindi, once healed, proves to be a valuable source of intel. She's grateful for any aid, honest, and willing to share what she knows about the Todek's activities and the new faction's rise.

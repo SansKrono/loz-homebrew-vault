@@ -1,0 +1,18 @@
+{
+  "accentColor": "#7a1010",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "S - Embed Adjustments",
+    "S - External Link Icons",
+    "S - Dataview Cards",
+    "S - Callouts",
+    "S - Checkboxes",
+    "S - Images Adjustments",
+    "obsidian-pagebreaks",
+    "loz-custom-styles"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 15
+}
