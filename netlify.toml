@@ -9,7 +9,7 @@ GRAPH_LINK_REPLACE = "y"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "circle",
+        		shape: "dot",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",
@@ -36,7 +36,7 @@ GRAPH_OPTIONS = """
         	height: "100%",
         	width: "100%",
         	physics: {
-        		solver: "repulsion",
+        		solver: "forceAtlas2Based",
         	},
         }
         """
