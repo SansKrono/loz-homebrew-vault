@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Game Master",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Notable Locations/Serpentail River.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Notable Locations/Serpentail River.md"
+                "file": "home.md"
               }
             }
           },
@@ -188,6 +187,7 @@
   },
   "active": "21c445a73e27561d",
   "lastOpenFiles": [
+    "Trial By Wombat/Notable Locations/Serpentail River.md",
     "Trial By Wombat/DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Characters/Relgar.md",
     "Trial By Wombat/Towns/Mirebrook.md",
     "ref/5e References/mechanics/Inspiration.md",
@@ -213,7 +213,6 @@
     "Trial By Wombat/Lore/History/The Creation of Oziria.md",
     "Trial By Wombat/Lookups/Ozirian Races.md",
     "Trial By Wombat/Lookups/Ozirian Creatures.md",
-    "Trial By Wombat/Creatures/Verdant Owl.md",
     "Trial By Wombat/Lookups",
     "Trial By Wombat/Creatures",
     "Trial By Wombat/Lore/History",
