@@ -4,8 +4,8 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Trial By Wombat\"  ",
@@ -15,51 +15,23 @@
       }
     },
     {
-      "query": "path:\"DnD 5e References/npcs\"  ",
+      "query": "path:DMTools  ",
       "color": {
         "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path: \"DnD 5e References/items\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 12935378
-      }
-    },
-    {
-      "query": "path:\"DnD 5e References/spells\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3566809
-      }
-    },
-    {
-      "query": "path:\"DnD 5e References/monsters\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14497334
-      }
-    },
-    {
-      "query": "path:\"DnD 5e References/creatures\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7393995
+        "rgb": 16711914
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.07915224913495,
-  "lineSizeMultiplier": 1.43520761245675,
+  "nodeSizeMultiplier": 1.41825259515571,
+  "lineSizeMultiplier": 1.38434256055363,
   "collapse-forces": false,
-  "centerStrength": 0.625432525951557,
-  "repelStrength": 11.1245674740484,
+  "centerStrength": 0.538927335640138,
+  "repelStrength": 10.0865051903114,
   "linkStrength": 1,
-  "linkDistance": 207,
-  "scale": 0.21473348254544083,
+  "linkDistance": 238,
+  "scale": 0.12935573671345324,
   "close": false
 }
