@@ -1,32 +1,32 @@
 #items
 
-- [[All-Weather Marshmantle]]
-- [[Warden's Bog-Boots]]
-- [[Aquatic Aether]]
-- [[Pearl-Infused Healing Potion]]
-- [[Enchanted Seaweed]]
-- [[Mystical Koi]]
-- [[Silver Scaled Marshfish]]
-- [[Ethereal Pearl Earrings]]
-- [[Necklace of Whispering Waters]]
-- [[Ring of the Pearl Seafoam]]
-- [[Everflame Lantern]]
-- [[Lagoon Lantern]]
-- [[Lantern of Elemental Warding]]
-- [[Lantern of Illusory Terrain]]
-- [[Lantern of Moonlit Pathways]]
-- [[Lantern of the Revealing Mists]]
-- [[Lantern of Whispering Wisps]]
-- [[Marshlight Beacon]]
-- [[Moonlit Lilies]]
-- [[Spritecatcher Lantern]]
-- [[Marsh-Woven Satchel of Holding]]
-- [[Reed-Woven Storage Canisters]]
-- [[Pearl-Embossed Spellbook]]
-- [[Water Sprites]]
-- [[Charm of Marsh Navigation]]
-- [[Orb of Luminous Pearl]]
-- [[Shell of Echoing Waves]]
-- [[Wispmoss]]
-- [[Whispering Reed Quiver]]
-- [[Pearl-Tipped Wand of Water Control]]
+- All-Weather Marshmantle
+- Warden's Bog-Boots
+- Aquatic Aether
+- Pearl-Infused Healing Potion
+- Enchanted Seaweed
+- Mystical Koi
+- Silver Scaled Marshfish
+- Ethereal Pearl Earrings
+- Necklace of Whispering Waters
+- Ring of the Pearl Seafoam
+- Everflame Lantern
+- Lagoon Lantern
+- Lantern of Elemental Warding
+- Lantern of Illusory Terrain
+- Lantern of Moonlit Pathways
+- Lantern of the Revealing Mists
+- Lantern of Whispering Wisps
+- Marshlight Beacon
+- Moonlit Lilies
+- Spritecatcher Lantern
+- Marsh-Woven Satchel of Holding
+- Reed-Woven Storage Canisters
+- Pearl-Embossed Spellbook
+- Water Sprites
+- Charm of Marsh Navigation
+- Orb of Luminous Pearl
+- Shell of Echoing Waves
+- Wispmoss
+- Whispering Reed Quiver
+- Pearl-Tipped Wand of Water Control
