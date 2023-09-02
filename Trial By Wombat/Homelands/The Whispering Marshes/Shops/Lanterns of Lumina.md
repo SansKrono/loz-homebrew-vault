@@ -8,13 +8,13 @@ The ethereal glow emanating from the Lanterns of Lumina shop beckons visitors fr
 
 ### Compendium Entries: Magical Lanterns of Lanterns of Lumina
 
-- Lantern of Whispering Wisps
-- Marshlight Beacon
-- Lantern of Elemental Warding
-- Everflame Lantern
-- Lantern of Illusory Terrain
-- Lantern of Moonlit Pathways
-- Lantern of the Revealing Mists
-- Spritecatcher Lantern
+- [[Lantern of Whispering Wisps]]
+- [[Marshlight Beacon]]
+- [[Lantern of Elemental Warding]]
+- [[Everflame Lantern]]
+- [[Lantern of Illusory Terrain]]
+- [[Lantern of Moonlit Pathways]]
+- [[Lantern of the Revealing Mists]]
+- [[Spritecatcher Lantern]]
 
 #shops

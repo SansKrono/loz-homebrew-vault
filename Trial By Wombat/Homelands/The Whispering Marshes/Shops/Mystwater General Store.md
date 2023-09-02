@@ -12,12 +12,12 @@ Nestled on the edge of a tranquil lagoon, the Mystwater General Store is a vital
 
 ### Compendium Entries: Specialized Goods of Mystwater General Store
 
-- Marsh-Woven Satchel of Holding
-- Whispering Reed Quiver
-- All-Weather Marshmantle
-- Reed-Woven Storage Canisters
-- Warden's Bog-Boots
-- Charm of Marsh Navigation
-- Lagoon Lantern
+- [[Marsh-Woven Satchel of Holding]]
+- [[Whispering Reed Quiver]]
+- [[All-Weather Marshmantle]]
+- [[Reed-Woven Storage Canisters]]
+- [[Warden's Bog-Boots]]
+- [[Charm of Marsh Navigation]]
+- [[Lagoon Lantern]]
 
 #shops

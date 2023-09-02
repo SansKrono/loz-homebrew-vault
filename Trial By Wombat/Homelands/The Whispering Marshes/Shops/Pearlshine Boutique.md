@@ -12,13 +12,13 @@ With its elegant exterior and tastefully decorated interior, the Pearlshine Bout
 
 ### Compendium Entries: Exquisite Items of Pearlshine Boutique
 
-- Necklace of Whispering Waters
-- Ethereal Pearl Earrings
-- Orb of Luminous Pearl
-- Pearl-Embossed Spellbook
-- Ring of the Pearl Seafoam
-- Pearl-Infused Healing Potion
-- Pearl-Tipped Wand of Water Control
-- Water Sprites
+- [[Necklace of Whispering Waters]]
+- [[Ethereal Pearl Earrings]]
+- [[Orb of Luminous Pearl]]
+- [[Pearl-Embossed Spellbook]]
+- [[Ring of the Pearl Seafoam]]
+- [[Pearl-Infused Healing Potion]]
+- [[Pearl-Tipped Wand of Water Control]]
+- [[Water Sprites]]
 
 #shops

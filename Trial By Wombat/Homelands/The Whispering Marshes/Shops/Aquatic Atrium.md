@@ -12,12 +12,12 @@ The Aquatic Atrium is a hub for all things aquatic. From decorative fishes that 
 
 ### Compendium Entries: Special Offerings of the Aquatic Atrium
 
-- Moonlit Lilies
-- Silver Scaled Marshfish
-- Mystical Koi
-- Enchanted Seaweed
-- Wispmoss
-- Aquatic Aether
-- Shell of Echoing Waves
+- [[Moonlit Lilies]]
+- [[Silver Scaled Marshfish]]
+- [[Mystical Koi]]
+- [[Enchanted Seaweed]]
+- [[Wispmoss]]
+- [[Aquatic Aether]]
+- [[Shell of Echoing Waves]]
 
 #shops

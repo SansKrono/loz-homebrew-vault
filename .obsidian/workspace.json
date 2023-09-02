@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lookups/Lore.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Lookups/Lore.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Lookups/Lore.md",
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Lookups/Lore.md"
+                "file": "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md"
               }
             }
           },
@@ -158,21 +158,10 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
-    "home.md",
-    "Trial By Wombat/Lookups/Lore.md",
-    "Trial By Wombat/Notable Locations/Azure Depths.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Runnal, the Sky Spirit.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Murrundi, the Lake Spirit.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Eucalys, the Tree Spirit.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Bunyara, the Land Spirit.md",
-    "Trial By Wombat/Lore/History/The Creation of Oziria.md",
-    "Trial By Wombat/Lore/History/The Cataclysm of Thylacirians and Pipistrellians, and the Diprotean Sacrifice.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Pearlshine Boutique.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Ripples' Rest Tavern.md",
     "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Stiltwood Sawmill.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
     "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Song of the Depths.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Ripples' Rest Tavern.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Pearlshine Boutique.md",
     "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Mystwater General Store.md",
     "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marshroot Herbal Haven.md",
     "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marsh Mysteries Curios.md",
@@ -184,6 +173,17 @@
     "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Petrified Potions & Elixirs.md",
     "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Luminescent Lanterns.md",
     "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Grotto Grimoires.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Granite Gourmet.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Earthbound Essentials.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Crystal Core Emporium.md",
+    "Trial By Wombat/Lookups/Lore.md",
+    "home.md",
+    "Trial By Wombat/Notable Locations/Azure Depths.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Runnal, the Sky Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Murrundi, the Lake Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Eucalys, the Tree Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Bunyara, the Land Spirit.md",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images",
