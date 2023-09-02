@@ -1,6 +1,6 @@
-Hidden in the rolling hills and dense foliage of the hinterland, Nightleaf is a city that comes alive at twilight. Bioluminescent plants light up the pathways, and tree dwellings have large, round windows. The [[Petaurii]] are expert gliders, often seen leaping and soaring between platforms. Markets sell a variety of nocturnal fruits and handwoven textiles.
+Hidden in the rolling hills and dense foliage of the hinterland, Nightleaf is a city that comes alive at twilight. Bioluminescent plants light up the pathways, and tree dwellings have large, round windows. The Petaurii are expert gliders, often seen leaping and soaring between platforms. Markets sell a variety of nocturnal fruits and handwoven textiles.
 
-**Nightleaf - Homeland of the [[Petaurii]]**
+**Nightleaf - Homeland of the Petaurii**
 
 **Size of City:**  
 Expansive city scattered across the hinterland hills, interconnected by treetop dwellings and suspended platforms.
@@ -12,12 +12,12 @@ Elder Luminara
 Council of Twilight Whispers
 
 **Population:**  
-Around 90,000, predominantly [[Petaurii]].
+Around 90,000, predominantly Petaurii.
 
 **Main Ozirian Races that Reside There:**  
-- [[Petaurii]] (majority)
-- [[Wallabian]] (trade partners and close allies)
-- Few [[Quokkan]]s (drawn by the nocturnal beauty of Nightleaf)
+- Petaurii (majority)
+- Wallabian (trade partners and close allies)
+- Few Quokkans (drawn by the nocturnal beauty of Nightleaf)
 
 **Main Trade Exports:**  
 - Nocturnal fruits known for their unique tastes and health benefits.
@@ -43,10 +43,10 @@ Tree dwellings with large, circular windows, illuminated with bioluminescent pla
 **Prominent Locations in the City:**  
 1. **Starlit Square:** Central marketplace bustling with traders selling nocturnal fruits and textiles.
 2. **Luminara's Sanctuary:** The tranquil residence of Elder Luminara, surrounded by shimmering ponds.
-3. **Gliders' Nest:** Training ground for young [[Petaurii]] to master their gliding skills.
+3. **Gliders' Nest:** Training ground for young Petaurii to master their gliding skills.
 4. **Moonshadow Library:** Repository of ancient tales, history, and moonlight rituals.
 5. **Twilight Pools:** Natural ponds reflecting the night sky, a popular gathering spot.
-6. **Enchanted Clearing:** A magical grove where [[Petaurii]] dance under the stars during festivals.
+6. **Enchanted Clearing:** A magical grove where Petaurii dance under the stars during festivals.
 7. **Silken Web:** Workshop area where the finest silks and textiles of Nightleaf are crafted.
 8. **Starbranch Arena:** Venue for the Starbranch Festivals and other major community events.
 9. **Mapmaker's Hut:** Where renowned cartographers craft detailed silk maps of Oziria.

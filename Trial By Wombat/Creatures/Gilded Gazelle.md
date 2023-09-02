@@ -1,4 +1,4 @@
-Considered sacred by the [[Wallabian]] of [[Valleybrook]] and revered by the [[Kangaroon]] of the [[Sunbaked Expanse]], who see its golden antlers as a blessing from [[Bunyara, the Land Spirit]] himself. Druids and rangers quest to find it in hopes of receiving its blessing, while unscrupulous treasure hunters seek its golden antlers for their material worth—ignorant of the fact that the antlers lose their magic once separated from the living Gazelle.
+Considered sacred by the Wallabian of Valleybrook and revered by the Kangaroon of the Sunbaked Expanse, who see its golden antlers as a blessing from Bunyara, the Land Spirit himself. Druids and rangers quest to find it in hopes of receiving its blessing, while unscrupulous treasure hunters seek its golden antlers for their material worth—ignorant of the fact that the antlers lose their magic once separated from the living Gazelle.
 
 ## Gilded Gazelle
 

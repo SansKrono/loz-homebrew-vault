@@ -1,6 +1,6 @@
- High up in the ancient trees of the Daintree, the [[Koalari]] have created an arboreal sanctuary. Treehouses with thatched roofs and large balconies overlook the dense undergrowth below. Vines serve as natural swings, and moss-covered stairs spiral around trunks. The forest floor is sacred, reserved for spiritual ceremonies and rituals under the moon.
+ High up in the ancient trees of the Daintree, the Koalari have created an arboreal sanctuary. Treehouses with thatched roofs and large balconies overlook the dense undergrowth below. Vines serve as natural swings, and moss-covered stairs spiral around trunks. The forest floor is sacred, reserved for spiritual ceremonies and rituals under the moon.
 
-**The Tranquil Canopy - [[Koalari]] Homeland**
+**The Tranquil Canopy - Koalari Homeland**
 
 **Size of Province:**  
 Verdant forest realm marked by ancient towering trees, vibrant undergrowth, and mystical groves.
@@ -12,13 +12,13 @@ Elder Moonsong
 The Moonleaf Council
 
 **Population:**  
-Approximately 200,000, predominantly [[Koalari]].
+Approximately 200,000, predominantly Koalari.
 
 **Main Ozirian Races that Reside There:**  
-- [[Koalari]] (majority)
-- [[Petaurii]] nocturnal inhabitants and allies
-- [[Quokkan]] seekers of wisdom and merchants
-- Occasional [[Canidor]] scouts, often met with caution due to past conflicts
+- Koalari (majority)
+- Petaurii nocturnal inhabitants and allies
+- Quokkan seekers of wisdom and merchants
+- Occasional Canidor scouts, often met with caution due to past conflicts
 
 **Main Trade Exports:**  
 - Rare and potent healing herbs, renowned across Oziria.
@@ -33,7 +33,7 @@ Elevated treehouses made with natural materials like wood, thatch, and vines. Ho
 10,000 Forest Guardians, skilled in nature magic, stealth, and pacification tactics.
 
 **Grading of Military (Determining strength of military):**  
-6 out of 10 – The [[Koalari]] prioritize harmony and diplomacy over aggression. Their strength lies in their unity and the mystical powers they draw from the forest.
+6 out of 10 – The Koalari prioritize harmony and diplomacy over aggression. Their strength lies in their unity and the mystical powers they draw from the forest.
 
 **Types of Security Measures in the Province:**  
 - Nature enchantments that deter intruders.
@@ -44,23 +44,23 @@ Elevated treehouses made with natural materials like wood, thatch, and vines. Ho
 **Prominent Locations in the Province:**  
 1. **Elder's Sanctuary:** Home of Elder Moonsong, and meeting place for the Moonleaf Council.
 2. **Moonleaf Glade:** Sacred grove where the Moonleaf Ceremony is held.
-3. **Grove of Whispers:** Where [[Koalari]] gather to sing ancient songs.
-4. **[[Petaurii]] Enclave:** A special nocturnal realm for the [[Petaurii]].
+3. **Grove of Whispers:** Where Koalari gather to sing ancient songs.
+4. **Petaurii Enclave:** A special nocturnal realm for the Petaurii.
 5. **Healer's Hollow:** Renowned for its rare herbs and elixirs.
-6. **Silent Canopy Memorial:** Commemorating the conflict and reconciliation with [[Canidor]]s.
+6. **Silent Canopy Memorial:** Commemorating the conflict and reconciliation with Canidors.
 7. **Starlit Platforms:** Elevated areas for stargazing and meditation.
 8. **Forest Archive:** Repository of ancient wisdom and records.
 9. **Vinehaven Market:** Central trading hub for forest goods.
 10. **Cascade Clearing:** A serene waterfall and gathering point for tranquil reflection.
 
-In The Tranquil Canopy, the [[Koalari]] serve as the soulful custodians of nature's secrets. Their deep connection to the land and its spiritual energies makes them both revered guides and masterful druids. While they prefer peace and reflection, their history has seen moments of strife, yet their essence remains unwaveringly committed to harmony and balance.
+In The Tranquil Canopy, the Koalari serve as the soulful custodians of nature's secrets. Their deep connection to the land and its spiritual energies makes them both revered guides and masterful druids. While they prefer peace and reflection, their history has seen moments of strife, yet their essence remains unwaveringly committed to harmony and balance.
 
 ## Shops
 
 1. **Spirit's Resonance General Store:**
     
     - **Description:** Catering to daily needs, this general store stocks a plethora of forest-sourced essentials.
-    - **Specialty Items:** Biodegradable tools, nature-sourced utilities, and [[Koalari]] lanterns.
+    - **Specialty Items:** Biodegradable tools, nature-sourced utilities, and Koalari lanterns.
       
 2. **Lunar Essence Apothecary:**
     
@@ -79,12 +79,12 @@ In The Tranquil Canopy, the [[Koalari]] serve as the soulful custodians of natur
       
 5. **Grove Whisperer's Wear:**
     
-    - **Description:** A boutique offering attire that resonates with the forest's aesthetic and the [[Koalari]]'s spiritual connection.
+    - **Description:** A boutique offering attire that resonates with the forest's aesthetic and the Koalari's spiritual connection.
     - **Specialty Items:** Moss-cloaks, bark-braced sandals, and vine-crafted belts.
       
 6. **Ancient Canopy Librarium:**
     
-    - **Description:** A repository of the rich history, tales, and wisdom of the [[Koalari]].
+    - **Description:** A repository of the rich history, tales, and wisdom of the Koalari.
     - **Specialty Items:** Chronicles of the Silent Canopy Conflict, druidic spellbooks, and lore scrolls.
       
 7. **Nature's Cradle Inn:**
@@ -94,7 +94,7 @@ In The Tranquil Canopy, the [[Koalari]] serve as the soulful custodians of natur
       
 8. **Song of the Spirits Tavern:**
     
-    - **Description:** A gathering place where [[Koalari]] share tales, songs, and a good laugh.
+    - **Description:** A gathering place where Koalari share tales, songs, and a good laugh.
     - **Specialty Items:** Forest fruit wines, root-infused brews, and spirit-touched melodies.
       
 9. **Grove Guardians' Armory:**

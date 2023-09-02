@@ -11,9 +11,9 @@ Distinguished by a distinctive bill and dense, water-resistant fur, the Platypia
 
 Nestled in Oziria lies the Whispering Marshes, the heartland of the Platypians. It's an ethereal landscape where mists shield hidden wonders, and water and earth are forever intertwined. Here, amidst the tranquil lakes and the soft murmurs of the marsh, the Platypians have woven their stories. The waters conceal not just secrets but also ancient ruins echoing tales of bygone eras.
 
-Their bond with water has cultivated a close alliance with the [[Wombari]]. Together, they share rituals and knowledge, the most sacred being the Water's Whisper, a communion with the very essence of the aquatic realms. Beyond the spiritual, the waters of the [[The Whispering Marshes]]bring forth tangible treasures. Freshwater pearls, glistening tokens of the marsh, become sought-after treasures in Oziria's markets.
+Their bond with water has cultivated a close alliance with the Wombari. Together, they share rituals and knowledge, the most sacred being the Water's Whisper, a communion with the very essence of the aquatic realms. Beyond the spiritual, the waters of the The Whispering Marshesbring forth tangible treasures. Freshwater pearls, glistening tokens of the marsh, become sought-after treasures in Oziria's markets.
 
-However, peace is not the only note in their song. The Mysterious Drift War remains a poignant memory, a testament to the challenges faced and overcome. Through highs and lows, the [[The Whispering Marshes]]stand as a testament to the spirit and legacy of the Platypians.
+However, peace is not the only note in their song. The Mysterious Drift War remains a poignant memory, a testament to the challenges faced and overcome. Through highs and lows, the The Whispering Marshesstand as a testament to the spirit and legacy of the Platypians.
 
 -----
 ### Platypian traits

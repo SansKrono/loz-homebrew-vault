@@ -1,6 +1,6 @@
-In Oziria, the Blossom Serpent holds a special place among the [[Koalari]] of [[Tranquil Canopy]]. These forest-dwelling people view the serpents as the earthly manifestations of [[Eucalys, the Tree Spirit]], and thus they are considered sacred guardians of the forest. Festivals during blooming seasons often feature intricate dances that mimic the sinuous movements of the Blossom Serpent.
+In Oziria, the Blossom Serpent holds a special place among the Koalari of Tranquil Canopy. These forest-dwelling people view the serpents as the earthly manifestations of Eucalys, the Tree Spirit, and thus they are considered sacred guardians of the forest. Festivals during blooming seasons often feature intricate dances that mimic the sinuous movements of the Blossom Serpent.
 
-For the [[Wallabian]] and [[Kangaroon]], the Blossom Serpent is more of a fabled creature, often represented in artistic tapestries and recounted in bedtime stories. They are believed to bring good fortune and are highly respected, even by those who rarely venture into the Tranquil Canopy.
+For the Wallabian and Kangaroon, the Blossom Serpent is more of a fabled creature, often represented in artistic tapestries and recounted in bedtime stories. They are believed to bring good fortune and are highly respected, even by those who rarely venture into the Tranquil Canopy.
 
 ## Blossom Serpent
 

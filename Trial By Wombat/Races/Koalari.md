@@ -11,11 +11,11 @@ The Koalari aren't just physically reminiscent of their animal counterparts; the
 -----
 ### Homeland
 
-Nestled deep within Oziria, where trees embrace the skies and the air is thick with the scent of age-old wisdom, lies the [[Tranquil Canopy]]. This lush, verdant sanctuary is home to the Koalari. Each tree is a testament to time, and the canopy provides both shelter and an expansive view of the stars, which the Koalari often gaze upon in silent contemplation.
+Nestled deep within Oziria, where trees embrace the skies and the air is thick with the scent of age-old wisdom, lies the Tranquil Canopy. This lush, verdant sanctuary is home to the Koalari. Each tree is a testament to time, and the canopy provides both shelter and an expansive view of the stars, which the Koalari often gaze upon in silent contemplation.
 
 Their bond with the forest is intimate. To them, each leaf, each vine has a story, a melody. Their spiritual rituals, especially the revered Moonleaf Ceremony, are an ode to this bond. These ceremonies aren't mere traditions but acts of renewing their vows with nature, ensuring protection and sustenance for all.
 
-Their interactions with other races reflect their role as nature's guardians. While the [[Petaurii]] find solace in their shared rhythms of life and the [[Quokkan]]s hold deep respect for their wisdom, their history isn't without turbulence. The Silent Canopy Conflict with the [[Canidor]]s is a reminder that even the tranquil have boundaries, but also that conflicts can lead to understanding and mutual respect.
+Their interactions with other races reflect their role as nature's guardians. While the Petaurii find solace in their shared rhythms of life and the Quokkans hold deep respect for their wisdom, their history isn't without turbulence. The Silent Canopy Conflict with the Canidors is a reminder that even the tranquil have boundaries, but also that conflicts can lead to understanding and mutual respect.
 
 Through trade, their knowledge of the forest's bounties becomes a bridge to other realms, offering healing herbs and exquisite wood. The Koalari's journey is a dance between tranquility and the occasional storm, but through it all, they remain steadfast, guiding all of Oziria towards harmony.
 

@@ -1,4 +1,4 @@
-For the [[Kookari]], spotting a Stormwing Falcon is a sign of [[Runnal, the Sky Spirit]]'s blessing—a good omen, indeed. Tales say that these birds often circle above sacred rituals, their presence amplifying the spiritual energy of the congregation below. Their feathers are considered sacred and are often used in ceremonial garbs and as foci for wind-based spells.
+For the Kookari, spotting a Stormwing Falcon is a sign of Runnal, the Sky Spirit's blessing—a good omen, indeed. Tales say that these birds often circle above sacred rituals, their presence amplifying the spiritual energy of the congregation below. Their feathers are considered sacred and are often used in ceremonial garbs and as foci for wind-based spells.
 
 ## Stormwing Falcon
 

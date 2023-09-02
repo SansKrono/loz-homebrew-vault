@@ -1,6 +1,6 @@
-Nestled among the pristine coastal waters, Rotrest is an island paradise with sun-kissed beaches and vibrant coral reefs. The city itself is characterized by dome-shaped stone and coral homes with circular doorways. This is a land of trade and festivity, where [[Quokkan]]s often engage in artistic pursuits, from mural painting to dance. Streets are adorned with seashell decorations, and it's common to see [[Quokkan]]s pedaling on unique seaweed-powered cycles.
+Nestled among the pristine coastal waters, Rotrest is an island paradise with sun-kissed beaches and vibrant coral reefs. The city itself is characterized by dome-shaped stone and coral homes with circular doorways. This is a land of trade and festivity, where Quokkans often engage in artistic pursuits, from mural painting to dance. Streets are adorned with seashell decorations, and it's common to see Quokkans pedaling on unique seaweed-powered cycles.
 
-**Rotrest - Province of the [[Quokkan]]s**
+**Rotrest - Province of the Quokkans**
 
 **Size of City:**  
 Island province spanning a range of coastal territories, with a bustling central city surrounded by smaller villages and coastal hamlets.
@@ -12,12 +12,12 @@ Eldress Luna
 Sunrise Coalition
 
 **Population:**  
-Around 90,000, primarily [[Quokkan]]s.
+Around 90,000, primarily Quokkans.
 
 **Main Ozirian Races that Reside There:**  
-- [[Quokkan]]s (majority)
-- [[Wallabian]] (friendly relations and trade partners)
-- Some [[Crocosian]]s (trading presence and past history)
+- Quokkans (majority)
+- Wallabian (friendly relations and trade partners)
+- Some Crocosians (trading presence and past history)
   
 **Main Trade Exports:**  
 - Medicinal elixirs and herbal remedies.
@@ -47,7 +47,7 @@ Dome-shaped structures made of coral and stone, with large, circular doorways. H
 4. **Seashell Market:** Marketplace selling artwork, elixirs, and local produce.
 5. **Coral Conservatory:** A center dedicated to preserving and studying the coral reefs.
 6. **Dancegrove Lane:** Where dance festivals and competitions are held.
-7. **Mural Mile:** A stretch along the coast adorned with vibrant mural paintings by [[Quokkan]] artists.
+7. **Mural Mile:** A stretch along the coast adorned with vibrant mural paintings by Quokkan artists.
 8. **Elixir Emporium:** The prime location for trading and learning about medicinal concoctions.
 9. **Siege Memorial Park:** A serene park dedicated to the memories of the Great Marsh Siege, celebrating peace and resilience.
 10. **Whimsy Woods:** Ancient forest known for its magical creatures and aura, often visited for rejuvenation and relaxation.

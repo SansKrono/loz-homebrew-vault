@@ -1,4 +1,4 @@
-The [[Koalari]] often claim that the Verdant Owls are the link between the tree spirits and the winds, relaying messages and omens from one to the other. Among shamans, to see a Verdant Owl is considered a sign that [[Eucalys, the Tree Spirit]] and [[Runnal, the Sky Spirit]] are watching over you, often an omen of good things to come.
+The Koalari often claim that the Verdant Owls are the link between the tree spirits and the winds, relaying messages and omens from one to the other. Among shamans, to see a Verdant Owl is considered a sign that Eucalys, the Tree Spirit and Runnal, the Sky Spirit are watching over you, often an omen of good things to come.
 
 ## Verdant Owl
 

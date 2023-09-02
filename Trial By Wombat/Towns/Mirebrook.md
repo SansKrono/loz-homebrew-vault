@@ -6,20 +6,20 @@
 > ##### Overview
 > |  |   |
 > | ---- | ---- |
-> | Homeland | [[The Whispering Marshes]]
+> | Homeland | The Whispering Marshes
 > | **Population** | 200 |
-> | **Leaders** | [[Dr. Webbly]] & [[Elder Billee]] |
-> | **Common Citizen Races** | [[Platypian]] |
+> | **Leaders** | Dr. Webbly & Elder Billee |
+> | **Common Citizen Races** | Platypian |
 > | **Main export**     | Medicinal herbs unique to the Whispering Marshes<br>Serpentail (Fish)|
-> | **Defences** | Small Battalion of 20 [[Platypian]] soldiers, specialized in guerrilla warfare and skilled in water-based spells. |
+> | **Defences** | Small Battalion of 20 Platypian soldiers, specialized in guerrilla warfare and skilled in water-based spells. |
 > | Strength | 3.5/10|
 > 
 
 
-Though dwarfed by the larger cities and enclaves of Oziria, Mirebrook’s essence is distilled from the very purity of its waters—a community grounded in the harmonious balance between mystical traditions and empirical remedies. Whether under the care of Dr. Weebly or seeking spiritual insight from Elder Billee, one can only find solace in this humble corner of the [[The Whispering Marshes]]
+Though dwarfed by the larger cities and enclaves of Oziria, Mirebrook’s essence is distilled from the very purity of its waters—a community grounded in the harmonious balance between mystical traditions and empirical remedies. Whether under the care of Dr. Weebly or seeking spiritual insight from Elder Billee, one can only find solace in this humble corner of the The Whispering Marshes
 
 **Geographical Location:**  
-Secluded within the [[The Whispering Marshes]] caressed by the meandering [[Serpentail River]].
+Secluded within the The Whispering Marshes caressed by the meandering Serpentail River.
 
 **Signature Traits:**  
 A village renowned for its sparkling waterways, contrasting with its marshland environment. A sanctuary of clarity amid the bog.

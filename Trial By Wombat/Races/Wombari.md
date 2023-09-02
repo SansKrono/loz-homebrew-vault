@@ -4,7 +4,7 @@ banner_y: 0.20333
 ---
 ### About
 
-In the heart of [[Earthshaper Caverns]] dwell the Wombari. Stocky in stature and possessing formidable digging claws, they are the underground realm's master builders. With a penchant for uncovering the earth's hidden treasures, they hold Digfest in reverence, a celebration of the riches they uncover.
+In the heart of Earthshaper Caverns dwell the Wombari. Stocky in stature and possessing formidable digging claws, they are the underground realm's master builders. With a penchant for uncovering the earth's hidden treasures, they hold Digfest in reverence, a celebration of the riches they uncover.
 
 Their fur, reminiscent of the very earth they so cherish, ranges in hues from deep browns to cool grays. The small, yet deeply perceptive eyes of the Wombari speak of ages of wisdom and tales of the caverns they've carved. As embodiments of persistence, they stand as pillars of strength and patience in the vast world of Oziria.
 
@@ -13,9 +13,9 @@ Steadfast and unyielding, the Wombari are a beacon of resilience. Their groundin
 -----
 ### Homeland
 
-[[Earthshaper Caverns]], with its intricate maze of chambers and tunnels, is the revered homeland of the Wombari. Within its echoing confines, these industrious beings have sculpted wonders, making the raw, rocky canvas come alive with their architectural marvels. The caverns glisten with the shimmer of minerals, the path illuminated by the ethereal light of glow fungi.
+Earthshaper Caverns, with its intricate maze of chambers and tunnels, is the revered homeland of the Wombari. Within its echoing confines, these industrious beings have sculpted wonders, making the raw, rocky canvas come alive with their architectural marvels. The caverns glisten with the shimmer of minerals, the path illuminated by the ethereal light of glow fungi.
 
-Deep beneath Earthshaper’s undulating landscapes, the Wombari have nurtured a subterranean world of wonder. Their complex tunnels occasionally merge with the watery domains of the [[Platypian]]s, fostering bonds of mutual respect. Legends sing of visionary Wombari architects who dreamt and then dug the first grand cities beneath the surface. With caverns laden with precious gems, their influence in trade is undeniable. However, the annals of history also recount the dark days of the Tunnel Skirmishes with the [[Echidnarian]]s, a stark reminder of the need for unity.
+Deep beneath Earthshaper’s undulating landscapes, the Wombari have nurtured a subterranean world of wonder. Their complex tunnels occasionally merge with the watery domains of the Platypians, fostering bonds of mutual respect. Legends sing of visionary Wombari architects who dreamt and then dug the first grand cities beneath the surface. With caverns laden with precious gems, their influence in trade is undeniable. However, the annals of history also recount the dark days of the Tunnel Skirmishes with the Echidnarians, a stark reminder of the need for unity.
 
 -----
 

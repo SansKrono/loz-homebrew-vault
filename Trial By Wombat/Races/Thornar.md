@@ -4,16 +4,16 @@ banner_y: 0.17
 ---
 ### About
 
-Guarding the vast sandscapes of [[Stoneclaw]], the Thornar are a testament to resilience and survival. Their rough, spiky skin, in hues of earthy browns, grays, or greens, is both a defense and an adaptation to their arid surroundings. Their piercing eyes, ever vigilant and sharp, are a clear reflection of their unwavering determination and focused demeanor.
+Guarding the vast sandscapes of Stoneclaw, the Thornar are a testament to resilience and survival. Their rough, spiky skin, in hues of earthy browns, grays, or greens, is both a defense and an adaptation to their arid surroundings. Their piercing eyes, ever vigilant and sharp, are a clear reflection of their unwavering determination and focused demeanor.
 
 Endurance and survival aren't just traits but a way of life for the Thornar. Their deep connection to their homeland has fostered unmatched resilience and adaptability. Often found navigating the vast expanse with a calculated grace, they have earned a reputation for their measured decisions and thorough nature. Acting as guardians, traders of the luminous sunstones, and guides through the desert's treacherous maze, they play a pivotal role in Oziria's trade dynamics.
 
 -----
 ### Homeland
 
-[[Stoneclaw]] stands as a testament to nature's extremes. Within its shifting sands, rocky pillars, and sprawling canyons, the Thornar have carved their legacy. This landscape, while seemingly unforgiving, hides secrets only the Thornar truly understand: the oasis of life amidst the dry expanse, the dance of shadows under the blazing sun, and the song of the winds weaving through rocky mazes.
+Stoneclaw stands as a testament to nature's extremes. Within its shifting sands, rocky pillars, and sprawling canyons, the Thornar have carved their legacy. This landscape, while seemingly unforgiving, hides secrets only the Thornar truly understand: the oasis of life amidst the dry expanse, the dance of shadows under the blazing sun, and the song of the winds weaving through rocky mazes.
 
-Their indomitable spirit finds allies in the likes of [[Echidnarian]]s and [[Tasmanianite]]s, strengthening the desert's defenses. However, the ever-watchful Thornar are no strangers to challenges, with the predatory [[Canidor]]s frequently testing their borders. Among the sands lie ancient monoliths, each a sentinel, silently narrating tales of bygone battles and age-old ceremonies. And from this scorching heart, the Thornar extract and trade sunstones, luminous gems believed to encapsulate the very soul of the desert sun.
+Their indomitable spirit finds allies in the likes of Echidnarians and Tasmanianites, strengthening the desert's defenses. However, the ever-watchful Thornar are no strangers to challenges, with the predatory Canidors frequently testing their borders. Among the sands lie ancient monoliths, each a sentinel, silently narrating tales of bygone battles and age-old ceremonies. And from this scorching heart, the Thornar extract and trade sunstones, luminous gems believed to encapsulate the very soul of the desert sun.
 
 -----
 ### Thornar traits

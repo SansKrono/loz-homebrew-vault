@@ -1,6 +1,6 @@
-Waterscale is a wetland wonder, a blend of swamps, lakes, and rivers. The [[Crocosian]]s have built their homes on large, floating platforms built with swamp trees. Waterfalls cascade from terraced rice fields, and the air is alive with the calls of exotic birds. Marketplaces on boats are common, trading in fish, fruits, and handcrafted goods.
+Waterscale is a wetland wonder, a blend of swamps, lakes, and rivers. The Crocosians have built their homes on large, floating platforms built with swamp trees. Waterfalls cascade from terraced rice fields, and the air is alive with the calls of exotic birds. Marketplaces on boats are common, trading in fish, fruits, and handcrafted goods.
 
-**Waterscale - Homeland of the [[Crocosian]]**
+**Waterscale - Homeland of the Crocosian**
 
 **Size of City:**  
 Expansive, covering thousands of square miles of interwoven wetlands and raised platforms.
@@ -12,13 +12,13 @@ General Marshosk
 Swampland Dominance Party
 
 **Population:**  
-Approximately 250,000, with 85% being [[Crocosian]].
+Approximately 250,000, with 85% being Crocosian.
 
 **Main Ozirian Races that Reside There:**  
-- [[Crocosian]] (predominant)
-- [[Platypian]] (merchants and traders)
-- [[Wallabian]] (ambassadors and trade envoys)
-- [[Quokkan]] (minor traders)
+- Crocosian (predominant)
+- Platypian (merchants and traders)
+- Wallabian (ambassadors and trade envoys)
+- Quokkan (minor traders)
 
 **Main Trade Exports:**  
 - Rare spices such as Swampfire Chili and Marshroot.
@@ -75,7 +75,7 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
     - **Description:** Dedicated to harnessing the medicinal properties of swamp mosses and algae, this shop is a must-visit for those seeking natural remedies.
     - **Specialty Items:** Algae salves, Swamp Moss tonic, and Lagoonweed elixir.
       
-5. **[[Crocosian]] Armory:**
+5. **Crocosian Armory:**
     
     - **Description:** Crafted for defending their homeland, this shop showcases Waterscale’s finest weapons and armors.
     - **Specialty Items:** Marshblade daggers, Swampshield, and Siltmail armor.
@@ -92,7 +92,7 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
       
 8. **Siltstone Tavern:**
     
-    - **Description:** A gathering place for [[Crocosian]]s, serving brews infused with Waterscale’s unique flora and spices.
+    - **Description:** A gathering place for Crocosians, serving brews infused with Waterscale’s unique flora and spices.
     - **Specialty Items:** Marshroot ale, Bogblossom wine, and Swampfire Chili stew.
       
 9. **Ancient Spirits' Curios:**
@@ -103,6 +103,6 @@ Raised stilt houses constructed from robust swamp trees, with thatched roofs. Mo
 10. **NaviLagoon Travel Hub:**
     
     - **Description:** As masters of the water routes, this shop provides navigational services, guides, and boat rentals for traversing the winding waters of Waterscale.
-    - **Specialty Items:** [[Crocosian]] canoes, waterway maps, and marsh-safe navigational tools.
+    - **Specialty Items:** Crocosian canoes, waterway maps, and marsh-safe navigational tools.
       
 

@@ -1,4 +1,4 @@
-In [[Crocosian]] legends, the Timewalker Reptid is often cited as a guardian of secrets, an enigmatic creature that grants insight into the flowing river of time, a force so crucial to Jarak. Some adventurous Crocosian have set quests to capture these elusive beings, believing that mastery over these creatures will unlock the secrets of immortality or at least great wisdom.
+In Crocosian legends, the Timewalker Reptid is often cited as a guardian of secrets, an enigmatic creature that grants insight into the flowing river of time, a force so crucial to Jarak. Some adventurous Crocosian have set quests to capture these elusive beings, believing that mastery over these creatures will unlock the secrets of immortality or at least great wisdom.
 
 ## Timewalker Reptid
 

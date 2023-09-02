@@ -5,22 +5,22 @@ banner_y: 0.06333
 
 ### Canidor Racial Description:
 
-Under the ever-watchful gaze of [[Reddune]]'s crimson skies, the Canidor have carved out an existence synonymous with endurance and mastery over adversity. Physically adapted to their desert environment, they possess a rugged, medium build, designed to withstand the desert's capricious temperament. Their short fur, varying in earthy shades of brown, tan, and the occasional fiery reddish hue, serves as both a shield against the scorching sun and an effective camouflage amidst the rolling dunes.
+Under the ever-watchful gaze of Reddune's crimson skies, the Canidor have carved out an existence synonymous with endurance and mastery over adversity. Physically adapted to their desert environment, they possess a rugged, medium build, designed to withstand the desert's capricious temperament. Their short fur, varying in earthy shades of brown, tan, and the occasional fiery reddish hue, serves as both a shield against the scorching sun and an effective camouflage amidst the rolling dunes.
 
 Yet, beyond this physical adaptation, lies the real essence of a Canidor. Their sharp, luminous eyes reflect a profound intelligence, and an insatiable curiosity. These eyes have seen the mysteries of the desert, have understood its secrets, and have been guided by the stars above in their nocturnal explorations.
 
 While their surroundings might be harsh, their society is built on a bedrock of mutual respect and fierce loyalty. The Canidor operate in tight-knit packs, where every member has a crucial role. To witness them hunt is akin to watching a well-orchestrated dance, each step, each move perfectly synchronized. This unity isn't just reserved for hunts; it's the cornerstone of their society.
 
-Their ceremonies, especially the revered 'Great Howling,' capture the essence of their collective spirit. As [[Reddune]]'s twin moons ascend, casting silvery reflections on the desert below, the Canidor's voices rise in a harmonious chorus. This melody carries tales of ancient battles, of dream-filled nights, and of visions for the future.
+Their ceremonies, especially the revered 'Great Howling,' capture the essence of their collective spirit. As Reddune's twin moons ascend, casting silvery reflections on the desert below, the Canidor's voices rise in a harmonious chorus. This melody carries tales of ancient battles, of dream-filled nights, and of visions for the future.
 
 -----
 ### Canidor Homeland and Culture:
 
-[[Reddune]] isn't just a city; it's the heart of Canidor civilization. Nestled at the base of a colossal red rock, its skyline is a mosaic of ornate tents, bustling bazaars, and formidable arenas. These arenas are not just for combat but also spaces where stories, traditions, and strategies are passed down through generations.
+Reddune isn't just a city; it's the heart of Canidor civilization. Nestled at the base of a colossal red rock, its skyline is a mosaic of ornate tents, bustling bazaars, and formidable arenas. These arenas are not just for combat but also spaces where stories, traditions, and strategies are passed down through generations.
 
-A city of contrasts, [[Reddune]] blends the fierce warrior spirit of the Canidor with their astute trading acumen. Canidor caravans, recognized by their distinctive banners and guided by the desert stars, are a welcome sight across Oziria, bearing spices, precious stones, and the much-sought-after desert herbs.
+A city of contrasts, Reddune blends the fierce warrior spirit of the Canidor with their astute trading acumen. Canidor caravans, recognized by their distinctive banners and guided by the desert stars, are a welcome sight across Oziria, bearing spices, precious stones, and the much-sought-after desert herbs.
 
-Their strategic alliances, notably with the [[Crocosian]]s, speak of their political and diplomatic prowess. However, their assertive nature occasionally puts them at odds with other races, like the [[Kangaroon]]s and the [[Wombari]]. Still, whether in trade or in battle, the Canidor's influence on Oziria's socio-political landscape is undeniable.
+Their strategic alliances, notably with the Crocosians, speak of their political and diplomatic prowess. However, their assertive nature occasionally puts them at odds with other races, like the Kangaroons and the Wombari. Still, whether in trade or in battle, the Canidor's influence on Oziria's socio-political landscape is undeniable.
 
 -----
 ### Canidor traits

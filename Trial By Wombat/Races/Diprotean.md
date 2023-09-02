@@ -4,7 +4,7 @@ banner_y: 0.20334
 ---
 ### About
 
-In [[Grasstide]], giant footprints remain, marking the Diprotean's legacy. These gentle giants, once guardians of the plains, left monolithic structures, drawing many a curious traveler.
+In Grasstide, giant footprints remain, marking the Diprotean's legacy. These gentle giants, once guardians of the plains, left monolithic structures, drawing many a curious traveler.
 
 Diprotean are a gentle yet formidable race, inspired by the mighty Diprotodons of ancient times. These humanoid behemoths stand tall, exuding a calm strength that's both captivating and reassuring. Their skin, a mixture of tough hide and sparse fur, ranges in earthy tones, from deep browns to sunlit tans. Their deep-set eyes, framed by thick brows, often convey wisdom and patience, and their broad faces are punctuated by strong jaws.
 
@@ -13,7 +13,7 @@ Renowned for their patience and protective nature, Diprotean epitomize the nurtu
 -----
 ### Homeland
 
-Across the vast stretches of [[Grasstide]], the shadows of the Diprotean roam. These gentle giants, now tales of yesteryears, once roamed the plains in harmony with the [[Echidnarian]]s and [[Platypian]]s. With no enemies to challenge their gentle nature, [[Grasstide]] was a land of unity. Stonehenge-like formations, remnants of their great gatherings, dot the plains, drawing travelers who wish to touch a part of the forgotten past.
+Across the vast stretches of Grasstide, the shadows of the Diprotean roam. These gentle giants, now tales of yesteryears, once roamed the plains in harmony with the Echidnarians and Platypians. With no enemies to challenge their gentle nature, Grasstide was a land of unity. Stonehenge-like formations, remnants of their great gatherings, dot the plains, drawing travelers who wish to touch a part of the forgotten past.
 
 -----
 

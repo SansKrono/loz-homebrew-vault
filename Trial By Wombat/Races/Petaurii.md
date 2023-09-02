@@ -11,11 +11,11 @@ The Petaurii's agility is legendary. With the night sky as their canvas, they pa
 -----
 ### Homeland
 
-[[Nightleaf]], the nocturnal jewel of Oziria, is where the Petaurii call home. Here, the boundaries between water and sky blur, as the celestial blanket above mirrors itself in pristine ponds and murmuring streams below. The landscape is dotted with vast meadows and enchanted clearings, all bathed in the ethereal glow of the moon and stars.
+Nightleaf, the nocturnal jewel of Oziria, is where the Petaurii call home. Here, the boundaries between water and sky blur, as the celestial blanket above mirrors itself in pristine ponds and murmuring streams below. The landscape is dotted with vast meadows and enchanted clearings, all bathed in the ethereal glow of the moon and stars.
 
-In [[Nightleaf]], the dance of the Petaurii, as they waltz with the winds and stars, becomes a nightly spectacle. Their camaraderie with the [[Wallabian]], built over shared tales and mutual admiration, adds another layer to the rich tapestry of [[Nightleaf]]'s history. Yet, the shadows of [[Canidor]]s occasionally threaten to disrupt this tranquility, their motives as shifting as desert sands.
+In Nightleaf, the dance of the Petaurii, as they waltz with the winds and stars, becomes a nightly spectacle. Their camaraderie with the Wallabian, built over shared tales and mutual admiration, adds another layer to the rich tapestry of Nightleaf's history. Yet, the shadows of Canidors occasionally threaten to disrupt this tranquility, their motives as shifting as desert sands.
 
-The Starbranch Festival is not just an event; it's an embodiment of the Petaurii spirit. Illuminating [[Nightleaf]], it speaks of their connections, legacies, and the promise of brighter tomorrows. Moreover, their prowess doesn't end with aerial stunts; the Petaurii's silk star maps, intricate in design and rich in detail, are sought-after commodities, guiding travelers and traders through the mystique of Oziria.
+The Starbranch Festival is not just an event; it's an embodiment of the Petaurii spirit. Illuminating Nightleaf, it speaks of their connections, legacies, and the promise of brighter tomorrows. Moreover, their prowess doesn't end with aerial stunts; the Petaurii's silk star maps, intricate in design and rich in detail, are sought-after commodities, guiding travelers and traders through the mystique of Oziria.
 
 -----
 ### Petaurii traits

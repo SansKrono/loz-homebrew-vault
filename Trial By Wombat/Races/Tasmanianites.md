@@ -6,14 +6,14 @@ banner_y: 0.15
 
 Boasting a compact and muscular form, the Tasmanianites command attention and respect wherever they tread. Their dark, coarse fur, often in shades of deep black or rich brown, coupled with their intense, captivating eyes, paints a picture of primal might and fiery determination.
 
-Inhabiting the [[Shadowed Highlands]], their presence resonates with an air of wild intensity. This potent combination of fierceness and unwavering tenacity makes the Tasmanianites not just formidable foes, but also loyal allies. They balance the raw power of a predator with the steadfast loyalty typical of pack hunters. While they might be revered as fierce warriors, they also boast talented artisans, particularly skilled blacksmiths. Roarfest stands as an emblematic festival, reverberating with tales of their trials and triumphs.
+Inhabiting the Shadowed Highlands, their presence resonates with an air of wild intensity. This potent combination of fierceness and unwavering tenacity makes the Tasmanianites not just formidable foes, but also loyal allies. They balance the raw power of a predator with the steadfast loyalty typical of pack hunters. While they might be revered as fierce warriors, they also boast talented artisans, particularly skilled blacksmiths. Roarfest stands as an emblematic festival, reverberating with tales of their trials and triumphs.
 
 -----
 ### Homeland
 
-Rising amidst Oziria, the [[Shadowed Highlands]] stand as an unwavering testament to the Tasmanianite spirit. With a landscape dominated by jagged mountains, dense and whispering forests, and mysterious winding caves, this region is as awe-inspiring as the race that calls it home.
+Rising amidst Oziria, the Shadowed Highlands stand as an unwavering testament to the Tasmanianite spirit. With a landscape dominated by jagged mountains, dense and whispering forests, and mysterious winding caves, this region is as awe-inspiring as the race that calls it home.
 
-The tales echoing through the highlands speak of ancient traditions, guarded fiercely by the Tasmanianites, and of stories passed down through countless generations. While their fierce disposition might bring tension with the [[Quokkan]]s, even the swift-footed [[Kangaroon]]s exercise caution around them. The very essence of the [[Shadowed Highlands]], and perhaps its most potent symbol, is the Howl Stone, which resonates with the spirits of warriors past.
+The tales echoing through the highlands speak of ancient traditions, guarded fiercely by the Tasmanianites, and of stories passed down through countless generations. While their fierce disposition might bring tension with the Quokkans, even the swift-footed Kangaroons exercise caution around them. The very essence of the Shadowed Highlands, and perhaps its most potent symbol, is the Howl Stone, which resonates with the spirits of warriors past.
 
 Their lands, rich with resources, gift them exquisite wood, which the skilled hands of Tasmanianite artisans transform into sought-after crafts. But, not all stories that the Highlands shelter are of pride and valor. The Echoing Cliffs War speaks of times when ambition led to strife, leaving behind tales steeped in both glory and grief.
 

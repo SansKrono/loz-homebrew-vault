@@ -1,4 +1,4 @@
-Deep within a dense, mystic forest lies Twilight Forest. Enshrouded in perpetual dusk, this enclave serves as the neutral ground for the major races of Oziria. At its heart stands the Great Council Tree, where [[Quokkan]] diplomats and [[Echidnarian]] strategists meet under its vast canopy. Time seems to stand still here, as momentous decisions that shape the realm's fate are deliberated upon. The [[Echidnarian]]s, with their methodical nature, document every treaty, while the [[Quokkan]]s bring their innate ability to mediate and foster peace. Every decision made here sends ripples across Oziria, binding races in unity or pushing them apart.
+Deep within a dense, mystic forest lies Twilight Forest. Enshrouded in perpetual dusk, this enclave serves as the neutral ground for the major races of Oziria. At its heart stands the Great Council Tree, where Quokkan diplomats and Echidnarian strategists meet under its vast canopy. Time seems to stand still here, as momentous decisions that shape the realm's fate are deliberated upon. The Echidnarians, with their methodical nature, document every treaty, while the Quokkans bring their innate ability to mediate and foster peace. Every decision made here sends ripples across Oziria, binding races in unity or pushing them apart.
 
 **Twilight Forest - The Neutral Grounds of Oziria**
 
@@ -12,12 +12,12 @@ Elder Sage Lumina
 The Neutral Convergence
 
 **Population:**  
-Approximately 300,000, predominantly [[Quokkan]]s and [[Echidnarian]]s. However, representatives from various Ozirian races visit frequently.
+Approximately 300,000, predominantly Quokkans and Echidnarians. However, representatives from various Ozirian races visit frequently.
 
 **Main Ozirian Races that Reside There:**
 
-- [[Quokkan]]s (diplomats and mediators)
-- [[Echidnarian]]s (strategists and historians)
+- Quokkans (diplomats and mediators)
+- Echidnarians (strategists and historians)
 - Occasional delegates from other races, attending council meetings or seeking mediation.
 
 **Main Trade Exports:**
@@ -27,10 +27,10 @@ Approximately 300,000, predominantly [[Quokkan]]s and [[Echidnarian]]s. However,
 - Artifacts of diplomacy and ceremonial items.
 - Handcrafted wooden items made from the fallen branches of the Great Council Tree.
 - Tranquil potions and elixirs, aiding in meditation and clarity.
-- Traditional [[Echidnarian]] textiles and garments.
+- Traditional Echidnarian textiles and garments.
 
 **Style of Houses:**  
-Subtle wooden dwellings seamlessly integrated within the forest, canopy homes atop the ancient trees, and underground burrows for [[Echidnarian]]s.
+Subtle wooden dwellings seamlessly integrated within the forest, canopy homes atop the ancient trees, and underground burrows for Echidnarians.
 
 **Size of Military:**  
 2,000 Twilight Guardians, primarily peacekeepers and ceremonial guards.
@@ -42,15 +42,15 @@ Subtle wooden dwellings seamlessly integrated within the forest, canopy homes at
 
 - Protective wards around the forest perimeter to deter any ill intentions.
 - Rituals ensuring the perpetual twilight, adding to the forest's mystical defense.
-- Guided pathways leading to the Great Council Tree, monitored by [[Quokkan]] sentinels.
+- Guided pathways leading to the Great Council Tree, monitored by Quokkan sentinels.
 - Enchanted barriers around key meeting areas.
 - Clairvoyant outposts sensing disruptions in the forest's harmony.
 
 **Prominent Locations in the Province:**
 
 1. **Great Council Tree:** Majestic tree and the enclave's epicenter, where crucial discussions and ceremonies are held.
-2. **[[Echidnarian]] Archives:** Underground chambers containing Oziria's comprehensive history.
-3. **[[Quokkan]] Mediation Groves:** Calming groves dedicated to mediations and peace talks.
+2. **Echidnarian Archives:** Underground chambers containing Oziria's comprehensive history.
+3. **Quokkan Mediation Groves:** Calming groves dedicated to mediations and peace talks.
 4. **Twilight Market:** A place of trade, with products reflecting the forest's essence.
 5. **Echowood Retreat:** A place of reflection and solace for visitors and residents alike.
 6. **Luminous Ponds:** Enchanted water bodies with luminescent flora and fauna.

@@ -1,13 +1,13 @@
 ### About 
 
-[[Echohaven]]'s silent forests whisper tales of the majestic Thylacirians. Their enigmatic aura and grace still influence Oziria, even if only as legends now. Historians and archeologists seek their relics, hoping to uncover more of their storied past.
+Echohaven's silent forests whisper tales of the majestic Thylacirians. Their enigmatic aura and grace still influence Oziria, even if only as legends now. Historians and archeologists seek their relics, hoping to uncover more of their storied past.
 
 Thylacirians are a fierce and resilient race inspired by the legendary Tasmanian tigers, also known as thylacines, of the natural world. These humanoid creatures possess a medium-sized build, radiating an aura of untamed strength. Thylacirians have short fur covering their bodies, typically in shades of sandy brown, with distinctive dark stripes running along their back and tail. They have piercing, observant eyes that shine with determination and a hint of mystery.
 
 Known for their tenacity and survival instincts, Thylacirians are masters of adaptation and endurance. They possess a deep connection to the wild realms they call home and are often found roaming the untamed lands with a sense of purpose and guardianship. Thylacirians are known for their strong sense of justice and protection, defending their territories and standing up against injustice.
 ### Homeland
 
-In the forgotten woods of [[Echohaven]], legends of the majestic Thylacirians still linger. This extinct race, once rulers of their realm, had strong ties with the [[Thornar]]s. Yet, age-old enmities with [[Canidor]]s have left tales of valor and sorrow. The Echoing Monuments, silent guardians of [[Echohaven]], hold their lost tales, and some believe the spirits of Thylacirians still watch over Oziria.
+In the forgotten woods of Echohaven, legends of the majestic Thylacirians still linger. This extinct race, once rulers of their realm, had strong ties with the Thornars. Yet, age-old enmities with Canidors have left tales of valor and sorrow. The Echoing Monuments, silent guardians of Echohaven, hold their lost tales, and some believe the spirits of Thylacirians still watch over Oziria.
 
 -----
 

@@ -1,14 +1,14 @@
 In the time before time, the world was a vast expanse of emptiness, a void without form or purpose. Yet from this void, the primal energies converged, and from their union, the first beings of power emerged. These were the Totemic Spirits, each embodying an aspect of the world yet to be. In their divine forms, they resembled the creatures that would soon populate the lands.
 
-**[[Bunyara, the Land Spirit]]**: Representing strength, agility, and the very earth itself, Bunyara leaped into the void, and with each bound, vast stretches of land materialized, forming the vast plains and rolling hills.
+**Bunyara, the Land Spirit**: Representing strength, agility, and the very earth itself, Bunyara leaped into the void, and with each bound, vast stretches of land materialized, forming the vast plains and rolling hills.
 
-**[[Eucalys, the Tree Spirit]]**: A spirit of serenity and wisdom. Wherever Eucalys touched, forests and trees sprung forth, with eucalyptus trees dominating the landscape, their fragrant leaves filling the air.
+**Eucalys, the Tree Spirit**: A spirit of serenity and wisdom. Wherever Eucalys touched, forests and trees sprung forth, with eucalyptus trees dominating the landscape, their fragrant leaves filling the air.
 
-**[[Runnal, the Sky Spirit]]**: Embodying speed, the wind, and the sky, Runnal raced across the void. With every step, the skies formed, clouds billowed, and the winds howled.
+**Runnal, the Sky Spirit**: Embodying speed, the wind, and the sky, Runnal raced across the void. With every step, the skies formed, clouds billowed, and the winds howled.
 
-**[[Murrundi, the Lake Spirit]]**: Murrundi, a spirit of water and mystery, delved into the heart of the void. With its movements, rivers, lakes, and oceans emerged, winding and expansive.
+**Murrundi, the Lake Spirit**: Murrundi, a spirit of water and mystery, delved into the heart of the void. With its movements, rivers, lakes, and oceans emerged, winding and expansive.
 
-**[[Jarak, the Swamp Spirit]]**: Representing power, ferocity, and time, Jarak roared into the emptiness, and from its voice, time began its march. Jarak's energy also carved out vast marshlands, lagoons, and the treacherous swamps.
+**Jarak, the Swamp Spirit**: Representing power, ferocity, and time, Jarak roared into the emptiness, and from its voice, time began its march. Jarak's energy also carved out vast marshlands, lagoons, and the treacherous swamps.
 
 As the world began to take form, the Totemic Spirits, in their divine wisdom, realized that the world needed guardians, stewards to care for its bounty. From their essence, they birthed the first races, each race imbued with characteristics reminiscent of their Totemic patron. Thus, the races known today were graciously willed into existence.
 

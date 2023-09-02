@@ -1,6 +1,6 @@
-Perched on a cliff overlooking the ocean, Laughing Peak is a blend of beach and forest culture. Bamboo huts with colorful fabrics face the sea, and totem poles tell tales of past heroes. The [[Kookari]] are known for their festivals, where drums, dances, and sea-inspired crafts dominate. Fresh seafood feasts are a daily event, with bonfires and storytelling by the shore.
+Perched on a cliff overlooking the ocean, Laughing Peak is a blend of beach and forest culture. Bamboo huts with colorful fabrics face the sea, and totem poles tell tales of past heroes. The Kookari are known for their festivals, where drums, dances, and sea-inspired crafts dominate. Fresh seafood feasts are a daily event, with bonfires and storytelling by the shore.
 
-**Laughing Peak - Homeland of the [[Kookari]]**
+**Laughing Peak - Homeland of the Kookari**
 
 **Size of City:**  
 Sprawling coastal enclave spread across hills, beaches, cliffs, and forests.
@@ -12,12 +12,12 @@ Chief Oceanvoice
 Tidal Harmony Council
 
 **Population:**  
-Approximately 75,000, predominantly [[Kookari]].
+Approximately 75,000, predominantly Kookari.
 
 **Main Ozirian Races that Reside There:**  
-- [[Kookari]] (majority)
-- [[Petaurii]] (traders and cultural enthusiasts)
-- [[Quokkan]] (visitors attracted to festivals and the seaside ambiance)
+- Kookari (majority)
+- Petaurii (traders and cultural enthusiasts)
+- Quokkan (visitors attracted to festivals and the seaside ambiance)
 
 **Main Trade Exports:**  
 - Fresh seafood, renowned across Oziria for its taste and quality.

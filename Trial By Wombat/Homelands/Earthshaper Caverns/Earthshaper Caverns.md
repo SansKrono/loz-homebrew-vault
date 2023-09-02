@@ -9,16 +9,16 @@
 | **Population**           | 180,000                                                                                                                        |
 | **Leader**               | Chieftain Burrowhart                                                                                                           |
 | **Leading Party**        | Gemstone Guild                                                                                                                 |
-| **Common Citizen Races** | - [[Wombari]] (majority)<br>- [[Kangaroon]] (trade envoys and merchants)<br>- [[Platypian]] (scouts and water channel experts) |
+| **Common Citizen Races** | - Wombari (majority)<br>- Kangaroon (trade envoys and merchants)<br>- Platypian (scouts and water channel experts) |
 | **Main export**          | Gemstones & ores                                                                                                               |
 | **Craft Specialty**      | Rare-metal weaponry and statues                                                                                                |
 
 
 ## About Earthshaper Caverns
 
-Carved into the heart of the majestic Amethyst Range, the Earthshaper Caverns are a wonder. Stalactites and stalagmites form natural architecture, and the [[Wombari]] enhance these with intricate carvings. Glowing minerals light up the cave interiors, and underground springs provide freshwater. 
+Carved into the heart of the majestic Amethyst Range, the Earthshaper Caverns are a wonder. Stalactites and stalagmites form natural architecture, and the Wombari enhance these with intricate carvings. Glowing minerals light up the cave interiors, and underground springs provide freshwater. 
 
-Craftsmanship is at its peak here, with gem-encrusted artworks and sculptures. The [[Wombari]] are expert miners, and are at constant pace when digging new tunnels in search of gems and rare metals to infuse into their crafts, earning them merit as the main manufacturers and distributors of many tools, weapons and armour that spreads to the ends of Oziria.
+Craftsmanship is at its peak here, with gem-encrusted artworks and sculptures. The Wombari are expert miners, and are at constant pace when digging new tunnels in search of gems and rare metals to infuse into their crafts, earning them merit as the main manufacturers and distributors of many tools, weapons and armour that spreads to the ends of Oziria.
 
 Homes are carved chambers within the cavern walls, adorned with gem embellishments and mineral mosaics. Each dwelling is lit by luminescent stones.
 
@@ -41,42 +41,42 @@ Homes are carved chambers within the cavern walls, adorned with gem embellishmen
 | Glowing Springs             | A serene, freshwater underground spring, a popular gathering spot.                |
 | Chieftain's Crystal Chamber | Chieftain Burrowhart's opulent residence and seat of power.                       |
 | Gemstone Marketplace        | The primary trading hub for gems and crafted goods.                               |
-| The Miner's Memorial        | A tribute to [[Wombari]] miners of the past, with names etched into amethyst pillars. |
+| The Miner's Memorial        | A tribute to Wombari miners of the past, with names etched into amethyst pillars. |
 | Echoing Auditorium          | A grand meeting hall with acoustics perfect for large gatherings.                 |
 | Shimmering Sculpture Park   | An area displaying massive, gem-infused sculptures.                               |
 | Cavern Academy              | An institution teaching gem crafting, mining techniques, and history.             |
-| The Armoury Alcove          | The main distributor of armors and shields, showcasing [[Wombari]] craftsmanship.     |
+| The Armoury Alcove          | The main distributor of armors and shields, showcasing Wombari craftsmanship.     |
 
 ---
 
 ## Main Shops
 
-[[Crystal Core Emporium]]
+Crystal Core Emporium
 ---
 
-[[The Deepforge]]
+The Deepforge
 ---
 
-[[Tectonic Tomes & Scrolls]]
+Tectonic Tomes & Scrolls
 ---
 
-[[Petrified Potions & Elixirs]]
+Petrified Potions & Elixirs
 ---
 
-[[Luminescent Lanterns]]
+Luminescent Lanterns
 ---
 
-[[Granite Gourmet]]
+Granite Gourmet
 ---
 
-[[Sediment Styles & Attire]]
+Sediment Styles & Attire
 ---
 
-[[Echoic Instruments]]
+Echoic Instruments
 ---
 
-[[Earthbound Essentials]]
+Earthbound Essentials
 ---
 
-[[Grotto Grimoires]]
+Grotto Grimoires
 ---

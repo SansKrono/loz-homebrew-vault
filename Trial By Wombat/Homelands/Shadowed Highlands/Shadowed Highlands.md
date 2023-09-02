@@ -1,6 +1,6 @@
-A rugged and misty landscape, the Shadowed Highlands are a collection of mountains, dense forests, and hidden valleys. The [[Tasmanianite]]s have carved out settlements in the mountain cliffs and the valleys below. Stone towers loom above, while below, the towns are illuminated by bioluminescent plants. The air is thick with the scent of ancient pine and the resonance of distant drums.
+A rugged and misty landscape, the Shadowed Highlands are a collection of mountains, dense forests, and hidden valleys. The Tasmanianites have carved out settlements in the mountain cliffs and the valleys below. Stone towers loom above, while below, the towns are illuminated by bioluminescent plants. The air is thick with the scent of ancient pine and the resonance of distant drums.
 
-**The Shadowed Highlands - Province of the [[Tasmanianite]]s**
+**The Shadowed Highlands - Province of the Tasmanianites**
 
 **Size of Province:**  
 Expansive territory of mountains, dense forests, and hidden valleys spanning across a vast and rugged terrain.
@@ -12,12 +12,12 @@ Chieftain Borak
 Echoing Cliffs Coalition
 
 **Population:**  
-Around 200,000, primarily [[Tasmanianite]]s.
+Around 200,000, primarily Tasmanianites.
 
 **Main Ozirian Races that Reside There:**  
-- [[Tasmanianite]]s (majority)
-- [[Quokkan]] merchants (occasional visitors for trade)
-- [[Kangaroon]] emissaries (sporadic diplomatic visits)
+- Tasmanianites (majority)
+- Quokkan merchants (occasional visitors for trade)
+- Kangaroon emissaries (sporadic diplomatic visits)
 
 **Main Trade Exports:**  
 - Exquisite woodwork and hand-carved artifacts.
@@ -43,16 +43,16 @@ Compact and fortified stone dwellings carved into the mountainsides and valleys.
 **Prominent Locations in the Province:**  
 1. **Chieftain's Bastion:** Residence and council chambers of Chieftain Borak.
 2. **Roarfest Arena:** Central gathering space for the annual Roarfest celebrations.
-3. **Howl Stone Monument:** Sacred relic capturing the spirit of the [[Tasmanianite]] warriors.
+3. **Howl Stone Monument:** Sacred relic capturing the spirit of the Tasmanianite warriors.
 4. **Echoing Caves:** Network of caves known for their acoustics and historical importance.
 5. **Pine's Whisper Marketplace:** Trading hub selling woodwork, artifacts, and herbal concoctions.
 6. **Smith's Gorge:** A valley dedicated to blacksmithing, where metals are forged and refined.
 7. **Guardian Peaks:** High mountainous points with watchtowers to monitor the region.
 8. **Valor Memorial:** A memorial dedicated to the brave warriors of the Echoing Cliffs War.
-9. **Mistwood Forest:** Dense forest rich in flora, fauna, and sources of [[Tasmanianite]] woodwork.
+9. **Mistwood Forest:** Dense forest rich in flora, fauna, and sources of Tasmanianite woodwork.
 10. **Distant Drum Outpost:** Frontier settlement near the borders, acting as a first line of defense and a trading post.
 
-With their intense spirit and undeniable resilience, the [[Tasmanianite]]s have made the Shadowed Highlands an impregnable fortress. The echoing drums and resonant howls are not just sounds but the heartbeat of a fierce and loyal people.
+With their intense spirit and undeniable resilience, the Tasmanianites have made the Shadowed Highlands an impregnable fortress. The echoing drums and resonant howls are not just sounds but the heartbeat of a fierce and loyal people.
 
 ## Shops
 

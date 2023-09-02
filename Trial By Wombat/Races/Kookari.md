@@ -11,11 +11,11 @@ Beyond their striking appearance, the Kookari are spirits of jubilation personif
 -----
 ### Homeland
 
-In the east of Oziria, where the land greets the ocean with an embrace, lies the [[Laughing Peak]]. The name isn't mere decoration; it's a testament to its inhabitants, the Kookari. Majestic hills roll with the rhythm of the sea breeze, expansive skies play host to artistic cloud patterns, and hidden caves hold secrets that whisper tales of old.
+In the east of Oziria, where the land greets the ocean with an embrace, lies the Laughing Peak. The name isn't mere decoration; it's a testament to its inhabitants, the Kookari. Majestic hills roll with the rhythm of the sea breeze, expansive skies play host to artistic cloud patterns, and hidden caves hold secrets that whisper tales of old.
 
-The very air in [[Laughing Peak]] is charged with energy, with melodious laughter acting as its continuous soundtrack. This isn't just the Kookari's homeland; it's their stage, where their tales of merriment, songs of the ocean, and art come alive. It's no wonder that the Echoing Festival, an event blending harmonies with history, is a spectacle that many across Oziria eagerly await.
+The very air in Laughing Peak is charged with energy, with melodious laughter acting as its continuous soundtrack. This isn't just the Kookari's homeland; it's their stage, where their tales of merriment, songs of the ocean, and art come alive. It's no wonder that the Echoing Festival, an event blending harmonies with history, is a spectacle that many across Oziria eagerly await.
 
-While their bond with [[Petaurii]] and [[Quokkan]]s is built on mutual mirth and admiration, the shadows of conflicts with the more territorial [[Crocosian]]s occasionally darken their shores. However, even in contention, the Kookari's spirit remains undeterred. Their artistry, capturing the soul of the ocean and its myriad tales, is a coveted treasure in Oziria, ensuring that the laughter from the [[Laughing Peak]] continues to echo far and wide.
+While their bond with Petaurii and Quokkans is built on mutual mirth and admiration, the shadows of conflicts with the more territorial Crocosians occasionally darken their shores. However, even in contention, the Kookari's spirit remains undeterred. Their artistry, capturing the soul of the ocean and its myriad tales, is a coveted treasure in Oziria, ensuring that the laughter from the Laughing Peak continues to echo far and wide.
 
 -----
 ### Kookari traits

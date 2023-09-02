@@ -1,4 +1,4 @@
-In the world of Oziria, the Abyssal Koi are considered sacred by the [[Platypian]] who reside in [[The Whispering Marshes]]. They believe these mysterious creatures are servants of [[Murrundi, the Lake Spirit]], entrusted with the sacred duty of guarding the mystical lakes and rivers. They're thought to possess ancient wisdom and are the subjects of many Platypian folk tales and myths.
+In the world of Oziria, the Abyssal Koi are considered sacred by the Platypian who reside in The Whispering Marshes. They believe these mysterious creatures are servants of Murrundi, the Lake Spirit, entrusted with the sacred duty of guarding the mystical lakes and rivers. They're thought to possess ancient wisdom and are the subjects of many Platypian folk tales and myths.
 
 Anglers and mystics from other races may also seek the Abyssal Koi for their rumored magical properties. It's said that consuming a single scale of an Abyssal Koi grants visions or insight into the deep secrets of the world—though the Platypians would consider such an act as nothing less than a grave sacrilege.
 

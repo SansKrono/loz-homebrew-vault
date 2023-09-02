@@ -1,6 +1,6 @@
-Dominating the landscape, Reddune is a sprawling city at the base of a giant red rock. Tents with ornate patterns, bazaars selling spices and precious stones, and arenas for ceremonial battles define this space. The [[Canidor]] are fierce warriors and traders, their camel caravans known across Oziria.
+Dominating the landscape, Reddune is a sprawling city at the base of a giant red rock. Tents with ornate patterns, bazaars selling spices and precious stones, and arenas for ceremonial battles define this space. The Canidor are fierce warriors and traders, their camel caravans known across Oziria.
 
-**Reddune - Homeland of the [[Canidor]]**
+**Reddune - Homeland of the Canidor**
 
 **Size of City:**  
 Expansive desert city, stretching over sand dunes, oases, and bordered by dense forests and winding rivers. The heart of the city is centered around a vast, oasis hub.
@@ -12,13 +12,13 @@ Alpha Rohen
 Desert Guardians
 
 **Population:**  
-About 115,000, predominantly [[Canidor]].
+About 115,000, predominantly Canidor.
 
 **Main Ozirian Races that Reside There:**
 
-- [[Canidor]] (majority)
-- Some [[Crocosian]]s (trade partners)
-- Few [[Kangaroon]]s and [[Wombari]] (strained relations, but some diplomatic and trading presence)
+- Canidor (majority)
+- Some Crocosians (trade partners)
+- Few Kangaroons and Wombari (strained relations, but some diplomatic and trading presence)
 
 **Main Trade Exports:**
 
@@ -48,13 +48,13 @@ Sandstone structures blending seamlessly with the desert environment. Elevated h
 1. **The Howling Plaza:** Central gathering place for ceremonies, especially for the Great Howling.
 2. **Rohen's Den:** Command center and residence of Alpha Rohen.
 3. **Desert's Breath Marketplace:** Bustling market selling herbs, leatherworks, and weaponry.
-4. **Sentinel Training Grounds:** Where young [[Canidor]]s are trained in the art of desert combat.
+4. **Sentinel Training Grounds:** Where young Canidors are trained in the art of desert combat.
 5. **Echoing Canyons:** Natural land formations known for their beautiful, echoing howls.
 6. **Oasis of Reflection:** A serene water source, often used for meditation and relaxation.
 7. **Moonlit Dunes:** Vast stretches of sand where the moon's reflection creates a mesmerizing sight.
-8. **Sandscript Library:** Holds ancient texts and chronicles detailing the history and traditions of the [[Canidor]].
+8. **Sandscript Library:** Holds ancient texts and chronicles detailing the history and traditions of the Canidor.
 9. **Herbmaster's Tent:** Where rare desert herbs are processed and prepared for trade.
-10. **Forest Edge Outpost:** A defensive structure bordering the dense forests of Reddune, ensuring peace between the [[Canidor]] and any forest inhabitants.
+10. **Forest Edge Outpost:** A defensive structure bordering the dense forests of Reddune, ensuring peace between the Canidor and any forest inhabitants.
 
 ## Shops
 

@@ -1,4 +1,4 @@
-Among the [[Platypian]], Moonshell Tortoises are seen as ancient protectors and allies of [[Murrundi, the Lake Spirit]]. Some even believe that they have the ability to guide lost souls across the marshes, leading them safely to the realm of their lake spirit patron. Their shells are considered sacred and are never to be harmed, lest one risk invoking the wrath of Murrundi herself.
+Among the Platypian, Moonshell Tortoises are seen as ancient protectors and allies of Murrundi, the Lake Spirit. Some even believe that they have the ability to guide lost souls across the marshes, leading them safely to the realm of their lake spirit patron. Their shells are considered sacred and are never to be harmed, lest one risk invoking the wrath of Murrundi herself.
 
 ## Moonshell Tortoise
 

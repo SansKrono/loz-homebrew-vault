@@ -14,13 +14,13 @@ Beyond their physical attributes, the Echidnarian are creatures of deep contempl
 -----
 ### Echidnarian Homeland and Culture:
 
-Nestled deep within the heart of the [[Echomist Forest]], the Echidnarian have carved a harmonious existence. This realm, alive with ancient trees that have witnessed eons, shimmering cascades that echo timeless melodies, and thorn-laden pathways that challenge and protect, is more than just their home—it's their sanctuary. Every rustling leaf, every dew-kissed morning holds a story, and the Echidnarian are its eternal guardians.
+Nestled deep within the heart of the Echomist Forest, the Echidnarian have carved a harmonious existence. This realm, alive with ancient trees that have witnessed eons, shimmering cascades that echo timeless melodies, and thorn-laden pathways that challenge and protect, is more than just their home—it's their sanctuary. Every rustling leaf, every dew-kissed morning holds a story, and the Echidnarian are its eternal guardians.
 
-Their deep connection to the [[Echomist Forest]] isn't merely physical; it's spiritual. They can tap into the very magical essence that courses through the land, enabling communion with ancient spirits and guardians of old. Sacred groves scattered throughout the forest serve as sites of profound rituals, linking them to their ancestors and the forest's primordial energies.
+Their deep connection to the Echomist Forest isn't merely physical; it's spiritual. They can tap into the very magical essence that courses through the land, enabling communion with ancient spirits and guardians of old. Sacred groves scattered throughout the forest serve as sites of profound rituals, linking them to their ancestors and the forest's primordial energies.
 
-Relations with neighboring races like the [[Wallabian]] and Thylacirians have mostly been cordial, grounded in mutual respect and beneficial trade. The Echidnarian' prized thornwood, a symbol of their indomitable spirit, is sought after in distant lands, making them valuable trade partners.
+Relations with neighboring races like the Wallabian and Thylacirians have mostly been cordial, grounded in mutual respect and beneficial trade. The Echidnarian' prized thornwood, a symbol of their indomitable spirit, is sought after in distant lands, making them valuable trade partners.
 
-Yet, their history isn’t free of conflict. The unity they now cherish was hard-earned, with the legendary Spike of Unity playing a crucial role in unifying fragmented clans. And their ambition to secure more for their kind led to the Tunnel Skirmishes against the [[Wombari]], a chapter in their history that speaks of both their aspirations and the costs that come with them.
+Yet, their history isn’t free of conflict. The unity they now cherish was hard-earned, with the legendary Spike of Unity playing a crucial role in unifying fragmented clans. And their ambition to secure more for their kind led to the Tunnel Skirmishes against the Wombari, a chapter in their history that speaks of both their aspirations and the costs that come with them.
 
 -----
 ### Echidnarian traits

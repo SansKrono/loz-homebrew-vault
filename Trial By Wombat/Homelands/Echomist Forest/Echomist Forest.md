@@ -1,6 +1,6 @@
-Amidst tall, jagged rock formations, the Echomist Forest is a mysterious and fog-covered woodland. The [[Echidnarian]]s' homes are built into tree trunks and rock crevices. Suspended bridges connect treetop platforms, and the forest floor is a patchwork of herbs and ferns. The sound of wind chimes is ever-present, creating a melody with the forest's natural whispers.
+Amidst tall, jagged rock formations, the Echomist Forest is a mysterious and fog-covered woodland. The Echidnarians' homes are built into tree trunks and rock crevices. Suspended bridges connect treetop platforms, and the forest floor is a patchwork of herbs and ferns. The sound of wind chimes is ever-present, creating a melody with the forest's natural whispers.
 
-**Echomist Forest - Homeland of the [[Echidnarian]]**
+**Echomist Forest - Homeland of the Echidnarian**
 
 **Size of City:**  
 Expansive forest realm, interwoven with tree-built homes and cliff dwellings.
@@ -12,12 +12,12 @@ High Sage Thornsight
 Mystic Thorn Circle
 
 **Population:**  
-Approximately 100,000, primarily [[Echidnarian]].
+Approximately 100,000, primarily Echidnarian.
 
 **Main Ozirian Races that Reside There:**
 
-- [[Echidnarian]] (majority)
-- [[Wallabian]] (trade partners and herb gatherers)
+- Echidnarian (majority)
+- Wallabian (trade partners and herb gatherers)
 - Thylacirian (occasional mystical visitors and trade allies)
 
 **Main Trade Exports:**
@@ -39,7 +39,7 @@ Homes built into thick tree trunks, carved rock crevices, and treetop platforms.
 **Types of Security Measures in the City:**
 
 - Mystical barriers erected at forest entry points.
-- Whispering willows, trees that alert [[Echidnarian]]s of intruders.
+- Whispering willows, trees that alert Echidnarians of intruders.
 - Camouflaged guardians blending seamlessly with the forest.
 - Spirit sentinels, conjured entities that patrol the sacred groves.
 - Enchanted wind chimes that sound alarms upon sensing ill intent.
@@ -52,8 +52,8 @@ Homes built into thick tree trunks, carved rock crevices, and treetop platforms.
 4. **Mystic Falls:** A cascading waterfall with shimmering waters believed to have healing properties.
 5. **The Enchanted Arboretum:** A vast collection of magical plants and herbs used for potions.
 6. **Chime Market:** Where the famous wind chimes of Echomist are sold and bartered.
-7. **The Spike Shrine:** Housing the legendary Spike of Unity, a symbol of [[Echidnarian]] unity.
-8. **Spirit's Glade:** A secluded area where [[Echidnarian]]s commune with ancient forest spirits.
+7. **The Spike Shrine:** Housing the legendary Spike of Unity, a symbol of Echidnarian unity.
+8. **Spirit's Glade:** A secluded area where Echidnarians commune with ancient forest spirits.
 9. **Thorn Labyrinth:** A maze-like patch of thorn-rich vegetation, used for training and as a rite of passage.
 10. **Fernway Inn:** A tranquil inn offering respite to travelers and traders, known for its herbal teas and forest views.
 

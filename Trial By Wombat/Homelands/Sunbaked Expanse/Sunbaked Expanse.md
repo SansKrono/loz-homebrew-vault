@@ -1,6 +1,6 @@
-The vastness of the Sunbaked Expanse is almost overwhelming. Amidst the arid, red desert, the [[Kangaroon]] have built a resilient society. Oasis towns with tall windcatchers dot the landscape, capturing the rare breezes. Sunshields, large cloth structures, provide shade during the day, and at night, grand bonfires illuminate storytelling sessions.
+The vastness of the Sunbaked Expanse is almost overwhelming. Amidst the arid, red desert, the Kangaroon have built a resilient society. Oasis towns with tall windcatchers dot the landscape, capturing the rare breezes. Sunshields, large cloth structures, provide shade during the day, and at night, grand bonfires illuminate storytelling sessions.
 
-**Sunbaked Expanse - [[Kangaroon]] Homeland**
+**Sunbaked Expanse - Kangaroon Homeland**
 
 **Size of Province:**  
 Expansive desert realm comprised of vast sand dunes, shimmering oases, and hidden ruins.
@@ -12,17 +12,17 @@ Chief Waroon
 The Leap Council
 
 **Population:**  
-Approximately 250,000, with [[Kangaroon]]s being the dominant population.
+Approximately 250,000, with Kangaroons being the dominant population.
 
 **Main Ozirian Races that Reside There:**  
-- [[Kangaroon]]s (majority)
-- [[Wallabian]] traders and allies
-- [[Quokkan]] merchants and allies
-- Occasional [[Crocosian]] scouts, often viewed with suspicion
+- Kangaroons (majority)
+- Wallabian traders and allies
+- Quokkan merchants and allies
+- Occasional Crocosian scouts, often viewed with suspicion
 
 **Main Trade Exports:**  
 - Mercenary and protective services, known across Oziria as the gold standard in safety and escorting.
-- Exceptional weapons crafted in Sunbaked forges, favored by [[Kangaroon]] mercenaries.
+- Exceptional weapons crafted in Sunbaked forges, favored by Kangaroon mercenaries.
 - Desert herbs and plants with medicinal properties.
 - Exotic leather and hides.
 
@@ -33,7 +33,7 @@ Elevated dwellings with large windcatchers to cool interiors. Oasis towns center
 80,000 Warriors and Mercenaries, skilled in desert combat, protection, and escort missions. Their services are sought after across all of Oziria.
 
 **Grading of Military (Determining strength of military):**  
-9 out of 10 – The [[Kangaroon]]s are famed across Oziria not just for their knowledge of the desert and physical prowess, but also for their unparalleled protective and mercenary skills.
+9 out of 10 – The Kangaroons are famed across Oziria not just for their knowledge of the desert and physical prowess, but also for their unparalleled protective and mercenary skills.
 
 **Types of Security Measures in the Province:**  
 - Desert patrols specialized in tracking and camouflage.
@@ -44,17 +44,17 @@ Elevated dwellings with large windcatchers to cool interiors. Oasis towns center
 
 **Prominent Locations in the Province:**  
 1. **Chief's Citadel:** The commanding hub and residence of Chief Waroon.
-2. **Leap Arena:** Celebrating the [[Kangaroon]]s' physical prowess and skills.
+2. **Leap Arena:** Celebrating the Kangaroons' physical prowess and skills.
 3. **Forge of Echoes:** Renowned crafting hub for weapons.
 4. **Oasis of Tales:** Where stories of great protection missions are shared.
 5. **Ruins of First Leap:** Ancient structures, now training grounds for mercenaries.
-6. **Sunbaked Mercenary Hub:** Central place for hiring [[Kangaroon]] services.
+6. **Sunbaked Mercenary Hub:** Central place for hiring Kangaroon services.
 7. **Shade Retreat:** Gathering spot for returning protectors.
-8. **Sandscale Barracks:** Training grounds for young [[Kangaroon]]s.
+8. **Sandscale Barracks:** Training grounds for young Kangaroons.
 9. **Council Hall of Jumps:** Strategy and planning hub for the Leap Council.
 10. **Desert's Edge Lookout:** Offering panoramic views, and a place for reflection.
 
-In the Sunbaked Expanse, the [[Kangaroon]]s stand as symbols of strength, protection, and honor. Their legacy is not only embedded in their homeland but is also carried across Oziria by the many protectors and mercenaries that hail from the vast desert. Their commitment to ensuring the safety of others has made them legends in their own right.
+In the Sunbaked Expanse, the Kangaroons stand as symbols of strength, protection, and honor. Their legacy is not only embedded in their homeland but is also carried across Oziria by the many protectors and mercenaries that hail from the vast desert. Their commitment to ensuring the safety of others has made them legends in their own right.
 
 ## Shops
 
@@ -65,7 +65,7 @@ In the Sunbaked Expanse, the [[Kangaroon]]s stand as symbols of strength, protec
       
 2. **Dune Defender Outpost:**
     
-    - **Description:** A reputable hub where [[Kangaroon]] mercenaries offer their protective and escorting services.
+    - **Description:** A reputable hub where Kangaroon mercenaries offer their protective and escorting services.
     - **Specialty Items:** Mercenary contracts, caravan protection services, and specialized desert reconnaissance.
       
 3. **Blades of the Expanse:**
@@ -81,7 +81,7 @@ In the Sunbaked Expanse, the [[Kangaroon]]s stand as symbols of strength, protec
 5. **Leatherbound Legacy:**
     
     - **Description:** Artisans craft wearables and goods from the exotic leather and hides of the Sunbaked Expanse.
-    - **Specialty Items:** [[Kangaroon]]-hide boots, Sand-scaled belts, and Desertwing cloaks.
+    - **Specialty Items:** Kangaroon-hide boots, Sand-scaled belts, and Desertwing cloaks.
       
 6. **Ruins & Relics Emporium:**
     
@@ -90,13 +90,13 @@ In the Sunbaked Expanse, the [[Kangaroon]]s stand as symbols of strength, protec
       
 7. **Leap Year Festival Grounds:**
     
-    - **Description:** A venue dedicated to the celebration of the [[Kangaroon]]s' athletic prowess, open year-round for training and exhibitions.
-    - **Specialty Items:** [[Kangaroon]] athletic gear, Leap Year Festival memorabilia, and agility-enhancing tonics.
+    - **Description:** A venue dedicated to the celebration of the Kangaroons' athletic prowess, open year-round for training and exhibitions.
+    - **Specialty Items:** Kangaroon athletic gear, Leap Year Festival memorabilia, and agility-enhancing tonics.
       
 8. **Dune Drifter Tavern:**
     
     - **Description:** A welcoming oasis for weary travelers, offering refreshing beverages and tales of Sunbaked's vast landscape.
-    - **Specialty Items:** Desert fruit cocktails, Sandscale brews, and [[Kangaroon]] storytelling sessions.
+    - **Specialty Items:** Desert fruit cocktails, Sandscale brews, and Kangaroon storytelling sessions.
       
 9. **Echoes of Sandscale:**
     

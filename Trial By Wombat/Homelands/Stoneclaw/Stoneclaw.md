@@ -1,6 +1,6 @@
-In the heart of the desert, Stoneclaw stands as an oasis fortress. Built from sunbaked bricks and guarded by sandstone statues, it's a bastion of desert culture. Water reservoirs are treasured, surrounded by date palm gardens. The [[Thornar]] are master potters and sand artists, often seen crafting intricate designs in town squares.
+In the heart of the desert, Stoneclaw stands as an oasis fortress. Built from sunbaked bricks and guarded by sandstone statues, it's a bastion of desert culture. Water reservoirs are treasured, surrounded by date palm gardens. The Thornar are master potters and sand artists, often seen crafting intricate designs in town squares.
 
-**Stoneclaw - Province of the [[Thornar]]**
+**Stoneclaw - Province of the Thornar**
 
 **Size of Province:**  
 Sprawling desert territory encompassing vast sand dunes, rocky outcrops, arid canyons, and rare oases.
@@ -12,13 +12,13 @@ Chieftain Rokar
 The Sunstone Council
 
 **Population:**  
-Around 150,000, primarily [[Thornar]].
+Around 150,000, primarily Thornar.
 
 **Main Ozirian Races that Reside There:**  
-- [[Thornar]] (majority)
-- [[Echidnarian]] merchants and allies
-- [[Tasmanianite]] emissaries and allies
-- Occasional [[Canidor]] scouts, usually regarded with suspicion
+- Thornar (majority)
+- Echidnarian merchants and allies
+- Tasmanianite emissaries and allies
+- Occasional Canidor scouts, usually regarded with suspicion
 
 **Main Trade Exports:**  
 - Precious sunstones
@@ -48,14 +48,14 @@ Dwellings made of sunbaked bricks, built to resist the desert heat. Houses often
 2. **Sunstone Market:** Central trading hub for sunstones and crafted goods.
 3. **Oasis Reservoirs:** Vital water sources, surrounded by lush palm gardens.
 4. **Desert Monoliths:** Ancient structures telling tales of battles and ceremonies.
-5. **Artisan's Square:** Where [[Thornar]] potters and sand artists showcase their skills.
+5. **Artisan's Square:** Where Thornar potters and sand artists showcase their skills.
 6. **Guardian Canyons:** Natural fortifications protecting the province's heart.
 7. **Mesa Watchpoints:** Elevated areas serving as lookout points.
-8. **Sand Mirage Library:** Repository of ancient texts, charts, and [[Thornar]] history.
+8. **Sand Mirage Library:** Repository of ancient texts, charts, and Thornar history.
 9. **Fire Essence Temple:** Sacred space dedicated to desert rituals and ceremonies.
-10. **Nomad's Retreat:** Resting area for traveling [[Thornar]], offering shelter and water.
+10. **Nomad's Retreat:** Resting area for traveling Thornar, offering shelter and water.
 
-The [[Thornar]], with their unwavering determination and innate connection to the desert, have turned the arid Stoneclaw into a fortress of culture, trade, and resilience. Their presence in Oziria, as steadfast guardians and skilled traders, is felt strongly across the realm.
+The Thornar, with their unwavering determination and innate connection to the desert, have turned the arid Stoneclaw into a fortress of culture, trade, and resilience. Their presence in Oziria, as steadfast guardians and skilled traders, is felt strongly across the realm.
 
 ## Shops
 
@@ -76,8 +76,8 @@ The [[Thornar]], with their unwavering determination and innate connection to th
       
 4. **Stoneclaw Pottery:**
     
-    - **Description:** Masterfully crafted pottery shaped by [[Thornar]] hands, perfect for storing desert treasures or water.
-    - **Specialty Items:** Water vessels, Sunstone-infused bowls, and [[Thornar]] ceremonial urns.
+    - **Description:** Masterfully crafted pottery shaped by Thornar hands, perfect for storing desert treasures or water.
+    - **Specialty Items:** Water vessels, Sunstone-infused bowls, and Thornar ceremonial urns.
       
 5. **Oasis Delights:**
     
@@ -92,11 +92,11 @@ The [[Thornar]], with their unwavering determination and innate connection to th
 7. **Monolith Market:**
     
     - **Description:** A general store located near an ancient monolith, providing essentials for travelers and residents alike.
-    - **Specialty Items:** [[Thornar]]-made tools, Desert survival kits, and Wind-resistant tents.
+    - **Specialty Items:** Thornar-made tools, Desert survival kits, and Wind-resistant tents.
       
 8. **Guided Pathways:**
     
-    - **Description:** A reputable service where skilled [[Thornar]] guides offer their expertise to navigate the vast Stoneclaw.
+    - **Description:** A reputable service where skilled Thornar guides offer their expertise to navigate the vast Stoneclaw.
     - **Specialty Items:** Guided desert tours, Map crafting, and Oasis locating services.
       
 9. **Primal Elements Emporium:**
