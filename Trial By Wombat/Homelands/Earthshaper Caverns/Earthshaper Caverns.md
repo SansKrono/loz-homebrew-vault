@@ -51,32 +51,14 @@ Homes are carved chambers within the cavern walls, adorned with gem embellishmen
 
 ## Main Shops
 
-Crystal Core Emporium
----
+- [[Crystal Core Emporium]]
+- [[The Deepforge]]
+- [[Tectonic Tomes & Scrolls]]
+- [[Petrified Potions & Elixirs]]
+- [[Luminescent Lanterns]]
+- [[Granite Gourmet]]
+- [[Sediment Styles & Attire]]
+- [[Echoic Instruments]]
+- [[Earthbound Essentials]]
+- [[Grotto Grimoires]]
 
-The Deepforge
----
-
-Tectonic Tomes & Scrolls
----
-
-Petrified Potions & Elixirs
----
-
-Luminescent Lanterns
----
-
-Granite Gourmet
----
-
-Sediment Styles & Attire
----
-
-Echoic Instruments
----
-
-Earthbound Essentials
----
-
-Grotto Grimoires
----

@@ -48,13 +48,13 @@ The Whispering Marshesis a realm where magic infuses every droplet and where the
 
 ## Main Shops
 
-- Mystwater General Store
-- Pearlshine Boutique
-- Lanterns of Lumina
-- Marshroot Herbal Haven
-- Wayfinder's Waterscape
-- Song of the Depths
-- Stiltwood Sawmill
-- Marsh Mysteries Curios
-- Aquatic Atrium
-- Ripples' Rest Tavern
+- [[Mystwater General Store]]
+- [[Pearlshine Boutique]]
+- [[Lanterns of Lumina]]
+- [[Marshroot Herbal Haven]]
+- [[Wayfinder's Waterscape]]
+- [[Song of the Depths]]
+- [[Stiltwood Sawmill]]
+- [[Marsh Mysteries Curios]]
+- [[Aquatic Atrium]]
+- [[Ripples' Rest Tavern]]

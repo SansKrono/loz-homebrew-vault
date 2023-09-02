@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Trial By Wombat\"  ",
@@ -22,14 +22,14 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.41825259515571,
   "lineSizeMultiplier": 1.38434256055363,
   "collapse-forces": false,
   "centerStrength": 0.538927335640138,
-  "repelStrength": 10.0865051903114,
+  "repelStrength": 15.7612456747405,
   "linkStrength": 1,
   "linkDistance": 238,
   "scale": 0.12935573671345324,
