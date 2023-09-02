@@ -7,3 +7,5 @@ A general store that caters to the everyday needs of the cavern's inhabitants, E
 >   - *Elementally resistant ropes*
 >   - *Torches*
 >   - *Bioluminescent paints*
+
+#shops

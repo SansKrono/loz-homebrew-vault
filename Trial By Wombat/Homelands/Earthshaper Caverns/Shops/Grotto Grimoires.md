@@ -7,3 +7,5 @@ Delving deep into the magical aspects of the caverns, Grotto Grimoires offers sp
 >   - *Elemental Summoning Stones*
 >   - *Earth talismans*
 >   - *Enchanted Quills (Rune Inscribers)*
+
+#shops

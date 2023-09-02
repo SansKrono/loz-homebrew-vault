@@ -9,3 +9,5 @@ Runnal holds a special place in the hearts of Ozirians who long for adventure, f
 In many Ozirian cities, tall towers and platforms are built as places of worship to be closer to Runnal's domain. Here, ritualistic wind dances are performed, and kites adorned with sacred symbols are flown to send prayers to the Sky Spirit.
 
 Runnal's influence also touches the realm of music and art. Flutes and wind instruments are considered sacred, and many songs are composed to mimic the sound of the howling wind or the soft rustle of a gentle breeze. During the annual Skydance Festival, people gather to watch the coordinated flight of trained birds, symbolizing Runnal's swift and unbounded nature.
+
+#lore

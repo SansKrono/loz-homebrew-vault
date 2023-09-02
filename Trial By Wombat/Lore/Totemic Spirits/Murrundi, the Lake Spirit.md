@@ -9,3 +9,5 @@ Murrundi is revered as the guardian of secrets and the unknown. It holds particu
 Sacred pools dedicated to this Totemic Spirit are scattered throughout Oziria. These are places of meditation, divination, and occasionally, ritualistic cleansing. It's believed that dipping a treasured object into one of these pools can imbue it with a special blessing or protection from Murrundi.
 
 The annual Festival of Flowing Wisdom is held near large bodies of water, where Ozirians gather to share secrets, riddles, and prophecies. Small boats carrying candles are released onto the water, each flame symbolizing a prayer or a question seeking Murrundi's divine insight.
+
+#lore

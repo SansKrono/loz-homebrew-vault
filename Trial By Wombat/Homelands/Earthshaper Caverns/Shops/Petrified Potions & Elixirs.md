@@ -7,3 +7,5 @@ Crafting solutions from minerals and unique cavern flora, this apothecary offers
 >   - *Endurance Elixirs*
 >   - *Healing Salves*
 >   - *Stone-melting acids*
+
+#shops

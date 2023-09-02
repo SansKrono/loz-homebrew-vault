@@ -7,3 +7,5 @@ After a long day of exploring the marshes, Ripples' Rest Tavern offers a cozy re
 >   - *Lagoonleaf Ale*
 >   - *Marshroot mead*
 >   - *Whispering Willow Brew* 
+
+#shops

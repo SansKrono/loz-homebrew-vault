@@ -16,4 +16,5 @@ The ethereal glow emanating from the Lanterns of Lumina shop beckons visitors fr
 - Lantern of Moonlit Pathways
 - Lantern of the Revealing Mists
 - Spritecatcher Lantern
-  
+
+#shops

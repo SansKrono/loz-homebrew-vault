@@ -8,3 +8,5 @@ Specializing in healing crystals, gem-infused water, and crystal jewelry, the em
 >   - *Healing Crystals*
 >   - *Gem-infused water*
 >   - *Crystal Jewellery*
+
+#shops

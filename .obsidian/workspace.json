@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lookups/Towns.md",
+                "file": "Trial By Wombat/Notable Locations/Azure Depths.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Lookups/Towns.md",
+                "file": "Trial By Wombat/Notable Locations/Azure Depths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Lookups/Towns.md",
+                "file": "Trial By Wombat/Notable Locations/Azure Depths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Lookups/Towns.md"
+                "file": "Trial By Wombat/Notable Locations/Azure Depths.md"
               }
             }
           },
@@ -158,34 +158,34 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
-    "Trial By Wombat/Lookups/Locations.md",
-    "Trial By Wombat/Lookups/Towns.md",
-    "Trial By Wombat/Lookups/Items.md",
-    "Trial By Wombat/Enclaves/Hollowpeak 🚧.md",
-    "Trial By Wombat/Lookups/Enclaves.md",
-    "Trial By Wombat/Lookups/Races.md",
-    "Trial By Wombat/Lookups/Homelands.md",
-    "Trial By Wombat/Lookups/Creatures.md",
-    "Trial By Wombat/Lookups/Ozirian Homelands.md",
-    "Trial By Wombat/Creatures/Abyssal Koi.md",
-    "DMTools/Overview Table.md",
-    "DMTools/Potential Plot Points.md",
-    "Trial By Wombat/Creatures/Blossom Serpent.md",
-    "Trial By Wombat/Creatures/Verdant Owl.md",
-    "Trial By Wombat/Enclaves/Rivergate 🚧.md",
-    "Trial By Wombat/Homelands/Tranquil Canopy/Tranquil Canopy.md",
-    "Trial By Wombat/Lookups/Ozirian Races.md",
-    "Trial By Wombat/Notable Locations/Azure Depths.md",
-    "Trial By Wombat/Races/Pipistrellian.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Runnal, the Sky Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Murrundi, the Lake Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Jarak, the Swamp Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Eucalys, the Tree Spirit.md",
+    "Trial By Wombat/Lore/Totemic Spirits/Bunyara, the Land Spirit.md",
+    "Trial By Wombat/Lore/History/The Creation of Oziria.md",
+    "Trial By Wombat/Lore/History/The Cataclysm of Thylacirians and Pipistrellians, and the Diprotean Sacrifice.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Pearlshine Boutique.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Ripples' Rest Tavern.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Stiltwood Sawmill.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Song of the Depths.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Mystwater General Store.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marshroot Herbal Haven.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marsh Mysteries Curios.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Lanterns of Lumina.md",
+    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Aquatic Atrium.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/The Deepforge.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Tectonic Tomes & Scrolls.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Sediment Styles & Attire.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Petrified Potions & Elixirs.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Luminescent Lanterns.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Grotto Grimoires.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Granite Gourmet.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Echoic Instruments.md",
+    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Earthbound Essentials.md",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
-    "DMTools/Year 127 - The Todek Rebellion/5-The Heart of the Poison/Characters/Grubnub the Well-Meaning.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests/TTR-3-Purify the Water.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests/TTR-3-Assist Dr. Webbly.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests/TTR-3-Assist Elder Billee.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Syl, the Poison Mistress.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Mayor Paddleton.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Lila Swiftstream.md",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images",
     "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixirs Guardian.png",
     "DMTools/Year 127 - The Todek Rebellion/5-The Heart of the Poison/Characters",

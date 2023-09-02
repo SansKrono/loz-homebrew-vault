@@ -6,3 +6,5 @@ Navigating the intricate waterways of Oziria can be a daunting task for even the
 >   - *Marshland Atlases*
 >   - *Lake Legends*
 >   - *River route scrolls* 
+
+#shops

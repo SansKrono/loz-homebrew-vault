@@ -7,3 +7,5 @@ A bookstore and library where one can find texts about geology, earth magics, an
 >   - *Geological Guides*
 >   - *Earth Magic spellboks*
 >   - *Ancient Scrolls*
+
+#shops

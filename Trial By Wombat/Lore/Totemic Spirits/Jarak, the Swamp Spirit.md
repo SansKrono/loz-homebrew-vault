@@ -9,3 +9,5 @@ Jarak is revered as a deity of both creation and destruction, embodying the cycl
 The Festival of Roaring Time is an annual tradition that marks the new year in the Ozirian calendar. People gather around large bonfires to offer sacrifices and prayers to Jarak, imploring the spirit to grant them the strength to face the challenges of the coming year. Participants engage in ritualistic roaring contests, mimicking the sound that first set time into motion, and thereby acknowledging Jarak's primordial role.
 
 Elders in Ozirian society hold Jarak in high regard, often interpreting the Spirit's teachings as lessons in embracing the duality of existence—strength and vulnerability, life and decay, timelessness and impermanence.
+
+#lore

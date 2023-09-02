@@ -9,3 +9,5 @@ In Ozirian culture, Eucalys is considered the keeper of wisdom and is often soug
 These sacred groves are also places of ceremony, where druids and shamans gather to share ancient wisdom and renew their connection with nature. It's a common practice to tie messages or small tokens to the branches of eucalyptus trees, asking for Eucalys' blessings or insight.
 
 Many Ozirians wear amulets made from eucalyptus leaves or bark as a symbol of protection and wisdom. During the Festival of Green Wisdom, communities come together to plant new trees, and storytelling events unfold beneath the towering canopies, each tale a homage to Eucalys' eternal wisdom.
+
+#lore
