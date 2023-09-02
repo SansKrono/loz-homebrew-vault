@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
+                "file": "Trial By Wombat/Lookups/Shops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
+                "file": "Trial By Wombat/Lookups/Shops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md",
+                "file": "Trial By Wombat/Lookups/Shops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Homelands/Earthshaper Caverns/Earthshaper Caverns.md"
+                "file": "Trial By Wombat/Lookups/Shops.md"
               }
             }
           },
@@ -158,32 +158,34 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
-    "Trial By Wombat/Homelands/The Whispering Marshes/The Whispering Marshes.md",
-    "Trial By Wombat/Lookups/Shops.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Aquatic Atrium.md",
-    "Trial By Wombat/Lookups/Items.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Wayfinder's Waterscape.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Stiltwood Sawmill.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Song of the Depths.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Ripples' Rest Tavern.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Pearlshine Boutique.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Mystwater General Store.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marshroot Herbal Haven.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Homelands/The Whispering Marshes/Shops/Lanterns of Lumina.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/The Deepforge.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Tectonic Tomes & Scrolls.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Sediment Styles & Attire.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Petrified Potions & Elixirs.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Luminescent Lanterns.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Grotto Grimoires.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Granite Gourmet.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Earthbound Essentials.md",
-    "Trial By Wombat/Homelands/Earthshaper Caverns/Shops/Crystal Core Emporium.md",
-    "Trial By Wombat/Lookups/Lore.md",
-    "home.md",
-    "Trial By Wombat/Notable Locations/Azure Depths.md",
-    "Trial By Wombat/Lore/Totemic Spirits/Runnal, the Sky Spirit.md",
+    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Shops/The Deepforge.md",
+    "Trial By Wombat/Shops/Tectonic Tomes & Scrolls.md",
+    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
+    "Trial By Wombat/Shops/Song of the Depths.md",
+    "Trial By Wombat/Shops/Sediment Styles & Attire.md",
+    "Trial By Wombat/Shops/Petrified Potions & Elixirs.md",
+    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
+    "Trial By Wombat/Shops/Mystwater General Store.md",
+    "Trial By Wombat/Shops/Pearlshine Boutique.md",
+    "Trial By Wombat/Shops/Marshroot Herbal Haven.md",
+    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
+    "Trial By Wombat/Shops/Luminescent Lanterns.md",
+    "Trial By Wombat/Shops/Lanterns of Lumina.md",
+    "Trial By Wombat/Shops/Grotto Grimoires.md",
+    "Trial By Wombat/Shops/Granite Gourmet.md",
+    "Trial By Wombat/Shops/Echoic Instruments.md",
+    "Trial By Wombat/Shops/Earthbound Essentials.md",
+    "Trial By Wombat/Shops/Crystal Core Emporium.md",
+    "Trial By Wombat/Shops/Aquatic Atrium.md",
+    "Trial By Wombat/Shops",
+    "Trial By Wombat/Homelands/Valleybrook.md",
+    "Trial By Wombat/Homelands/Waterscale.md",
+    "Trial By Wombat/Homelands/Tranquil Canopy.md",
+    "Trial By Wombat/Homelands/Echohaven.md",
+    "Trial By Wombat/Tranquil Canopy.md",
+    "Shops/Wayfinder's Waterscape.md",
+    "Shops",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images",
@@ -195,8 +197,6 @@
     "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Characters",
     "DMTools/Year 127 - The Todek Rebellion/1-Rumblings in the Wilderness/Characters",
     "DMTools/Year 127 - The Todek Rebellion/Enemies",
-    "DMTools/Year 127 - The Todek Rebellion/6-Aftermath",
-    "DMTools/Year 127 - The Todek Rebellion/5-The Heart of the Poison",
     "Trial By Wombat/Images/Crystalvein Mines.png",
     "Trial By Wombat/Images/Dragon's Breath Gorge.png",
     "Trial By Wombat/Images/Azure Depths.png",
