@@ -11,15 +11,15 @@ Oziria is a rich and vibrant fantasy world that features a variety of unique rac
 
 ### Quokkan
 
-Radiating warmth with round faces, bright eyes, and fur reminiscent of sun-kissed terrains, the [[Quokkan]]s epitomize joy. These light-hearted beings from [[Rotrest]] are adored across Oziria, not just for their delightful appearance, but for their commendable role as peacekeepers and mediators. Their fluffy tails, which often wag in delight or excitement, add to their charm and agility.
+Radiating warmth with round faces, bright eyes, and fur reminiscent of sun-kissed terrains, the Quokkans epitomize joy. These light-hearted beings from Rotrest are adored across Oziria, not just for their delightful appearance, but for their commendable role as peacekeepers and mediators. Their fluffy tails, which often wag in delight or excitement, add to their charm and agility.
 
 ### Wallabian
 
-Across the rolling expanses of [[Valleybrook]]’s verdant hills, the [[Wallabian]] bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the [[Wallabian]] have carved out a niche for themselves in Oziria.
+Across the rolling expanses of Valleybrook’s verdant hills, the Wallabian bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the Wallabian have carved out a niche for themselves in Oziria.
 
 ### Kangaroon
 
-Their eyes, sharp and discerning, hold stories of ages past and echo the unwavering determination of their spirit. This determination isn't just physical; it's embedded in their moral fiber. Steeped in tradition, guided by the ancestral wisdom of their forebears, [[Kangaroon]]s uphold the values of justice, honor, and community above all else. As warriors, their might is unparalleled, and their strategies in battle are studied across Oziria.
+Their eyes, sharp and discerning, hold stories of ages past and echo the unwavering determination of their spirit. This determination isn't just physical; it's embedded in their moral fiber. Steeped in tradition, guided by the ancestral wisdom of their forebears, Kangaroons uphold the values of justice, honor, and community above all else. As warriors, their might is unparalleled, and their strategies in battle are studied across Oziria.
 
 ### And many more; there is so much to discover...
 
