@@ -2,6 +2,8 @@
 banner: "![[tbw-race-quokkan-full.jpg]]"
 banner_y: 0.22667
 ---
+#races
+
 ## About
 
 Radiating warmth with round faces, bright eyes, and fur reminiscent of sun-kissed terrains, the Quokkans epitomize joy. These light-hearted beings from Rotrest are adored across Oziria, not just for their delightful appearance, but for their commendable role as peacekeepers and mediators. Their fluffy tails, which often wag in delight or excitement, add to their charm and agility.

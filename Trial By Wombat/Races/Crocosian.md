@@ -2,6 +2,7 @@
 banner: "![[Crocosian.png]]"
 banner_y: 0.04666
 ---
+#races
 
 ### **Crocosian Racial Description:**
 

@@ -2,6 +2,8 @@
 banner: "![[Platypian.png]]"
 banner_y: 0.11666
 ---
+#races
+
 ### About
 
 Distinguished by a distinctive bill and dense, water-resistant fur, the Platypians come in an array of colors ranging from earthy browns and grays to the more elusive blues and lavenders. Their unique essence lies in their adaptability. Whether traversing land or navigating water, they move with a grace that speaks of deep connections to both realms. Their webbed feet tell tales of aquatic adventures, while their inquisitive eyes are a testament to their thirst for knowledge. This resourceful and observant nature has positioned them as esteemed scholars and formidable mages in Oziria's lore. Their resilience is legendary, and their natural affinity for the arcane arts, especially those intertwined with the waterways, is the stuff of legends, particularly during the Ripple Festival.

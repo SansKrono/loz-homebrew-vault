@@ -2,6 +2,8 @@
 banner: "![[Thornar.png]]"
 banner_y: 0.17
 ---
+#races
+
 ### About
 
 Guarding the vast sandscapes of Stoneclaw, the Thornar are a testament to resilience and survival. Their rough, spiky skin, in hues of earthy browns, grays, or greens, is both a defense and an adaptation to their arid surroundings. Their piercing eyes, ever vigilant and sharp, are a clear reflection of their unwavering determination and focused demeanor.

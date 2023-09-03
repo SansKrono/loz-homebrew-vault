@@ -4,21 +4,70 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Trial By Wombat\"  ",
+      "query": "tag:#creatures  ",
       "color": {
         "a": 1,
-        "rgb": 16769618
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#enclaves  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#homelands  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#races  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#shops  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#items  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     },
     {
       "query": "path:DMTools  ",
       "color": {
         "a": 1,
-        "rgb": 16711914
+        "rgb": 7566195
+      }
+    },
+    {
+      "query": "tag:#locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],

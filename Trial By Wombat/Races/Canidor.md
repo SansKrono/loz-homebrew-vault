@@ -2,6 +2,7 @@
 banner: "![[Canidor.png]]"
 banner_y: 0.06333
 ---
+#races
 
 ### Canidor Racial Description:
 

@@ -6,6 +6,7 @@
       {
         "id": "c153419906fd24b1",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "49a22134cebbc596",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lookups/Items.md",
+                "file": "Trial By Wombat/Lookups/Creatures.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,31 +23,23 @@
         ]
       },
       {
-        "id": "af1e55712121e6d8",
+        "id": "56d93ee3837062a0",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "4c325af069757b21",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f392c69dd11b796e",
+            "id": "ed7daf5d00fb328a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Items/Clothing/All-Weather Marshmantle.md",
+                "file": "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixir's Guardian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Lookups/Items.md",
+                "file": "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixir's Guardian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Lookups/Items.md",
+                "file": "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixir's Guardian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Lookups/Items.md"
+                "file": "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixir's Guardian.md"
               }
             }
           },
@@ -183,37 +176,38 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "49a22134cebbc596",
+  "active": "ed7daf5d00fb328a",
   "lastOpenFiles": [
-    "Trial By Wombat/Items/Consumables/Whispering Willow Brew.md",
-    "Trial By Wombat/Items/Untitled.md",
-    "Trial By Wombat/Items/Instruments/Waterstring Harp.md",
-    "Trial By Wombat/Items/Focuses/Submerged Relics.md",
-    "Trial By Wombat/Items/Construction/Stiltwood Beams.md",
-    "Trial By Wombat/Items/Consumables/Spiritwillow Essence.md",
-    "Trial By Wombat/Items/Consumables/Spirit Totems.md",
-    "Trial By Wombat/Items/Consumables/Moonfern Salve.md",
+    "Trial By Wombat/Homelands/Grasstide.md",
+    "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Part 2 - Scene Details.md",
+    "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Outcomes/TTR-2-Alarm Outcome.md",
+    "DMTools/Potential Plot Points.md",
+    "Untitled.canvas",
+    "Trial By Wombat/Items/Concoctions/Aquatic Aether.md",
+    "Trial By Wombat/Races/Wombari.md",
+    "Trial By Wombat/Lookups/Races.md",
+    "Trial By Wombat/Races/Wallabian.md",
+    "Trial By Wombat/Races/Todek.md",
+    "Trial By Wombat/Races/Thylacirian.md",
+    "Trial By Wombat/Races/Thornar.md",
+    "Trial By Wombat/Races/Tasmanianites.md",
+    "Trial By Wombat/Races/Quokkan.md",
+    "Trial By Wombat/Races/Platypian.md",
+    "Trial By Wombat/Races/Pipistrellian.md",
+    "Trial By Wombat/Races/Petaurii.md",
+    "Trial By Wombat/Races/Kookari.md",
+    "Trial By Wombat/Races/Koalari.md",
+    "Trial By Wombat/Races/Kangaroon.md",
+    "Trial By Wombat/Races/Echidnarian.md",
+    "Trial By Wombat/Races/Diprotean.md",
+    "Trial By Wombat/Races/Crocosian.md",
+    "Trial By Wombat/Races/Canidor.md",
+    "Trial By Wombat/Notable Locations/Twin-Spire Keep.md",
+    "Trial By Wombat/Lookups/Locations.md",
+    "Trial By Wombat/Notable Locations/Starwhisper Summit.md",
     "Trial By Wombat/Items/Focuses",
-    "Trial By Wombat/Items/Tools/Marshland Atlases.md",
-    "Trial By Wombat/Items/Instruments/Marsh Drum.md",
-    "Trial By Wombat/Items/Jewellery/Marsh Crystal Pendants.md",
-    "Trial By Wombat/Items/Tomes/Lake Legends.md",
-    "Trial By Wombat/Items/Construction/Lagoon Lattices.md",
     "Trial By Wombat/Items/Construction",
-    "Trial By Wombat/Items/Instruments/Lagoon Flute.md",
     "Trial By Wombat/Items/Instruments",
-    "Trial By Wombat/Homelands/The Whispering Marshes.md",
-    "Trial By Wombat/Shops/Marshroot Herbal Haven.md",
-    "Trial By Wombat/Items/Consumables/Lagoonroot Tea.md",
-    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
-    "Trial By Wombat/Items/Tomes/River Route Scrolls.md",
-    "Trial By Wombat/Shops/Song of the Depths.md",
-    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
-    "Trial By Wombat/Items/Construction/Marshwood Planks.md",
-    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
-    "Trial By Wombat/Items/Consumables/Marshroot Mead.md",
-    "Trial By Wombat/Items/Consumables/Lagoonleaf Ale.md",
     "Trial By Wombat/Shops",
     "Shops",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",

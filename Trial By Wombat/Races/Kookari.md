@@ -2,6 +2,8 @@
 banner: "![[Kookari.png]]"
 banner_y: 0.19
 ---
+#races
+
 ### About
 
 From the vibrant avian tapestry of Oziria emerges the Kookari, reminiscent of the animated kookaburras of Earth's yore. Their sleek feathers, a canvas of brown, gray, blue, and more, glint in Oziria's sunlight, bearing distinct patterns that hint at their rich heritage. But it's their eyes, sharp and constantly gleaming with intelligence and a dash of mischief, that truly define them.

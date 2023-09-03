@@ -32,4 +32,4 @@ _Small elemental, neutral_
 
 **Burrow**: The Rockbound Hare can dig into the earth, disappearing from sight and becoming untargetable until it chooses to emerge or until the ground it is in is destroyed.
 
-#OzirianCreatures 
+#creatures 

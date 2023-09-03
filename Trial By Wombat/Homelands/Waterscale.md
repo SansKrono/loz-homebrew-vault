@@ -1,3 +1,5 @@
+#homelands 
+
 Waterscale is a wetland wonder, a blend of swamps, lakes, and rivers. The Crocosians have built their homes on large, floating platforms built with swamp trees. Waterfalls cascade from terraced rice fields, and the air is alive with the calls of exotic birds. Marketplaces on boats are common, trading in fish, fruits, and handcrafted goods.
 
 **Waterscale - Homeland of the Crocosian**

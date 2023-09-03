@@ -1,3 +1,5 @@
+#homelands 
+
 Nestled among the pristine coastal waters, Rotrest is an island paradise with sun-kissed beaches and vibrant coral reefs. The city itself is characterized by dome-shaped stone and coral homes with circular doorways. This is a land of trade and festivity, where Quokkans often engage in artistic pursuits, from mural painting to dance. Streets are adorned with seashell decorations, and it's common to see Quokkans pedaling on unique seaweed-powered cycles.
 
 **Rotrest - Province of the Quokkans**

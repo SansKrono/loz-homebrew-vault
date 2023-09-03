@@ -1,4 +1,6 @@
- High up in the ancient trees of the Daintree, the Koalari have created an arboreal sanctuary. Treehouses with thatched roofs and large balconies overlook the dense undergrowth below. Vines serve as natural swings, and moss-covered stairs spiral around trunks. The forest floor is sacred, reserved for spiritual ceremonies and rituals under the moon.
+#homelands 
+
+High up in the ancient trees of the Daintree, the Koalari have created an arboreal sanctuary. Treehouses with thatched roofs and large balconies overlook the dense undergrowth below. Vines serve as natural swings, and moss-covered stairs spiral around trunks. The forest floor is sacred, reserved for spiritual ceremonies and rituals under the moon.
 
 **The Tranquil Canopy - Koalari Homeland**
 

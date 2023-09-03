@@ -1,1 +1,2 @@
+#homelands
 Though now silent, Echohaven was once a grand city with spiraling towers and cascading waterfalls. Set on a harbor, its ruins still reflect its past splendor. Ghostly apparitions, relics of the majestic Thylacirian race, are sometimes seen, hinting at the city's storied past.

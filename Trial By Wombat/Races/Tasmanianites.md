@@ -2,6 +2,8 @@
 banner: "![[Tasmanianites.png]]"
 banner_y: 0.15
 ---
+#races
+
 ### About
 
 Boasting a compact and muscular form, the Tasmanianites command attention and respect wherever they tread. Their dark, coarse fur, often in shades of deep black or rich brown, coupled with their intense, captivating eyes, paints a picture of primal might and fiery determination.

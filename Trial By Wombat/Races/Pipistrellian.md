@@ -2,6 +2,8 @@
 banner: "![[Pipistrellian.png]]"
 banner_y: 0.28
 ---
+#races
+
 ### About
 
 In Shadowmire’s dark corners, whispers of the Pipistrellian's nocturnal empire remain. Their elusive nature, once rulers of the night, now lingers as tales in old books and hidden alleys. A once mighty race, their influence is still felt in Oziria's darker arts.

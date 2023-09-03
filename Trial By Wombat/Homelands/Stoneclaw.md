@@ -1,3 +1,5 @@
+#homelands 
+
 In the heart of the desert, Stoneclaw stands as an oasis fortress. Built from sunbaked bricks and guarded by sandstone statues, it's a bastion of desert culture. Water reservoirs are treasured, surrounded by date palm gardens. The Thornar are master potters and sand artists, often seen crafting intricate designs in town squares.
 
 **Stoneclaw - Province of the Thornar**

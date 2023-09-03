@@ -2,6 +2,8 @@
 banner: "![[Wombari.png]]"
 banner_y: 0.20333
 ---
+#races
+
 ### About
 
 In the heart of Earthshaper Caverns dwell the Wombari. Stocky in stature and possessing formidable digging claws, they are the underground realm's master builders. With a penchant for uncovering the earth's hidden treasures, they hold Digfest in reverence, a celebration of the riches they uncover.

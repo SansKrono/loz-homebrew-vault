@@ -2,6 +2,8 @@
 banner: "![[Petaurii.png]]"
 banner_y: 0.19668
 ---
+#races
+
 ### About
 
 Emerging from Oziria's tranquil twilight is the Petaurii race, whose very essence seems to have been borrowed from the whimsical sugar gliders of a world long past. A soft fur, predominantly colored in hues of gray, brown, or cream, envelopes their bodies, occasionally revealing patterns that are reminiscent of their original inspirations. It’s their eyes, large and constantly radiating with inquisitiveness and a hint of playfulness, that truly captures one's attention.

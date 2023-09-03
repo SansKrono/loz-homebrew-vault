@@ -2,6 +2,8 @@
 banner: "![[Wallabian.png]]"
 banner_y: 0.19665
 ---
+#races
+
 ### About
 
 Across the rolling expanses of Valleybrook’s verdant hills, the Wallabian bound energetically. Their powerful legs carry them on journeys of discovery, while their inquisitive gaze always seems to be searching for new horizons. At their core, they are beings deeply rooted in the bonds of family and kinship. From intrepid explorers to skilled grass-weavers, the Wallabian have carved out a niche for themselves in Oziria.

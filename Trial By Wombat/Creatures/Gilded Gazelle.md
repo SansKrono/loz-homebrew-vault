@@ -29,4 +29,4 @@ _Medium beast, neutral good_
 
 **Golden Leap**: (Recharge 5-6): As a bonus action, the Gilded Gazelle can leap up to 30 ft. horizontally or vertically without provoking opportunity attacks.
 
-#OzirianCreatures 
+#creatures 

@@ -2,6 +2,7 @@
 banner: "![[Kangaroon.png]]"
 banner_y: 0.19001
 ---
+#races
 
 ### About
 

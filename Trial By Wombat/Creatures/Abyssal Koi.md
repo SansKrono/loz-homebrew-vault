@@ -29,5 +29,5 @@ _Small beast, neutral_
 
 **Nipping Bite**: _Melee Weapon Attack_: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
 
-#OzirianCreatures 
+#creatures 
 

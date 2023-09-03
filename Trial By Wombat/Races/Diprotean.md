@@ -2,6 +2,8 @@
 banner: "![[Diprotean.png]]"
 banner_y: 0.20334
 ---
+#races
+
 ### About
 
 In Grasstide, giant footprints remain, marking the Diprotean's legacy. These gentle giants, once guardians of the plains, left monolithic structures, drawing many a curious traveler.

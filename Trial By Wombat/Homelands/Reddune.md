@@ -1,3 +1,5 @@
+#homelands 
+
 Dominating the landscape, Reddune is a sprawling city at the base of a giant red rock. Tents with ornate patterns, bazaars selling spices and precious stones, and arenas for ceremonial battles define this space. The Canidor are fierce warriors and traders, their camel caravans known across Oziria.
 
 **Reddune - Homeland of the Canidor**

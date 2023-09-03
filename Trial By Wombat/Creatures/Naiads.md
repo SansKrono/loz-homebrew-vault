@@ -52,4 +52,4 @@ _Medium fey, neutral_
 
 **Call to the Deep (Recharge 5-6).** The Naiad emits a haunting, melodic call audible within a 60-foot radius. All creatures in the area must succeed on a DC 14 Wisdom saving throw or be charmed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#OzirianCreatures 
+#creatures 

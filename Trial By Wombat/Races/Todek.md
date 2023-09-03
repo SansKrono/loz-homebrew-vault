@@ -2,6 +2,7 @@
 banner: "![[Todek.png]]"
 banner_y: 0.16667
 ---
+#races
 
 From every nook and cranny of Oziria, the boisterous Todeks make their clamorous presence known. These creatures, with their lively demeanor and often misguided plans, are an omnipresent, entertaining sight. Their resounding croaks and slapstick actions serve as a comic backdrop to the otherwise serious dealings of Oziria.
 

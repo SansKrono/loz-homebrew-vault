@@ -2,6 +2,8 @@
 banner: "![[Koalari.png]]"
 banner_y: 0.27335
 ---
+#races
+
 ### About
 
 In the tapestry of Oziria's diverse inhabitants, the Koalari represent tranquility's very essence. Their stature may be modest, but their presence speaks volumes. Draped in soft, velvety fur that dances between hues of gray, brown, and ethereal silver, their every gesture radiates calm. Those large, soulful eyes, pools of introspection, often invite others into their world of peace.
