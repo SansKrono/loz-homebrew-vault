@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b5de37fb094aff17",
+        "id": "c153419906fd24b1",
         "type": "tabs",
         "children": [
           {
@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trial By Wombat/Lookups/Shops.md",
+                "file": "Trial By Wombat/Lookups/Items.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "af1e55712121e6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c325af069757b21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f392c69dd11b796e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trial By Wombat/Items/Clothing/All-Weather Marshmantle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trial By Wombat/Lookups/Shops.md",
+                "file": "Trial By Wombat/Lookups/Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trial By Wombat/Lookups/Shops.md",
+                "file": "Trial By Wombat/Lookups/Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trial By Wombat/Lookups/Shops.md"
+                "file": "Trial By Wombat/Lookups/Items.md"
               }
             }
           },
@@ -158,33 +185,36 @@
   },
   "active": "49a22134cebbc596",
   "lastOpenFiles": [
-    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
-    "Trial By Wombat/Shops/The Deepforge.md",
-    "Trial By Wombat/Shops/Tectonic Tomes & Scrolls.md",
-    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
-    "Trial By Wombat/Shops/Song of the Depths.md",
-    "Trial By Wombat/Shops/Sediment Styles & Attire.md",
-    "Trial By Wombat/Shops/Petrified Potions & Elixirs.md",
-    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
-    "Trial By Wombat/Shops/Mystwater General Store.md",
-    "Trial By Wombat/Shops/Pearlshine Boutique.md",
+    "Trial By Wombat/Items/Consumables/Whispering Willow Brew.md",
+    "Trial By Wombat/Items/Untitled.md",
+    "Trial By Wombat/Items/Instruments/Waterstring Harp.md",
+    "Trial By Wombat/Items/Focuses/Submerged Relics.md",
+    "Trial By Wombat/Items/Construction/Stiltwood Beams.md",
+    "Trial By Wombat/Items/Consumables/Spiritwillow Essence.md",
+    "Trial By Wombat/Items/Consumables/Spirit Totems.md",
+    "Trial By Wombat/Items/Consumables/Moonfern Salve.md",
+    "Trial By Wombat/Items/Focuses",
+    "Trial By Wombat/Items/Tools/Marshland Atlases.md",
+    "Trial By Wombat/Items/Instruments/Marsh Drum.md",
+    "Trial By Wombat/Items/Jewellery/Marsh Crystal Pendants.md",
+    "Trial By Wombat/Items/Tomes/Lake Legends.md",
+    "Trial By Wombat/Items/Construction/Lagoon Lattices.md",
+    "Trial By Wombat/Items/Construction",
+    "Trial By Wombat/Items/Instruments/Lagoon Flute.md",
+    "Trial By Wombat/Items/Instruments",
+    "Trial By Wombat/Homelands/The Whispering Marshes.md",
     "Trial By Wombat/Shops/Marshroot Herbal Haven.md",
+    "Trial By Wombat/Items/Consumables/Lagoonroot Tea.md",
+    "Trial By Wombat/Shops/Wayfinder's Waterscape.md",
+    "Trial By Wombat/Items/Tomes/River Route Scrolls.md",
+    "Trial By Wombat/Shops/Song of the Depths.md",
+    "Trial By Wombat/Shops/Stiltwood Sawmill.md",
+    "Trial By Wombat/Items/Construction/Marshwood Planks.md",
     "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Shops/Luminescent Lanterns.md",
-    "Trial By Wombat/Shops/Lanterns of Lumina.md",
-    "Trial By Wombat/Shops/Grotto Grimoires.md",
-    "Trial By Wombat/Shops/Granite Gourmet.md",
-    "Trial By Wombat/Shops/Echoic Instruments.md",
-    "Trial By Wombat/Shops/Earthbound Essentials.md",
-    "Trial By Wombat/Shops/Crystal Core Emporium.md",
-    "Trial By Wombat/Shops/Aquatic Atrium.md",
+    "Trial By Wombat/Shops/Ripples' Rest Tavern.md",
+    "Trial By Wombat/Items/Consumables/Marshroot Mead.md",
+    "Trial By Wombat/Items/Consumables/Lagoonleaf Ale.md",
     "Trial By Wombat/Shops",
-    "Trial By Wombat/Homelands/Valleybrook.md",
-    "Trial By Wombat/Homelands/Waterscale.md",
-    "Trial By Wombat/Homelands/Tranquil Canopy.md",
-    "Trial By Wombat/Homelands/Echohaven.md",
-    "Trial By Wombat/Tranquil Canopy.md",
-    "Shops/Wayfinder's Waterscape.md",
     "Shops",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Lieutenant Dral.png",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Images/Gorak The Brute.png",
@@ -194,9 +224,6 @@
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests",
     "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters",
     "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Outcomes",
-    "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Characters",
-    "DMTools/Year 127 - The Todek Rebellion/1-Rumblings in the Wilderness/Characters",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies",
     "Trial By Wombat/Images/Crystalvein Mines.png",
     "Trial By Wombat/Images/Dragon's Breath Gorge.png",
     "Trial By Wombat/Images/Azure Depths.png",
