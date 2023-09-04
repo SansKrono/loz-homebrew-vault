@@ -7,5 +7,8 @@
   "global-search-and-replace",
   "obisidian-note-linker",
   "obsidian-sort-and-permute-lines",
-  "multi-tag"
+  "multi-tag",
+  "obsidian-dice-roller",
+  "dataview",
+  "obsidian-5e-statblocks"
 ]

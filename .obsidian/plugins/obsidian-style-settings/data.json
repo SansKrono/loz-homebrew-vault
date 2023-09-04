@@ -1,7 +1,7 @@
 {
-  "ITS@@select": "wotc-beyond",
+  "ITS@@select": "pathfinder",
   "ITS@@t-d": false,
-  "ITS@@writing": false,
+  "ITS@@writing": true,
   "ITS@@paper": false,
   "ITS@@writing-document": true,
   "ITS@@drwn": false,
@@ -31,5 +31,6 @@
   "ITS@@tab-widths": "tab-auto",
   "ITS@@background-image-width": 50,
   "ITS@@link-style": "link-notion",
-  "ITS@@th@@dark": "#C14343"
+  "ITS@@th@@dark": "#C14343",
+  "ITS@@justified": false
 }
