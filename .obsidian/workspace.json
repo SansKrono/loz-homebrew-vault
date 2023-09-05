@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Towns/Mirebrook.md",
+                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Towns/Mirebrook.md",
+                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Towns/Mirebrook.md",
+                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Towns/Mirebrook.md"
+                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4486aa36936c2321",
+  "active": "1d4299beb3a8a2e6",
   "lastOpenFiles": [
+    "Towns/Mirebrook.md",
     "Images",
     "Images/Race Portraits/RACE-Canidor.png",
     "Images/Maps/MAP-TWN-Mirebrook.png",
@@ -203,7 +204,6 @@
     "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Mirebrook.canvas",
     "(DMTools)/Year 127 - The Todek Rebellion/Live Maps",
     "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Todek Rebellion Camp.canvas",
-    "Towns/Mirebrook.md",
     "Images/Tokens/Chief Relgar.png",
     "Trial By Wombat/Images/Tokens/token_6.png",
     "Images/Characters/Chief Relgar.png",
@@ -227,7 +227,6 @@
     "Trial By Wombat/Images/Token Crops/TKN-Syl, the Poison Mistress.png.~tmp",
     "Trial By Wombat/Images/Token Crops/TKN-Lieutenant Dral.png.~tmp",
     "Trial By Wombat/Images/Token Crops/TKN-Gorak The Brute.png.~tmp",
-    "Images/Characters",
     "home.md",
     "Enclaves/Everbreeze.md",
     "The Festival Grounds.md",
