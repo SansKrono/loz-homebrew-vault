@@ -1,0 +1,12 @@
+---
+name: 
+region: 
+population: 
+leader: 
+leadingParty: 
+races: 
+export: 
+craft: 
+militarySize: 
+militaryStrength:
+---

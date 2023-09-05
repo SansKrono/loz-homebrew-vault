@@ -8,4 +8,7 @@ Delving deep into the magical aspects of the caverns, Grotto Grimoires offers sp
 >   - *Earth talismans*
 >   - *Enchanted Quills (Rune Inscribers)*
 
-#shops
+
+
+
+#Shops

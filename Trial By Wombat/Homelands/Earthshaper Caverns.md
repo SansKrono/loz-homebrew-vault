@@ -4,14 +4,15 @@
  
 #### Overview
 
-|                          |                                                                                                                                |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Population**           | 180,000                                                                                                                        |
-| **Leader**               | Chieftain Burrowhart                                                                                                           |
-| **Leading Party**        | Gemstone Guild                                                                                                                 |
+|                          |                                                                                                                    |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| **Population**           | 180,000                                                                                                            |
+| **Region**               | The Amethyst Range                                                                                                 |
+| **Leader**               | Chieftain Burrowhart                                                                                               |
+| **Leading Party**        | Gemstone Guild                                                                                                     |
 | **Common Citizen Races** | - Wombari (majority)<br>- Kangaroon (trade envoys and merchants)<br>- Platypian (scouts and water channel experts) |
-| **Main export**          | Gemstones & ores                                                                                                               |
-| **Craft Specialty**      | Rare-metal weaponry and statues                                                                                                |
+| **Main export**          | Gemstones & ores                                                                                                   |
+| **Craft Specialty**      | Rare-metal weaponry and statues                                                                                    |
 
 
 ## About Earthshaper Caverns

@@ -8,4 +8,7 @@ Using the intense heat from the cavern's molten core, The Deepforge specializes 
 >   - *protective armor sets*
 >   - *geothermal cookware*
 
-#shops
+
+
+
+#Shops

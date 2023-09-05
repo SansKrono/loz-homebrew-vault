@@ -1,8 +1,8 @@
 #homelands
 
-- [[Earthshaper Caverns]]
+- [[Earthshaper Caverns]] - The Amethyst Range
 - [[Echohaven]]
-- [[Echomist Forest]]
+- [[Dawthorn]] - Echomist Forest
 - [[Grasstide]]
 - [[Laughing Peak]]
 - [[Nightleaf]]

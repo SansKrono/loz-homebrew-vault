@@ -21,4 +21,7 @@ With its elegant exterior and tastefully decorated interior, the Pearlshine Bout
 - [[Pearl-Tipped Wand of Water Control]]
 - [[Water Sprites]]
 
-#shops
+
+
+
+#Shops

@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "tag:#shops  ",
+      "query": "tag:#Shops  ",
       "color": {
         "a": 1,
         "rgb": 6073814
@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "tag:#locations  ",
+      "query": "tag:#Notable-Locations  ",
       "color": {
         "a": 1,
         "rgb": 14048429
@@ -81,6 +81,6 @@
   "repelStrength": 15.7612456747405,
   "linkStrength": 1,
   "linkDistance": 238,
-  "scale": 0.12935573671345324,
+  "scale": 0.21473348254544056,
   "close": false
 }

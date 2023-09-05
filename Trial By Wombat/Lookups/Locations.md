@@ -1,4 +1,4 @@
-#locations
+
 
 - [[Azure Depths]]
 - [[Crystalvein Mines]]

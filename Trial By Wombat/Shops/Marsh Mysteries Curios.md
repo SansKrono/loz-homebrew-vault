@@ -8,8 +8,11 @@ Hidden away in a corner of the marsh, the Marsh Mysteries Curios shop is a treas
 >   - *Spirit Totems*
 >   - *Marsh Crystal Pendants*
 
-#shops
+
 
 [[Submerged Relics]]
 [[Spirit Totems]]
 [[Marsh Crystal Pendants]]
+
+
+#Shops

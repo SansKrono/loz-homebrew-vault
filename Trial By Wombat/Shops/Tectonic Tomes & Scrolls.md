@@ -8,4 +8,7 @@ A bookstore and library where one can find texts about geology, earth magics, an
 >   - *Earth Magic spellboks*
 >   - *Ancient Scrolls*
 
-#shops
+
+
+
+#Shops

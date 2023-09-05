@@ -1,4 +1,4 @@
-#shops
+
 
 # Earthshaper Caverns
 

@@ -1,7 +1,7 @@
 {
   "ITS@@select": "pathfinder",
   "ITS@@t-d": false,
-  "ITS@@writing": true,
+  "ITS@@writing": false,
   "ITS@@paper": false,
   "ITS@@writing-document": true,
   "ITS@@drwn": false,
@@ -32,5 +32,7 @@
   "ITS@@background-image-width": 50,
   "ITS@@link-style": "link-notion",
   "ITS@@th@@dark": "#C14343",
-  "ITS@@justified": false
+  "ITS@@justified": false,
+  "ITS@@metadata-title-no-icon": false,
+  "ITS@@metadata-value-background": false
 }

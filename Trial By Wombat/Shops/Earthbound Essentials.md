@@ -8,4 +8,6 @@ A general store that caters to the everyday needs of the cavern's inhabitants, E
 >   - *Torches*
 >   - *Bioluminescent paints*
 
-#shops
+
+
+#Shops

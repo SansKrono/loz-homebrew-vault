@@ -33,14 +33,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMTools/Overview Table.md",
+                "file": "DMTools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d1f4aee04fc35d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Creature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f72921b443fe1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Stats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73ec5df2ca92d924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trial By Wombat/Homelands/Echohaven.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d4299beb3a8a2e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMTools/Overview Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +166,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMTools/Overview Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DMTools/Overview Table.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,14 +205,7 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "d61d93ec1be7a7b7",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "a076e6f684f727fa",
             "type": "leaf",
@@ -181,12 +214,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,50 +231,53 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obisidian-note-linker:Note Linker": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "37f01093d771c24b",
+  "active": "1d4299beb3a8a2e6",
   "lastOpenFiles": [
+    "The Festival Grounds.md",
+    "Trial By Wombat/Items/Tomes/Mountain Wonders - A Guide to Flora & Fauna.md",
+    "Trial By Wombat/Items/Clothing/Radiantplume Cloak.md",
+    "Trial By Wombat/Items/Tools/Mountain's Breath Vase.md",
+    "Trial By Wombat/Lookups/Locations.md",
+    "Trial By Wombat/Notable Locations/Azure Depths.md",
+    "Trial By Wombat/Notable Locations/Crystalvein Mines.md",
+    "Trial By Wombat/Notable Locations/Dragon's Breath Gorge.md",
+    "Trial By Wombat/Notable Locations/Dustshadow Wastes.md",
+    "Trial By Wombat/Notable Locations/Echo's End.md",
+    "Trial By Wombat/Notable Locations/Moonlit Pinnacles.md",
+    "Trial By Wombat/Notable Locations/Ghostwind peak.md",
+    "Trial By Wombat/Notable Locations/Redstone Caverns.md",
+    "Trial By Wombat/Notable Locations/Serpentail River.md",
+    "Trial By Wombat/Notable Locations/Starwhisper Summit.md",
+    "Trial By Wombat/Notable Locations/Twin-Spire Keep.md",
+    "Trial By Wombat/Lookups/Shops.md",
+    "Trial By Wombat/Shops/Aquatic Atrium.md",
+    "Trial By Wombat/Shops/Crystal Core Emporium.md",
+    "Trial By Wombat/Shops/Earthbound Essentials.md",
+    "Trial By Wombat/Shops/Echoic Instruments.md",
+    "Trial By Wombat/Shops/Granite Gourmet.md",
+    "Trial By Wombat/Shops/Grotto Grimoires.md",
+    "Trial By Wombat/Shops/Lanterns of Lumina.md",
+    "Trial By Wombat/Shops/Luminescent Lanterns.md",
+    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
+    "Trial By Wombat/Items/Armour/Shields",
+    "Trial By Wombat/Items/Armour/Leggings",
+    "Trial By Wombat/Items/Armour/Gloves",
+    "Trial By Wombat/Items/Armour/Boots",
+    "Trial By Wombat/Items/Armour/Chestwear",
+    "Trial By Wombat/Items/Armour/Helmets",
+    "Trial By Wombat/Items/Armour",
+    "Generated/Homelands",
+    "Generated",
+    "Templates/Untitled",
     "Untitled.canvas",
-    "DMTools/Overview Table.md",
-    "DMTools/Potential Plot Points.md",
-    "DMTools/Year 127 - The Todek Rebellion/5-The Heart of the Poison/Part - Scene Details.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Blig.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Scorg.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Squig.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Relgar.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Mayor Paddleton.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Dr. Webbly.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Elder Billee.md",
-    "DMTools/Year 127 - The Todek Rebellion/NPCs/Lila Swiftstream.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Characters/Captain Slarn.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Part 3 - Scene Details.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Lieutenant Dral.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Syl, the Poison Mistress.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Gorak the Brute.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixir's Guardian.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Todek Shadowspeaker.md",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
-    "DMTools/Year 127 - The Todek Rebellion/6-Aftermath/Part 6 - Conclusion and decisions.md",
-    "NPCs",
-    "Untitled.md",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests/TTR-3-Assist Elder Billee.md",
-    "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Outcomes/All Outcomes.md",
-    "Trial By Wombat/Homelands/Grasstide.md",
-    "DMTools/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Part 2 - Scene Details.md",
-    "Trial By Wombat/Items/Focuses",
-    "Trial By Wombat/Items/Construction",
-    "Trial By Wombat/Items/Instruments",
-    "Trial By Wombat/Shops",
-    "Shops",
     "DMTools/Year 127 - The Todek Rebellion/Images/Lieutenant Dral.png",
     "DMTools/Year 127 - The Todek Rebellion/Images/Gorak The Brute.png",
-    "DMTools/Year 127 - The Todek Rebellion/Images",
     "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixirs Guardian.png",
-    "DMTools/Year 127 - The Todek Rebellion/5-The Heart of the Poison/Characters",
-    "DMTools/Year 127 - The Todek Rebellion/3- Poisoned Land/Side Quests",
     "Trial By Wombat/Images/Crystalvein Mines.png",
     "Trial By Wombat/Images/Dragon's Breath Gorge.png",
     "Trial By Wombat/Images/Azure Depths.png",

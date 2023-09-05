@@ -1,12 +1,12 @@
 ### Crystal Core Emporium - Earthshaper Caverns
-The Crystal Core Emporium is a store that showcases a vast array of naturally-formed crystals and gemstones, each with their own unique energies and properties. 
+Located in Earthshaper Caverns, the Crystal Core Emporium appears to be a radiant chamber filled with prismatic light. Shelves and tables are adorned with various sizes and shapes of crystals, their colors glistening with an inner fire. Managed by a Wombari sage named Gemwhisker, the store exudes a calm atmosphere, allowing customers to feel at peace as they navigate through rows of earthly treasures.
 
-Specializing in healing crystals, gem-infused water, and crystal jewelry, the emporium is a must-visit for those looking to harness the energy of the earth. The healing crystals are sourced from the deepest caverns, and the gem-infused water is prepared with a special process that imbues it with the crystals' energies.
+[[Resonating Quartz of Restoration]]
 
-> [!infobox|wfull  c-p-med ]
->   # Specialties
->   - *Healing Crystals*
->   - *Gem-infused water*
->   - *Crystal Jewellery*
+[[Aquagem Elixir]]
 
-#shops
+[[Luminous Moonstone Amulet]]
+
+
+
+#Shops

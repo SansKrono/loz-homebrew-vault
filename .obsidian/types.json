@@ -1,0 +1,21 @@
+{
+  "types": {
+    "30": "number",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "CHA": "number",
+    "WIS": "number",
+    "INT": "number",
+    "CON": "number",
+    "DEX": "number",
+    "STR": "number",
+    "FlyingSpeed": "number",
+    "ClimbingSpeed": "number",
+    "SwimmingSpeed": "number",
+    "WalkingSpeed": "number",
+    "HP": "number",
+    "prefix": "multitext",
+    "suffix": "multitext"
+  }
+}

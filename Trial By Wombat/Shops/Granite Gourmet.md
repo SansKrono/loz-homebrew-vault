@@ -8,4 +8,7 @@ This eatery provides dishes using geothermal heat and rare ingredients from the 
 >   - *magma-grilled meals*
 >   - *gem-infused beverages*
 
-#shops
+
+
+
+#Shops
