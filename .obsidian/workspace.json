@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
+                "file": "Races/Koalari.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
+                "file": "Races/Koalari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
+                "file": "Races/Koalari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md"
+                "file": "Races/Koalari.md"
               }
             }
           },
@@ -194,16 +194,24 @@
   },
   "active": "1d4299beb3a8a2e6",
   "lastOpenFiles": [
-    "Towns/Mirebrook.md",
-    "Images",
-    "Images/Race Portraits/RACE-Canidor.png",
+    "Races/Platypian.md",
+    "Races/Kookari.md",
+    "Races/Quokkan.md",
+    "Creatures/Timewalker Reptid.md",
+    "Creatures/Abyssal Koi.md",
+    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Mirebrook.canvas",
+    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Todek Rebellion Camp.canvas",
+    "Images/Maps/Oziria Detailed.png",
     "Images/Maps/MAP-TWN-Mirebrook.png",
     "Images/Maps/MAP-ENC-Everbreeze.png",
     "Images/Maps/MAP-CTY-The Whispering Marshes.png",
+    "Images/Maps/Oziria Worldmap.wonderdraft_map",
+    "(DMTools)/Year 127 - The Todek Rebellion/Enemies/Lowly Todek Goon.md",
+    "Towns/Mirebrook.md",
+    "Images",
+    "Images/Race Portraits/RACE-Canidor.png",
     "Homelands/The Whispering Marshes.md",
-    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Mirebrook.canvas",
     "(DMTools)/Year 127 - The Todek Rebellion/Live Maps",
-    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Todek Rebellion Camp.canvas",
     "Images/Tokens/Chief Relgar.png",
     "Trial By Wombat/Images/Tokens/token_6.png",
     "Images/Characters/Chief Relgar.png",
@@ -218,7 +226,6 @@
     "Images/Tokens/Vorkesh, Todek Leader.png",
     "DMTools/Year 127 - The Todek Rebellion/Canvas Components",
     "Images/Race Portraits/RACE-Petaurii.png",
-    "Images/Race Portraits/RACE-Diprotean.png",
     "Trial By Wombat/Images/Token Crops/TKN-Todek soldier.png.~tmp",
     "Trial By Wombat/Images/Token Crops/TKN-Vorkesh, Todek Leader.png.~tmp",
     "(DMTools)/Year 127 - The Todek Rebellion/3- Poisoned Land/Part 3 - Scene Details.md",
@@ -226,7 +233,6 @@
     "Trial By Wombat/Images/New folder",
     "Trial By Wombat/Images/Token Crops/TKN-Syl, the Poison Mistress.png.~tmp",
     "Trial By Wombat/Images/Token Crops/TKN-Lieutenant Dral.png.~tmp",
-    "Trial By Wombat/Images/Token Crops/TKN-Gorak The Brute.png.~tmp",
     "home.md",
     "Enclaves/Everbreeze.md",
     "The Festival Grounds.md",
@@ -235,11 +241,6 @@
     "(DMTools)/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
     "Templates/Creature.md",
     "Enclaves/Sunbridge 🚧.md",
-    "Shops/Ripples' Rest Tavern.md",
-    "Shops/Aquatic Atrium.md",
-    "Shops/Marsh Mysteries Curios.md",
-    "Shops/Song of the Depths.md",
-    "Shops/Wayfinder's Waterscape.md",
-    "Shops/Pearlshine Boutique.md"
+    "Shops/Ripples' Rest Tavern.md"
   ]
 }
