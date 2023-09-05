@@ -8,70 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49a22134cebbc596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trial By Wombat/Lookups/Creatures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7eced4889350389",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "37f01093d771c24b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DMTools/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1f4aee04fc35d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Creature.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f72921b443fe1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Stats.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73ec5df2ca92d924",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Trial By Wombat/Homelands/Echohaven.md",
-                "mode": "source",
-                "source": false
+                "file": "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Mirebrook.canvas",
+                "viewState": {
+                  "x": -109.5,
+                  "y": -199.5,
+                  "zoom": -1.0473943231571712
+                }
               }
             }
           },
@@ -79,12 +26,16 @@
             "id": "1d4299beb3a8a2e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Towns/Mirebrook.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slarn",
+                "query": "prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Towns/Mirebrook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Towns/Mirebrook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Towns/Mirebrook.md"
+              }
             }
           },
           {
@@ -219,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,52 +194,53 @@
   },
   "active": "4486aa36936c2321",
   "lastOpenFiles": [
+    "Images",
+    "Images/Race Portraits/RACE-Canidor.png",
+    "Images/Maps/MAP-TWN-Mirebrook.png",
+    "Images/Maps/MAP-ENC-Everbreeze.png",
+    "Images/Maps/MAP-CTY-The Whispering Marshes.png",
+    "Homelands/The Whispering Marshes.md",
+    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Mirebrook.canvas",
+    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps",
+    "(DMTools)/Year 127 - The Todek Rebellion/Live Maps/LIVE-MAP-Todek Rebellion Camp.canvas",
+    "Towns/Mirebrook.md",
+    "Images/Tokens/Chief Relgar.png",
+    "Trial By Wombat/Images/Tokens/token_6.png",
+    "Images/Characters/Chief Relgar.png",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Canvas-Gorak The Brute.md",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Canvas-Todek Soldier.md",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Canvas-Syl, The poison Mistress.md",
+    "Templates/Canvas Component.md",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Untitled.md",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Canvas-Lieutenant Dral.md",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components/Canvas-Vorkesh.md",
+    "Homelands/Echohaven.md",
+    "Images/Tokens/Vorkesh, Todek Leader.png",
+    "DMTools/Year 127 - The Todek Rebellion/Canvas Components",
+    "Images/Race Portraits/RACE-Petaurii.png",
+    "Images/Race Portraits/RACE-Diprotean.png",
+    "Trial By Wombat/Images/Token Crops/TKN-Todek soldier.png.~tmp",
+    "Trial By Wombat/Images/Token Crops/TKN-Vorkesh, Todek Leader.png.~tmp",
+    "(DMTools)/Year 127 - The Todek Rebellion/3- Poisoned Land/Part 3 - Scene Details.md",
+    "Images/Tokens",
+    "Trial By Wombat/Images/New folder",
+    "Trial By Wombat/Images/Token Crops/TKN-Syl, the Poison Mistress.png.~tmp",
+    "Trial By Wombat/Images/Token Crops/TKN-Lieutenant Dral.png.~tmp",
+    "Trial By Wombat/Images/Token Crops/TKN-Gorak The Brute.png.~tmp",
+    "Images/Characters",
+    "home.md",
+    "Enclaves/Everbreeze.md",
     "The Festival Grounds.md",
-    "Trial By Wombat/Items/Tomes/Mountain Wonders - A Guide to Flora & Fauna.md",
-    "Trial By Wombat/Items/Clothing/Radiantplume Cloak.md",
-    "Trial By Wombat/Items/Tools/Mountain's Breath Vase.md",
-    "Trial By Wombat/Lookups/Locations.md",
-    "Trial By Wombat/Notable Locations/Azure Depths.md",
-    "Trial By Wombat/Notable Locations/Crystalvein Mines.md",
-    "Trial By Wombat/Notable Locations/Dragon's Breath Gorge.md",
-    "Trial By Wombat/Notable Locations/Dustshadow Wastes.md",
-    "Trial By Wombat/Notable Locations/Echo's End.md",
-    "Trial By Wombat/Notable Locations/Moonlit Pinnacles.md",
-    "Trial By Wombat/Notable Locations/Ghostwind peak.md",
-    "Trial By Wombat/Notable Locations/Redstone Caverns.md",
-    "Trial By Wombat/Notable Locations/Serpentail River.md",
-    "Trial By Wombat/Notable Locations/Starwhisper Summit.md",
-    "Trial By Wombat/Notable Locations/Twin-Spire Keep.md",
-    "Trial By Wombat/Lookups/Shops.md",
-    "Trial By Wombat/Shops/Aquatic Atrium.md",
-    "Trial By Wombat/Shops/Crystal Core Emporium.md",
-    "Trial By Wombat/Shops/Earthbound Essentials.md",
-    "Trial By Wombat/Shops/Echoic Instruments.md",
-    "Trial By Wombat/Shops/Granite Gourmet.md",
-    "Trial By Wombat/Shops/Grotto Grimoires.md",
-    "Trial By Wombat/Shops/Lanterns of Lumina.md",
-    "Trial By Wombat/Shops/Luminescent Lanterns.md",
-    "Trial By Wombat/Shops/Marsh Mysteries Curios.md",
-    "Trial By Wombat/Items/Shields",
-    "Trial By Wombat/Items/Leggings",
-    "Trial By Wombat/Items/Gloves",
-    "Trial By Wombat/Items/Boots",
-    "Trial By Wombat/Items/Chestwear",
-    "Trial By Wombat/Items/Helmets",
-    "Trial By Wombat/Items/Armour",
-    "Generated/Homelands",
-    "Generated",
-    "Templates/Untitled",
-    "Untitled.canvas",
-    "DMTools/Year 127 - The Todek Rebellion/Images/Lieutenant Dral.png",
-    "DMTools/Year 127 - The Todek Rebellion/Images/Gorak The Brute.png",
-    "DMTools/Year 127 - The Todek Rebellion/Enemies/The Elixirs Guardian.png",
-    "Trial By Wombat/Images/Crystalvein Mines.png",
-    "Trial By Wombat/Images/Dragon's Breath Gorge.png",
-    "Trial By Wombat/Images/Azure Depths.png",
-    "Trial By Wombat/Images/Echidnaris.png",
-    "Trial By Wombat/Images/Thornar.png",
-    "Trial By Wombat/Images/Moonlit Pinnacles.png",
-    "Trial By Wombat/Images/Tasmanianites.png"
+    "(DMTools)/Year 127 - The Todek Rebellion/2-Rise of the Charismatic Leader/Part 2 - Scene Details.md",
+    "Lookups/Creatures.md",
+    "(DMTools)/Year 127 - The Todek Rebellion/4. Secrets of the Todek/Part 4 - Scene Details.md",
+    "Templates/Creature.md",
+    "Enclaves/Sunbridge 🚧.md",
+    "Shops/Ripples' Rest Tavern.md",
+    "Shops/Aquatic Atrium.md",
+    "Shops/Marsh Mysteries Curios.md",
+    "Shops/Song of the Depths.md",
+    "Shops/Wayfinder's Waterscape.md",
+    "Shops/Pearlshine Boutique.md"
   ]
 }

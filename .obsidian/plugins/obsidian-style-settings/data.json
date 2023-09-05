@@ -1,7 +1,7 @@
 {
   "ITS@@select": "pathfinder",
   "ITS@@t-d": false,
-  "ITS@@writing": false,
+  "ITS@@writing": true,
   "ITS@@paper": false,
   "ITS@@writing-document": true,
   "ITS@@drwn": false,

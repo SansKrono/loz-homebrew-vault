@@ -1,0 +1,32 @@
+.canvas-node-container:has(.canvasimage) {
+    background-color: transparent; 
+    background: none;
+    box-shadow: none;
+    border: none;
+}
+
+.canvas-node:has(.canvasimage) .canvas-node-label {
+    display: none;
+}
+
+.canvas {
+    position: relative;
+}
+.canvas::before {
+    --image-scale: 25%; 
+    --background-scale: 500%;
+    content: "";
+    width: var(--background-scale);
+    height: var(--background-scale);
+    background: url("https://i.imgur.com/DtGQ9Em.jpg");
+    position: absolute;
+    top: calc(-1 * var(--background-scale)/2 + 50%);
+    left: calc(-1 * var(--background-scale)/2 + 50%);
+    background-size: var(--image-scale);
+}
+
+.canvas-node:not(.is-themed) .canvas-node-container {
+    background-color: transparent; 
+     border: 2px solid transparent;
+ } 
+
