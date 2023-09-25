@@ -7,7 +7,7 @@ Anglers and mystics from other races may also seek the Abyssal Koi for their rum
 _Small beast, neutral_
 
 **Armor Class**: 13 (natural armor)  
-**Hit Points**: 18 (4d6 + 4)  
+**Hit Points**: `dice: 4d6+4` (4d6+4)
 **Speed**: Swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -27,7 +27,7 @@ _Small beast, neutral_
 
 ### Actions
 
-**Nipping Bite**: _Melee Weapon Attack_: +4 to hit, reach 5 ft., one target. _Hit_: 4 (1d4 + 2) piercing damage.
+**Nipping Bite**: _Melee Weapon Attack_: +4 to hit, reach 5 ft., one target. _Hit_: `dice: 1d4+2` (1d4 + 2) piercing damage.
 
 #creatures 
 
